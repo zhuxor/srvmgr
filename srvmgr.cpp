@@ -266,7 +266,8 @@ pri_skip:
 
 unsigned int _stdcall respawn_update_exp_cpp(unsigned int exp)
 {
-	return static_cast<unsigned int>(exp * Config::RespawnExpMult2);
+	exp = 0;
+		return static_cast<unsigned int>(exp);
 	//		return static_cast<unsigned int>(exp * (exp_full / exp_death));
 }
 
@@ -283,17 +284,13 @@ void _declspec(naked) player_respawned()
 
 unsigned int _stdcall death_update_exp_cpp(unsigned int exp)
 {
-	return static_cast<unsigned int>(exp * Config::DeathExpMult);
+	exp = 0;
+	return static_cast<unsigned int>(exp);
 	// return static_cast<unsigned int>(exp * exp_death);
 }
 
-unsigned int _stdcall _double_to_int32(double val)
-{
-	return static_cast<unsigned int>(val);
-}
-
 void _declspec(naked) death_update_exp(void *unit)
-{		//st(0) = exp_Multiplier
+{
 	__asm
 	{
 		push	ebp
@@ -308,16 +305,8 @@ due_cycle:	cmp	dword ptr [ebp-4], 6
 		mov	edx, dword ptr [ebp+8] // unit
 		mov	ecx, dword ptr [ebp-4] // i
 		mov	eax, [edx + ecx*4 + 0x23C]
-
-		push	0
 		push	eax
-		fild	[esp]
-		fmul	st,st(1)
-		fstp	qword ptr [esp]
-		call	_double_to_int32
-		//push	eax
-		//call	death_update_exp_cpp
-
+		call	death_update_exp_cpp
 		mov	edx, dword ptr [ebp+8] // unit
 		mov	ecx, dword ptr [ebp-4] // i
 		mov	[edx + ecx*4 + 0x23C], eax
@@ -326,7 +315,6 @@ due_cycle:	cmp	dword ptr [ebp-4], 6
 		inc	dword ptr [ebp-4]
 		jmp	due_cycle
 due_cycle_ex:	
-		
 		mov	esp, ebp
 		pop	ebp
 		ret	4
@@ -337,10 +325,8 @@ void _declspec(naked) player_died()
 { // 00556A56
 	__asm
 	{
-		fld	Config::DeathExpMult
 		push	[ebp - 0x18]
 		call	death_update_exp
-		fstp	st
 		mov	edx, 0x556A5D
 		jmp	edx
 	}
@@ -350,10 +336,8 @@ void _declspec(naked) player_killed()
 { // 00557005
 	__asm
 	{
-		fld	Config::KilledExpMult
 		push	[ebp - 0x18]
 		call	death_update_exp
-		fstp	st
 		mov	edx, 0x55700C
 		jmp	edx
 	}
@@ -363,10 +347,8 @@ void _declspec(naked) player_pkilled()
 { // 00556BE6
 	__asm
 	{
-		fld	Config::PKExpMult
 		push	[ebp - 0x18]
 		call	death_update_exp
-		fstp	st
 		mov	edx, 0x556BED
 		jmp	edx
 	}

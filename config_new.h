@@ -43,11 +43,6 @@ namespace Config
 	extern std::string ControlDirectory;
 
 	extern bool ExitingCleanly;
-
-    extern double DeathExpMult;
-    extern double KilledExpMult;
-    extern double PKExpMult;
-    extern double RespawnExpMult2;
 }
 
 int ReadConfig(const char* filename);

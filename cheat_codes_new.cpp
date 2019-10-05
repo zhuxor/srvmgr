@@ -619,8 +619,8 @@ void RunCommand(byte* _this, byte* player, const char* ccommand, uint32_t rights
 				goto ex;			
 			}
 
-			int32_t count_x = 51;
-			int32_t count_y = 51;
+			uint32_t count_x = 51;
+			uint32_t count_y = 51;
 
 			int32_t start_x = p_x - 25;
 			int32_t start_y = p_y - 25;
