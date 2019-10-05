@@ -140,6 +140,12 @@ namespace Config
     uint32_t MaxPlayers = 16;
 
 	bool ExitingCleanly = false;
+
+    double DeathExpMult		= 1;
+    double KilledExpMult	= 1;
+    double PKExpMult		= 1;
+    double RespawnExpMult2	= 0.9;
+
 }
 
 int ReadConfig(const char* filename)
@@ -422,6 +428,36 @@ int ReadConfig(const char* filename)
                     if(val < 0) val = 0;
                     Config::MaxPaletteAllowed = val;
                 }
+
+                else if(parameter == "deathexpmult")
+                {
+                    float val = StrToFloat(value);
+                    if(val < 0) val = 0;
+                    if(val > 1) val = 1;
+                    Config::DeathExpMult = val;
+                }
+                else if(parameter == "respawnexpmult2")
+                {
+                    float val = StrToFloat(value);
+                    if(val < 0) val = 0;
+                    if(val > 1) val = 1;
+                    Config::RespawnExpMult2 = val;
+                }
+                else if(parameter == "killedexpmult")
+                {
+                    float val = StrToFloat(value);
+                    if(val < 0) val = 0;
+                    if(val > 1) val = 1;
+                    Config::KilledExpMult = val;
+                }
+                else if(parameter == "pkexpmult")
+                {
+                    float val = StrToFloat(value);
+                    if(val < 0) val = 0;
+                    if(val > 1) val = 1;
+                    Config::PKExpMult = val;
+                }
+
                 else if(parameter == "servercaps")
                 {
                     value = Trim(ToLower(value));

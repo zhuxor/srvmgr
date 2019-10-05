@@ -19,3 +19,6 @@ postbuild/patches/log.txt
 srvmgr.suo
 postbuild/release
 *.user
+*.opensdf
+*.sdf
+*.old
