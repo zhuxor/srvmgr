@@ -84,10 +84,10 @@
 0 58 51946B /// bug fix 0x0051946B
 //0 59 54D700 /// skip health potions
 0 60 53A5CB /// heal enemies
-//0 61 531278 /// death/respawn exp formulas
-0 62 556A56 /// death/respawn exp formulas
-0 63 557005 /// death/respawn exp formulas
-//0 64 556BE6 /// death/respawn exp formulas
+//0 61 531278 /// death/respawn exp formulas // player_respawned 
+0 62 556A56 /// death/respawn exp formulas // player_died 
+0 63 557005 /// death/respawn exp formulas // player_killed 
+//0 64 556BE6 /// death/respawn exp formulas // player_pkilled 
 0 65 50721C /// chat log
 0 66 5081DC /// dip change log
 0 67 5B56EF /// auto war log
