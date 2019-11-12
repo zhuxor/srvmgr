@@ -129,6 +129,9 @@
     <ClCompile Include="python.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="spell_duration_fix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="charcheck.h">

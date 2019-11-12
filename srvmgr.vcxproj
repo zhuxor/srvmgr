@@ -92,6 +92,7 @@
     <ClCompile Include="scanrange.cpp" />
     <ClCompile Include="scanrange_check.cpp" />
     <ClCompile Include="shared.cpp" />
+    <ClCompile Include="spell_duration_fix.cpp" />
     <ClCompile Include="srvmgr.cpp" />
     <ClCompile Include="srvmgr_new.cpp" />
     <ClCompile Include="unit_info.cpp" />
