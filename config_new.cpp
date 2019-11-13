@@ -474,7 +474,6 @@ int ReadConfig(const char* filename)
                 else if(parameter == ToLower("WarriorMaleMaxBody"))
                 {
                     if(!CheckInt(value)) return lnid;
-					__asm{ mov eax, 0x12345678 }
 					Config::WarriorMaleMaxParameters.Body = ReadIntegerParameter(value,15,200);
                 }
                 else if(parameter == ToLower("WarriorMaleMaxReaction"))
