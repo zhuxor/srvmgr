@@ -4003,7 +4003,7 @@
 			<defence>0</defence>
 			<absorbtion>0</absorbtion>
 			<range>-1</range>
-			<charge>10</charge>
+			<charge>9</charge>
 			<relax>4</relax>
 			<twoHanded>2</twoHanded>
 			<suitableFor>1</suitableFor>
@@ -4307,7 +4307,7 @@
 			<defence>0</defence>
 			<absorbtion>0</absorbtion>
 			<range>-1</range>
-			<charge>10</charge>
+			<charge>9</charge>
 			<relax>4</relax>
 			<twoHanded>2</twoHanded>
 			<suitableFor>1</suitableFor>
@@ -4663,7 +4663,7 @@
 			<defence>0</defence>
 			<absorbtion>0</absorbtion>
 			<range>-1</range>
-			<charge>10</charge>
+			<charge>9</charge>
 			<relax>4</relax>
 			<twoHanded>2</twoHanded>
 			<suitableFor>1</suitableFor>
@@ -5011,13 +5011,13 @@
 		</item>
 		<item>
 			<name>Scroll Fire Ball</name>
-			<price>3000</price>
+			<price>7000</price>
 			<weight>1</weight>
 			<effect>castSpell=Fire_Ball:50</effect>
 		</item>
 		<item>
 			<name>Scroll Fire Wall</name>
-			<price>50000</price>
+			<price>100000</price>
 			<weight>1</weight>
 			<effect>castSpell=Wall_of_Fire:50</effect>
 		</item>
@@ -5035,13 +5035,13 @@
 		</item>
 		<item>
 			<name>Scroll Poison Cloud</name>
-			<price>50000</price>
+			<price>100000</price>
 			<weight>1</weight>
 			<effect>castSpell=Poison_Cloud:50</effect>
 		</item>
 		<item>
 			<name>Scroll Blizzard</name>
-			<price>150000</price>
+			<price>200000</price>
 			<weight>1</weight>
 			<effect>castSpell=Blizzard:50</effect>
 		</item>
@@ -5131,13 +5131,13 @@
 		</item>
 		<item>
 			<name>Scroll Control Spirit</name>
-			<price>1000000</price>
+			<price>3000000</price>
 			<weight>1</weight>
 			<effect>castSpell=Control_Spirit:50</effect>
 		</item>
 		<item>
 			<name>Scroll Teleport</name>
-			<price>100000</price>
+			<price>500000</price>
 			<weight>1</weight>
 			<effect>castSpell=Teleport:25</effect>
 		</item>
@@ -5149,7 +5149,7 @@
 		</item>
 		<item>
 			<name>Scroll Summon</name>
-			<price>500000</price>
+			<price>1000000</price>
 			<weight>1</weight>
 			<effect>castSpell=Summon:50</effect>
 		</item>
@@ -5185,13 +5185,13 @@
 		</item>
 		<item>
 			<name>SuperScroll Fire Ball</name>
-			<price>30000</price>
+			<price>70000</price>
 			<weight>1</weight>
 			<effect>castSpell=Fire_Ball:100</effect>
 		</item>
 		<item>
 			<name>SuperScroll Fire Wall</name>
-			<price>300000</price>
+			<price>500000</price>
 			<weight>1</weight>
 			<effect>castSpell=Wall_of_Fire:100</effect>
 		</item>
@@ -5209,13 +5209,13 @@
 		</item>
 		<item>
 			<name>SuperScroll Poison Cloud</name>
-			<price>300000</price>
+			<price>500000</price>
 			<weight>1</weight>
 			<effect>castSpell=Poison_Cloud:100</effect>
 		</item>
 		<item>
 			<name>SuperScroll Blizzard</name>
-			<price>1500000</price>
+			<price>2000000</price>
 			<weight>1</weight>
 			<effect>castSpell=Blizzard:100</effect>
 		</item>
@@ -5293,25 +5293,25 @@
 		</item>
 		<item>
 			<name>SuperScroll Bless</name>
-			<price>100000</price>
+			<price>1000000</price>
 			<weight>1</weight>
 			<effect>castSpell=Bless:100</effect>
 		</item>
 		<item>
 			<name>SuperScroll Haste</name>
-			<price>100000</price>
+			<price>300000</price>
 			<weight>1</weight>
 			<effect>castSpell=Haste:100</effect>
 		</item>
 		<item>
 			<name>SuperScroll Control Spirit</name>
-			<price>1500000</price>
+			<price>5000000</price>
 			<weight>1</weight>
 			<effect>castSpell=Control_Spirit:100</effect>
 		</item>
 		<item>
 			<name>SuperScroll Teleport</name>
-			<price>750000</price>
+			<price>1500000</price>
 			<weight>1</weight>
 			<effect>castSpell=Teleport:40</effect>
 		</item>
@@ -5323,7 +5323,7 @@
 		</item>
 		<item>
 			<name>SuperScroll Summon</name>
-			<price>1500000</price>
+			<price>3000000</price>
 			<weight>1</weight>
 			<effect>castSpell=Summon:100</effect>
 		</item>
@@ -5335,7 +5335,7 @@
 		</item>
 		<item>
 			<name>SuperScroll Shield</name>
-			<price>200000</price>
+			<price>500000</price>
 			<weight>1</weight>
 			<effect>castSpell=Shield:100</effect>
 		</item>
@@ -5383,39 +5383,39 @@
 		</item>
 		<item>
 			<name>Potion Health Regeneration</name>
-			<price>100</price>
+			<price>1000</price>
 			<weight>1</weight>
 			<effect>healthRegeneration=100: duration 60</effect>
 		</item>
 		<item>
 			<name>Potion Medium Healing</name>
-			<price>1000</price>
+			<price>300</price>
 			<weight>3</weight>
-			<effect>health=+10</effect>
+			<effect>health=+1</effect>
 		</item>
 		<item>
 			<name>Potion Big Healing</name>
-			<price>10000</price>
-			<weight>5</weight>
-			<effect>health=+30</effect>
+			<price>150</price>
+			<weight>6</weight>
+			<effect>health=+1</effect>
 		</item>
 		<item>
 			<name>Potion Mana Regeneration</name>
-			<price>100</price>
+			<price>1000</price>
 			<weight>1</weight>
 			<effect>manaRegeneration=100: duration 60</effect>
 		</item>
 		<item>
 			<name>Potion Medium Mana</name>
-			<price>1000</price>
+			<price>100</price>
 			<weight>2</weight>
-			<effect>mana=+15</effect>
+			<effect>mana=+1</effect>
 		</item>
 		<item>
 			<name>Potion Big Mana</name>
-			<price>10000</price>
-			<weight>3</weight>
-			<effect>mana=+50</effect>
+			<price>200</price>
+			<weight>4</weight>
+			<effect>mana=+2</effect>
 		</item>
 		<item>
 			<name>Potion Fighter Bonus</name>
@@ -45118,7 +45118,7 @@
 			<empty>0</empty>
 			<name>Wall of Fire</name>
 			<level>20</level>
-			<manaCost>30</manaCost>
+			<manaCost>100</manaCost>
 			<sphere>1</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45199,8 +45199,8 @@
 			<empty>0</empty>
 			<name>Poison Cloud</name>
 			<level>20</level>
-			<manaCost>30</manaCost>
-			<sphere>2</sphere>
+			<manaCost>90</manaCost>
+			<sphere>4</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
 			<deliverySystem>1</deliverySystem>
@@ -45226,7 +45226,7 @@
 			<empty>0</empty>
 			<name>Blizzard</name>
 			<level>20</level>
-			<manaCost>100</manaCost>
+			<manaCost>300</manaCost>
 			<sphere>2</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45361,7 +45361,7 @@
 			<empty>0</empty>
 			<name>Invisibility</name>
 			<level>25</level>
-			<manaCost>100</manaCost>
+			<manaCost>200</manaCost>
 			<sphere>3</sphere>
 			<item>0</item>
 			<spellTarget>1</spellTarget>
@@ -45496,7 +45496,7 @@
 			<empty>0</empty>
 			<name>Wall of Earth</name>
 			<level>20</level>
-			<manaCost>15</manaCost>
+			<manaCost>100</manaCost>
 			<sphere>4</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45536,7 +45536,7 @@
 			<areaDuration>0</areaDuration>
 			<areaFrequency>0</areaFrequency>
 			<unitApplyMethod>2</unitApplyMethod>
-			<duration>10</duration>
+			<duration>1</duration>
 			<frequency>0</frequency>
 			<damageMin>-1</damageMin>
 			<damageMax>-1</damageMax>
@@ -45544,7 +45544,7 @@
 			<skillOffset>0</skillOffset>
 			<scrollCost>10000</scrollCost>
 			<bookCost>999000000</bookCost>
-			<effect>&quot;absorbtion=+5:duration 8,defence=-20:duration 8&quot;</effect>
+			<effect>&quot;absorbtion=+5:duration 1,defence=-20:duration 1&quot;</effect>
 		</item>
 		<item>
 			<empty>0</empty>
@@ -45631,7 +45631,7 @@
 			<empty>0</empty>
 			<name>Control Spirit</name>
 			<level>20</level>
-			<manaCost>30</manaCost>
+			<manaCost>300</manaCost>
 			<sphere>5</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45651,14 +45651,14 @@
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>2500</scrollCost>
-			<bookCost>75000000</bookCost>
+			<bookCost>499000000</bookCost>
 			<effect></effect>
 		</item>
 		<item>
 			<empty>0</empty>
 			<name>Teleport</name>
 			<level>20</level>
-			<manaCost>60</manaCost>
+			<manaCost>300</manaCost>
 			<sphere>5</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45712,7 +45712,7 @@
 			<empty>0</empty>
 			<name>Summon</name>
 			<level>20</level>
-			<manaCost>100</manaCost>
+			<manaCost>300</manaCost>
 			<sphere>5</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45732,7 +45732,7 @@
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>2000</scrollCost>
-			<bookCost>3000000</bookCost>
+			<bookCost>75000000</bookCost>
 			<effect></effect>
 		</item>
 		<item>
