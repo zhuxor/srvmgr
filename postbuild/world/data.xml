@@ -45536,7 +45536,7 @@
 			<areaDuration>0</areaDuration>
 			<areaFrequency>0</areaFrequency>
 			<unitApplyMethod>2</unitApplyMethod>
-			<duration>1</duration>
+			<duration>10</duration>
 			<frequency>0</frequency>
 			<damageMin>-1</damageMin>
 			<damageMax>-1</damageMax>
@@ -45544,7 +45544,7 @@
 			<skillOffset>0</skillOffset>
 			<scrollCost>10000</scrollCost>
 			<bookCost>999000000</bookCost>
-			<effect>&quot;absorbtion=+5:duration 1,defence=-20:duration 1&quot;</effect>
+			<effect>&quot;absorbtion=+5:duration 8,defence=-20:duration 8&quot;</effect>
 		</item>
 		<item>
 			<empty>0</empty>
