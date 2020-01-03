@@ -4003,7 +4003,7 @@
 			<defence>0</defence>
 			<absorbtion>0</absorbtion>
 			<range>-1</range>
-			<charge>9</charge>
+			<charge>8</charge>
 			<relax>4</relax>
 			<twoHanded>2</twoHanded>
 			<suitableFor>1</suitableFor>
@@ -4307,7 +4307,7 @@
 			<defence>0</defence>
 			<absorbtion>0</absorbtion>
 			<range>-1</range>
-			<charge>9</charge>
+			<charge>8</charge>
 			<relax>4</relax>
 			<twoHanded>2</twoHanded>
 			<suitableFor>1</suitableFor>
@@ -4663,7 +4663,7 @@
 			<defence>0</defence>
 			<absorbtion>0</absorbtion>
 			<range>-1</range>
-			<charge>9</charge>
+			<charge>8</charge>
 			<relax>4</relax>
 			<twoHanded>2</twoHanded>
 			<suitableFor>1</suitableFor>
@@ -5389,14 +5389,14 @@
 		</item>
 		<item>
 			<name>Potion Medium Healing</name>
-			<price>300</price>
-			<weight>3</weight>
+			<price>150</price>
+			<weight>1</weight>
 			<effect>health=+1</effect>
 		</item>
 		<item>
 			<name>Potion Big Healing</name>
-			<price>150</price>
-			<weight>6</weight>
+			<price>100</price>
+			<weight>2</weight>
 			<effect>health=+1</effect>
 		</item>
 		<item>
@@ -5407,15 +5407,15 @@
 		</item>
 		<item>
 			<name>Potion Medium Mana</name>
-			<price>100</price>
-			<weight>2</weight>
+			<price>150</price>
+			<weight>1</weight>
 			<effect>mana=+1</effect>
 		</item>
 		<item>
 			<name>Potion Big Mana</name>
-			<price>200</price>
-			<weight>4</weight>
-			<effect>mana=+2</effect>
+			<price>100</price>
+			<weight>2</weight>
+			<effect>mana=+1</effect>
 		</item>
 		<item>
 			<name>Potion Fighter Bonus</name>
@@ -45069,7 +45069,7 @@
 			<item>0</item>
 			<spellTarget>1</spellTarget>
 			<deliverySystem>2</deliverySystem>
-			<maxRange>7</maxRange>
+			<maxRange>6</maxRange>
 			<effectSpeed>200</effectSpeed>
 			<distribution>1</distribution>
 			<radius>0</radius>
@@ -45106,8 +45106,8 @@
 			<unitApplyMethod>1</unitApplyMethod>
 			<duration>0</duration>
 			<frequency>0</frequency>
-			<damageMin>7</damageMin>
-			<damageMax>13</damageMax>
+			<damageMin>9</damageMin>
+			<damageMax>15</damageMax>
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>70</scrollCost>
@@ -45177,7 +45177,7 @@
 			<item>0</item>
 			<spellTarget>1</spellTarget>
 			<deliverySystem>2</deliverySystem>
-			<maxRange>7</maxRange>
+			<maxRange>6</maxRange>
 			<effectSpeed>200</effectSpeed>
 			<distribution>1</distribution>
 			<radius>0</radius>
@@ -45312,7 +45312,7 @@
 			<item>0</item>
 			<spellTarget>1</spellTarget>
 			<deliverySystem>2</deliverySystem>
-			<maxRange>7</maxRange>
+			<maxRange>6</maxRange>
 			<effectSpeed>60</effectSpeed>
 			<distribution>1</distribution>
 			<radius>0</radius>
@@ -45361,7 +45361,7 @@
 			<empty>0</empty>
 			<name>Invisibility</name>
 			<level>25</level>
-			<manaCost>200</manaCost>
+			<manaCost>250</manaCost>
 			<sphere>3</sphere>
 			<item>0</item>
 			<spellTarget>1</spellTarget>
@@ -45474,7 +45474,7 @@
 			<item>0</item>
 			<spellTarget>1</spellTarget>
 			<deliverySystem>2</deliverySystem>
-			<maxRange>7</maxRange>
+			<maxRange>6</maxRange>
 			<effectSpeed>200</effectSpeed>
 			<distribution>1</distribution>
 			<radius>0</radius>
@@ -45496,7 +45496,7 @@
 			<empty>0</empty>
 			<name>Wall of Earth</name>
 			<level>20</level>
-			<manaCost>100</manaCost>
+			<manaCost>45</manaCost>
 			<sphere>4</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45744,7 +45744,7 @@
 			<item>0</item>
 			<spellTarget>1</spellTarget>
 			<deliverySystem>1</deliverySystem>
-			<maxRange>7</maxRange>
+			<maxRange>6</maxRange>
 			<effectSpeed>0</effectSpeed>
 			<distribution>1</distribution>
 			<radius>0</radius>
