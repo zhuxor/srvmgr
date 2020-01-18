@@ -10364,7 +10364,7 @@
 			<charge>10</charge>
 			<relax>4</relax>
 			<protectionFire>30</protectionFire>
-			<protectionWater>50</protectionWater>
+			<protectionWater>30</protectionWater>
 			<protectionAir>30</protectionAir>
 			<protectionEarth>60</protectionEarth>
 			<protectionAstral>30</protectionAstral>
@@ -10439,9 +10439,9 @@
 			<charge>10</charge>
 			<relax>4</relax>
 			<protectionFire>30</protectionFire>
-			<protectionWater>65</protectionWater>
+			<protectionWater>30</protectionWater>
 			<protectionAir>30</protectionAir>
-			<protectionEarth>60</protectionEarth>
+			<protectionEarth>65</protectionEarth>
 			<protectionAstral>30</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
@@ -10514,9 +10514,9 @@
 			<charge>10</charge>
 			<relax>4</relax>
 			<protectionFire>50</protectionFire>
-			<protectionWater>75</protectionWater>
+			<protectionWater>50</protectionWater>
 			<protectionAir>50</protectionAir>
-			<protectionEarth>60</protectionEarth>
+			<protectionEarth>75</protectionEarth>
 			<protectionAstral>30</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
@@ -10592,9 +10592,9 @@
 			<charge>10</charge>
 			<relax>4</relax>
 			<protectionFire>65</protectionFire>
-			<protectionWater>85</protectionWater>
+			<protectionWater>65</protectionWater>
 			<protectionAir>65</protectionAir>
-			<protectionEarth>65</protectionEarth>
+			<protectionEarth>85</protectionEarth>
 			<protectionAstral>50</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
@@ -10672,9 +10672,9 @@
 			<charge>10</charge>
 			<relax>4</relax>
 			<protectionFire>65</protectionFire>
-			<protectionWater>85</protectionWater>
+			<protectionWater>65</protectionWater>
 			<protectionAir>65</protectionAir>
-			<protectionEarth>65</protectionEarth>
+			<protectionEarth>85</protectionEarth>
 			<protectionAstral>50</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
