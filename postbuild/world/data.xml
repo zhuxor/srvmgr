@@ -5293,13 +5293,13 @@
 		</item>
 		<item>
 			<name>SuperScroll Bless</name>
-			<price>500000</price>
+			<price>750000</price>
 			<weight>1</weight>
 			<effect>castSpell=Bless:100</effect>
 		</item>
 		<item>
 			<name>SuperScroll Haste</name>
-			<price>300000</price>
+			<price>450000</price>
 			<weight>1</weight>
 			<effect>castSpell=Haste:100</effect>
 		</item>
@@ -45590,7 +45590,7 @@
 			<areaDuration>0</areaDuration>
 			<areaFrequency>0</areaFrequency>
 			<unitApplyMethod>2</unitApplyMethod>
-			<duration>10</duration>
+			<duration>20</duration>
 			<frequency>0</frequency>
 			<damageMin>-1</damageMin>
 			<damageMax>-1</damageMax>
@@ -45617,7 +45617,7 @@
 			<areaDuration>0</areaDuration>
 			<areaFrequency>0</areaFrequency>
 			<unitApplyMethod>2</unitApplyMethod>
-			<duration>10</duration>
+			<duration>20</duration>
 			<frequency>0</frequency>
 			<damageMin>-1</damageMin>
 			<damageMax>-1</damageMax>
