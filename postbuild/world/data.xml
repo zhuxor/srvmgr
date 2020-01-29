@@ -3999,11 +3999,11 @@
 			<attackType>1</attackType>
 			<physicalMin>41</physicalMin>
 			<physicalMax>82</physicalMax>
-			<toHit>3</toHit>
+			<toHit>0</toHit>
 			<defence>0</defence>
 			<absorbtion>0</absorbtion>
 			<range>-1</range>
-			<charge>8</charge>
+			<charge>6</charge>
 			<relax>4</relax>
 			<twoHanded>2</twoHanded>
 			<suitableFor>1</suitableFor>
@@ -4307,7 +4307,7 @@
 			<defence>0</defence>
 			<absorbtion>0</absorbtion>
 			<range>-1</range>
-			<charge>8</charge>
+			<charge>6</charge>
 			<relax>4</relax>
 			<twoHanded>2</twoHanded>
 			<suitableFor>1</suitableFor>
@@ -4463,7 +4463,7 @@
 			<defence>6</defence>
 			<absorbtion>0</absorbtion>
 			<range>-1</range>
-			<charge>6</charge>
+			<charge>7</charge>
 			<relax>4</relax>
 			<twoHanded>-1</twoHanded>
 			<suitableFor>1</suitableFor>
@@ -4523,7 +4523,7 @@
 			<defence>10</defence>
 			<absorbtion>0</absorbtion>
 			<range>-1</range>
-			<charge>6</charge>
+			<charge>7</charge>
 			<relax>4</relax>
 			<twoHanded>-1</twoHanded>
 			<suitableFor>1</suitableFor>
@@ -4567,7 +4567,7 @@
 			<defence>10</defence>
 			<absorbtion>0</absorbtion>
 			<range>-1</range>
-			<charge>6</charge>
+			<charge>7</charge>
 			<relax>4</relax>
 			<twoHanded>-1</twoHanded>
 			<suitableFor>1</suitableFor>
@@ -4663,7 +4663,7 @@
 			<defence>0</defence>
 			<absorbtion>0</absorbtion>
 			<range>-1</range>
-			<charge>8</charge>
+			<charge>6</charge>
 			<relax>4</relax>
 			<twoHanded>2</twoHanded>
 			<suitableFor>1</suitableFor>
@@ -5131,15 +5131,15 @@
 		</item>
 		<item>
 			<name>Scroll Control Spirit</name>
-			<price>2500000</price>
+			<price>1500000</price>
 			<weight>1</weight>
 			<effect>castSpell=Control_Spirit:50</effect>
 		</item>
 		<item>
 			<name>Scroll Teleport</name>
-			<price>3000000</price>
+			<price>50000</price>
 			<weight>1</weight>
-			<effect>castSpell=Teleport:25</effect>
+			<effect>castSpell=Teleport:6</effect>
 		</item>
 		<item>
 			<name>Scroll Heal</name>
@@ -5305,15 +5305,15 @@
 		</item>
 		<item>
 			<name>SuperScroll Control Spirit</name>
-			<price>5000000</price>
+			<price>3000000</price>
 			<weight>1</weight>
 			<effect>castSpell=Control_Spirit:100</effect>
 		</item>
 		<item>
 			<name>SuperScroll Teleport</name>
-			<price>6000000</price>
+			<price>500000</price>
 			<weight>1</weight>
-			<effect>castSpell=Teleport:40</effect>
+			<effect>castSpell=Teleport:15</effect>
 		</item>
 		<item>
 			<name>SuperScroll Heal</name>
@@ -5323,7 +5323,7 @@
 		</item>
 		<item>
 			<name>SuperScroll Summon</name>
-			<price>3000000</price>
+			<price>2000000</price>
 			<weight>1</weight>
 			<effect>castSpell=Summon:100</effect>
 		</item>
@@ -45091,7 +45091,7 @@
 			<empty>0</empty>
 			<name>Fire Ball</name>
 			<level>10</level>
-			<manaCost>30</manaCost>
+			<manaCost>40</manaCost>
 			<sphere>1</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45118,7 +45118,7 @@
 			<empty>0</empty>
 			<name>Wall of Fire</name>
 			<level>20</level>
-			<manaCost>60</manaCost>
+			<manaCost>90</manaCost>
 			<sphere>1</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45199,7 +45199,7 @@
 			<empty>0</empty>
 			<name>Poison Cloud</name>
 			<level>20</level>
-			<manaCost>60</manaCost>
+			<manaCost>90</manaCost>
 			<sphere>2</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45226,7 +45226,7 @@
 			<empty>0</empty>
 			<name>Blizzard</name>
 			<level>20</level>
-			<manaCost>180</manaCost>
+			<manaCost>240</manaCost>
 			<sphere>4</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45334,7 +45334,7 @@
 			<empty>0</empty>
 			<name>Prismatic Spray</name>
 			<level>20</level>
-			<manaCost>70</manaCost>
+			<manaCost>60</manaCost>
 			<sphere>3</sphere>
 			<item>0</item>
 			<spellTarget>1</spellTarget>
@@ -45658,7 +45658,7 @@
 			<empty>0</empty>
 			<name>Teleport</name>
 			<level>20</level>
-			<manaCost>180</manaCost>
+			<manaCost>360</manaCost>
 			<sphere>5</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45732,7 +45732,7 @@
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>2000</scrollCost>
-			<bookCost>75000000</bookCost>
+			<bookCost>25000000</bookCost>
 			<effect></effect>
 		</item>
 		<item>
