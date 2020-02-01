@@ -5139,7 +5139,7 @@
 			<name>Scroll Teleport</name>
 			<price>50000</price>
 			<weight>1</weight>
-			<effect>castSpell=Teleport:6</effect>
+			<effect>castSpell=Teleport:24</effect>
 		</item>
 		<item>
 			<name>Scroll Heal</name>
@@ -5313,7 +5313,7 @@
 			<name>SuperScroll Teleport</name>
 			<price>500000</price>
 			<weight>1</weight>
-			<effect>castSpell=Teleport:15</effect>
+			<effect>castSpell=Teleport:60</effect>
 		</item>
 		<item>
 			<name>SuperScroll Heal</name>
@@ -7202,7 +7202,7 @@
 			<spellProbability2>-1</spellProbability2>
 			<spell3></spell3>
 			<spellProbability3>-1</spellProbability3>
-			<spellPower>30</spellPower>
+			<spellPower>120</spellPower>
 			<serverId>611</serverId>
 			<knownSpellsAreEmpty>1</knownSpellsAreEmpty>
 			<skillFire>-1</skillFire>
@@ -7270,7 +7270,7 @@
 			<spellProbability2>-1</spellProbability2>
 			<spell3></spell3>
 			<spellProbability3>-1</spellProbability3>
-			<spellPower>100</spellPower>
+			<spellPower>120</spellPower>
 			<serverId>803</serverId>
 			<knownSpellsAreEmpty>1</knownSpellsAreEmpty>
 			<skillFire>-1</skillFire>
@@ -8222,7 +8222,7 @@
 			<spellProbability2>-1</spellProbability2>
 			<spell3></spell3>
 			<spellProbability3>-1</spellProbability3>
-			<spellPower>30</spellPower>
+			<spellPower>120</spellPower>
 			<serverId>623</serverId>
 			<knownSpellsAreEmpty>1</knownSpellsAreEmpty>
 			<skillFire>-1</skillFire>
@@ -8290,7 +8290,7 @@
 			<spellProbability2>-1</spellProbability2>
 			<spell3></spell3>
 			<spellProbability3>-1</spellProbability3>
-			<spellPower>100</spellPower>
+			<spellPower>255</spellPower>
 			<serverId>806</serverId>
 			<knownSpellsAreEmpty>1</knownSpellsAreEmpty>
 			<skillFire>-1</skillFire>
@@ -19103,7 +19103,7 @@
 			<spellProbability2>10</spellProbability2>
 			<spell3>Stone Curse</spell3>
 			<spellProbability3>5</spellProbability3>
-			<spellPower>100</spellPower>
+			<spellPower>120</spellPower>
 			<serverId>2377</serverId>
 			<knownSpellsAreEmpty>1</knownSpellsAreEmpty>
 			<skillFire>-1</skillFire>
@@ -45663,7 +45663,7 @@
 			<item>0</item>
 			<spellTarget>2</spellTarget>
 			<deliverySystem>1</deliverySystem>
-			<maxRange>1</maxRange>
+			<maxRange>3073</maxRange>
 			<effectSpeed>0</effectSpeed>
 			<distribution>1</distribution>
 			<radius>0</radius>
