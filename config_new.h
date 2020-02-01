@@ -60,9 +60,6 @@ namespace Config
 	extern MainCharacterParameters MageMaleMaxParameters;
 	extern MainCharacterParameters MageFemaleMaxParameters;
 
-	extern uint32_t MinQuestReward;
-	extern uint32_t MaxQuestReward;
-
 }
 
 int ReadConfig(const char* filename);
