@@ -1040,7 +1040,7 @@
 			<in_MageNotUsed2>0</in_MageNotUsed2>
 			<in_MageNotUsed3>0</in_MageNotUsed3>
 			<in_MageRing>275</in_MageRing>
-			<in_MageAmulet>254</in_MageAmulet>
+			<in_MageAmulet>255</in_MageAmulet>
 			<in_MageHat>245</in_MageHat>
 			<in_MageRobe>145</in_MageRobe>
 			<in_MageCloak>145</in_MageCloak>
@@ -1071,7 +1071,7 @@
 			<in_MageNotUsed2>0</in_MageNotUsed2>
 			<in_MageNotUsed3>0</in_MageNotUsed3>
 			<in_MageRing>275</in_MageRing>
-			<in_MageAmulet>254</in_MageAmulet>
+			<in_MageAmulet>255</in_MageAmulet>
 			<in_MageHat>245</in_MageHat>
 			<in_MageRobe>145</in_MageRobe>
 			<in_MageCloak>145</in_MageCloak>
@@ -1154,10 +1154,10 @@
 			<in_WarriorRing>305</in_WarriorRing>
 			<in_WarriorAmulet>305</in_WarriorAmulet>
 			<in_WarriorHelm>355</in_WarriorHelm>
-			<in_WarriorMail>254</in_WarriorMail>
-			<in_WarriorCuirass>254</in_WarriorCuirass>
-			<in_WarriorBracers>254</in_WarriorBracers>
-			<in_WarriorGauntlets>254</in_WarriorGauntlets>
+			<in_WarriorMail>255</in_WarriorMail>
+			<in_WarriorCuirass>255</in_WarriorCuirass>
+			<in_WarriorBracers>255</in_WarriorBracers>
+			<in_WarriorGauntlets>255</in_WarriorGauntlets>
 			<in_WarriorNotUsed11>0</in_WarriorNotUsed11>
 			<in_WarriorBoots>455</in_WarriorBoots>
 			<in_MageWeapon>0</in_MageWeapon>
@@ -1289,7 +1289,7 @@
 			<in_MageNotUsed3>0</in_MageNotUsed3>
 			<in_MageRing>335</in_MageRing>
 			<in_MageAmulet>315</in_MageAmulet>
-			<in_MageHat>254</in_MageHat>
+			<in_MageHat>255</in_MageHat>
 			<in_MageRobe>155</in_MageRobe>
 			<in_MageCloak>155</in_MageCloak>
 			<in_MageNotUsed9>0</in_MageNotUsed9>
@@ -7503,7 +7503,7 @@
 			<physicalMax>49</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>325</toHit>
-			<defence>254</defence>
+			<defence>255</defence>
 			<absorbtion>12</absorbtion>
 			<charge>21</charge>
 			<relax>7</relax>
