@@ -1801,7 +1801,7 @@
 			<name>Ring</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>50</price>
+			<price>500</price>
 			<weight>3</weight>
 			<slot>4</slot>
 			<attackType>-1</attackType>
@@ -1869,7 +1869,7 @@
 			<name>Amulet</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>100</price>
+			<price>1000</price>
 			<weight>5</weight>
 			<slot>5</slot>
 			<attackType>-1</attackType>
@@ -1949,7 +1949,7 @@
 			<name>Hat</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>1600</price>
+			<price>3200</price>
 			<weight>25</weight>
 			<slot>6</slot>
 			<attackType>-1</attackType>
@@ -2409,7 +2409,7 @@
 			<name>Cape</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>1200</price>
+			<price>2400</price>
 			<weight>40</weight>
 			<slot>8</slot>
 			<attackType>-1</attackType>
@@ -2493,7 +2493,7 @@
 			<name>Dress</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>2000</price>
+			<price>4000</price>
 			<weight>60</weight>
 			<slot>7</slot>
 			<attackType>-1</attackType>
@@ -2965,7 +2965,7 @@
 			<name>Gloves</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>800</price>
+			<price>1600</price>
 			<weight>5</weight>
 			<slot>10</slot>
 			<attackType>-1</attackType>
@@ -3149,7 +3149,7 @@
 			<name>Shoes</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>1000</price>
+			<price>2000</price>
 			<weight>15</weight>
 			<slot>12</slot>
 			<attackType>-1</attackType>
@@ -3993,7 +3993,7 @@
 			<name>Two Handed Sword</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>800</price>
+			<price>700</price>
 			<weight>40</weight>
 			<slot>1</slot>
 			<attackType>1</attackType>
@@ -4297,7 +4297,7 @@
 			<name>War Hammer</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>800</price>
+			<price>700</price>
 			<weight>70</weight>
 			<slot>1</slot>
 			<attackType>3</attackType>
@@ -4653,7 +4653,7 @@
 			<name>Two Handed Axe</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>900</price>
+			<price>780</price>
 			<weight>60</weight>
 			<slot>1</slot>
 			<attackType>2</attackType>
