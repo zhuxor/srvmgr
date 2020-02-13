@@ -120,10 +120,10 @@
 0 95 4F0BEF /// first connection to hat
 0 96 4FE2D0 /// close map
 //0 97 5ADB16 /// prismatic spray from building
-0 98 549C34 /// shop crash #1
-0 99 53D3E3 /// shop crash #2
-0 100 54749F /// shop crash #3
-0 101 544E46 /// shop crash #4
+//0 98 549C34 /// shop crash #1
+//0 99 53D3E3 /// shop crash #2
+//0 100 54749F /// shop crash #3
+//0 101 544E46 /// shop crash #4
 0 102 494F84 /// <server>: chat
 0 103 535B4A /// create playerInfo struct
 0 104 535439 /// delete playerInfo struct
