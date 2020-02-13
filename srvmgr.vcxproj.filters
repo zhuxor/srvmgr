@@ -129,10 +129,10 @@
     <ClCompile Include="python.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-	<ClCompile Include="multiplayer_shop.cpp">
+    <ClCompile Include="spell_duration_fix.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="spell_duration_fix.cpp">
+    <ClCompile Include="multiplayer_shop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -218,7 +218,7 @@
     <ClInclude Include="python.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-	<ClInclude Include="multiplayer_shop.h">
+    <ClInclude Include="multiplayer_shop.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

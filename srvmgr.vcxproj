@@ -84,6 +84,7 @@
     <ClCompile Include="File.cpp" />
     <ClCompile Include="forbidden_items.cpp" />
     <ClCompile Include="itemex.cpp" />
+    <ClCompile Include="multiplayer_shop.cpp" />
     <ClCompile Include="pktmgr.cpp" />
     <ClCompile Include="player_info.cpp" />
     <ClCompile Include="protolayer_hat.cpp" />
@@ -117,6 +118,7 @@
     <ClInclude Include="File.h" />
     <ClInclude Include="forbidden_items.h" />
     <ClInclude Include="itemex.h" />
+    <ClInclude Include="multiplayer_shop.h" />
     <ClInclude Include="pktmgr.h" />
     <ClInclude Include="player_info.h" />
     <ClInclude Include="protolayer_hat.h" />
