@@ -1801,7 +1801,7 @@
 			<name>Ring</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>500</price>
+			<price>250</price>
 			<weight>3</weight>
 			<slot>4</slot>
 			<attackType>-1</attackType>
@@ -1869,7 +1869,7 @@
 			<name>Amulet</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>1000</price>
+			<price>500</price>
 			<weight>5</weight>
 			<slot>5</slot>
 			<attackType>-1</attackType>
