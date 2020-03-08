@@ -5101,7 +5101,7 @@
 		</item>
 		<item>
 			<name>Scroll Wall of Earth</name>
-			<price>250000</price>
+			<price>500000</price>
 			<weight>1</weight>
 			<effect>castSpell=Wall_of_Earth:50</effect>
 		</item>
@@ -5275,7 +5275,7 @@
 		</item>
 		<item>
 			<name>SuperScroll Wall of Earth</name>
-			<price>1000000</price>
+			<price>1500000</price>
 			<weight>1</weight>
 			<effect>castSpell=Wall_of_Earth:99</effect>
 		</item>
@@ -6590,7 +6590,7 @@
 			<spellProbability2>-1</spellProbability2>
 			<spell3></spell3>
 			<spellProbability3>-1</spellProbability3>
-			<spellPower>100</spellPower>
+			<spellPower>255</spellPower>
 			<serverId>801</serverId>
 			<knownSpellsAreEmpty>1</knownSpellsAreEmpty>
 			<skillFire>-1</skillFire>
@@ -7220,7 +7220,7 @@
 			<reaction>64</reaction>
 			<mind>58</mind>
 			<spirit>52</spirit>
-			<healthMax>4915</healthMax>
+			<healthMax>3333</healthMax>
 			<healthRegeneration>73</healthRegeneration>
 			<manaMax>0</manaMax>
 			<manaRegeneration>0</manaRegeneration>
@@ -7560,7 +7560,7 @@
 			<reaction>64</reaction>
 			<mind>58</mind>
 			<spirit>52</spirit>
-			<healthMax>3686</healthMax>
+			<healthMax>2555</healthMax>
 			<healthRegeneration>73</healthRegeneration>
 			<manaMax>0</manaMax>
 			<manaRegeneration>0</manaRegeneration>
@@ -7900,7 +7900,7 @@
 			<reaction>58</reaction>
 			<mind>52</mind>
 			<spirit>58</spirit>
-			<healthMax>12288</healthMax>
+			<healthMax>4444</healthMax>
 			<healthRegeneration>109</healthRegeneration>
 			<manaMax>0</manaMax>
 			<manaRegeneration>0</manaRegeneration>
@@ -7908,17 +7908,17 @@
 			<rotationSpeed>18</rotationSpeed>
 			<scanRange>7</scanRange>
 			<physicalMin>164</physicalMin>
-			<physicalMax>492</physicalMax>
+			<physicalMax>320</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>450</toHit>
 			<defence>310</defence>
 			<absorbtion>22</absorbtion>
 			<charge>12</charge>
 			<relax>6</relax>
-			<protectionFire>60</protectionFire>
-			<protectionWater>30</protectionWater>
-			<protectionAir>60</protectionAir>
-			<protectionEarth>30</protectionEarth>
+			<protectionFire>80</protectionFire>
+			<protectionWater>50</protectionWater>
+			<protectionAir>30</protectionAir>
+			<protectionEarth>80</protectionEarth>
 			<protectionAstral>30</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
@@ -8240,7 +8240,7 @@
 			<reaction>52</reaction>
 			<mind>50</mind>
 			<spirit>64</spirit>
-			<healthMax>18432</healthMax>
+			<healthMax>5555</healthMax>
 			<healthRegeneration>73</healthRegeneration>
 			<manaMax>0</manaMax>
 			<manaRegeneration>0</manaRegeneration>
@@ -8248,17 +8248,17 @@
 			<rotationSpeed>11</rotationSpeed>
 			<scanRange>6</scanRange>
 			<physicalMin>123</physicalMin>
-			<physicalMax>369</physicalMax>
+			<physicalMax>246</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>430</toHit>
 			<defence>330</defence>
 			<absorbtion>39</absorbtion>
 			<charge>10</charge>
 			<relax>6</relax>
-			<protectionFire>30</protectionFire>
-			<protectionWater>60</protectionWater>
+			<protectionFire>70</protectionFire>
+			<protectionWater>50</protectionWater>
 			<protectionAir>30</protectionAir>
-			<protectionEarth>60</protectionEarth>
+			<protectionEarth>80</protectionEarth>
 			<protectionAstral>30</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
@@ -8290,7 +8290,7 @@
 			<spellProbability2>-1</spellProbability2>
 			<spell3></spell3>
 			<spellProbability3>-1</spellProbability3>
-			<spellPower>254</spellPower>
+			<spellPower>255</spellPower>
 			<serverId>806</serverId>
 			<knownSpellsAreEmpty>1</knownSpellsAreEmpty>
 			<skillFire>-1</skillFire>
@@ -8970,7 +8970,7 @@
 			<spellProbability2>-1</spellProbability2>
 			<spell3></spell3>
 			<spellProbability3>-1</spellProbability3>
-			<spellPower>254</spellPower>
+			<spellPower>255</spellPower>
 			<serverId>808</serverId>
 			<knownSpellsAreEmpty>1</knownSpellsAreEmpty>
 			<skillFire>-1</skillFire>
@@ -9650,7 +9650,7 @@
 			<spellProbability2>-1</spellProbability2>
 			<spell3></spell3>
 			<spellProbability3>-1</spellProbability3>
-			<spellPower>254</spellPower>
+			<spellPower>255</spellPower>
 			<serverId>810</serverId>
 			<knownSpellsAreEmpty>1</knownSpellsAreEmpty>
 			<skillFire>-1</skillFire>
@@ -10330,7 +10330,7 @@
 			<spellProbability2>-1</spellProbability2>
 			<spell3></spell3>
 			<spellProbability3>-1</spellProbability3>
-			<spellPower>254</spellPower>
+			<spellPower>255</spellPower>
 			<serverId>812</serverId>
 			<knownSpellsAreEmpty>1</knownSpellsAreEmpty>
 			<skillFire>-1</skillFire>
@@ -10656,7 +10656,7 @@
 			<reaction>110</reaction>
 			<mind>127</mind>
 			<spirit>110</spirit>
-			<healthMax>15360</healthMax>
+			<healthMax>5555</healthMax>
 			<healthRegeneration>87</healthRegeneration>
 			<manaMax>15000</manaMax>
 			<manaRegeneration>109</manaRegeneration>
@@ -10674,7 +10674,7 @@
 			<protectionFire>65</protectionFire>
 			<protectionWater>65</protectionWater>
 			<protectionAir>65</protectionAir>
-			<protectionEarth>85</protectionEarth>
+			<protectionEarth>92</protectionEarth>
 			<protectionAstral>50</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
@@ -10689,7 +10689,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>8</seeInvisible>
-			<experience>3562794</experience>
+			<experience>2666666</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>3087000</treasureGoldMin>
 			<treasureGoldMax>5413734</treasureGoldMax>
@@ -11466,7 +11466,7 @@
 			<reaction>70</reaction>
 			<mind>46</mind>
 			<spirit>52</spirit>
-			<healthMax>6144</healthMax>
+			<healthMax>4444</healthMax>
 			<healthRegeneration>73</healthRegeneration>
 			<manaMax>0</manaMax>
 			<manaRegeneration>0</manaRegeneration>
@@ -12078,7 +12078,7 @@
 			<reaction>81</reaction>
 			<mind>46</mind>
 			<spirit>52</spirit>
-			<healthMax>4915</healthMax>
+			<healthMax>3777</healthMax>
 			<healthRegeneration>73</healthRegeneration>
 			<manaMax>0</manaMax>
 			<manaRegeneration>0</manaRegeneration>
@@ -16888,7 +16888,7 @@
 			<reaction>98</reaction>
 			<mind>116</mind>
 			<spirit>98</spirit>
-			<healthMax>6144</healthMax>
+			<healthMax>4444</healthMax>
 			<healthRegeneration>73</healthRegeneration>
 			<manaMax>15000</manaMax>
 			<manaRegeneration>109</manaRegeneration>
@@ -16906,7 +16906,7 @@
 			<protectionFire>0</protectionFire>
 			<protectionWater>0</protectionWater>
 			<protectionAir>0</protectionAir>
-			<protectionEarth>0</protectionEarth>
+			<protectionEarth>70</protectionEarth>
 			<protectionAstral>30</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
@@ -16921,7 +16921,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>137</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>1604666</experience>
+			<experience>1444444</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>617400</treasureGoldMin>
 			<treasureGoldMax>812060</treasureGoldMax>
@@ -19071,7 +19071,7 @@
 			<protectionFire>50</protectionFire>
 			<protectionWater>50</protectionWater>
 			<protectionAir>50</protectionAir>
-			<protectionEarth>100</protectionEarth>
+			<protectionEarth>85</protectionEarth>
 			<protectionAstral>60</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
@@ -19121,7 +19121,7 @@
 			<reaction>56</reaction>
 			<mind>150</mind>
 			<spirit>130</spirit>
-			<healthMax>20000</healthMax>
+			<healthMax>6666</healthMax>
 			<healthRegeneration>50</healthRegeneration>
 			<manaMax>20000</manaMax>
 			<manaRegeneration>50</manaRegeneration>
@@ -19129,17 +19129,17 @@
 			<rotationSpeed>18</rotationSpeed>
 			<scanRange>9</scanRange>
 			<physicalMin>164</physicalMin>
-			<physicalMax>492</physicalMax>
+			<physicalMax>302</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>470</toHit>
 			<defence>333</defence>
 			<absorbtion>43</absorbtion>
 			<charge>12</charge>
 			<relax>6</relax>
-			<protectionFire>66</protectionFire>
-			<protectionWater>66</protectionWater>
+			<protectionFire>94</protectionFire>
+			<protectionWater>75</protectionWater>
 			<protectionAir>66</protectionAir>
-			<protectionEarth>100</protectionEarth>
+			<protectionEarth>90</protectionEarth>
 			<protectionAstral>70</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
@@ -19154,7 +19154,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>4900000</experience>
+			<experience>2123456</experience>
 			<treasureGold>95</treasureGold>
 			<treasureGoldMin>1000000</treasureGoldMin>
 			<treasureGoldMax>2000000</treasureGoldMax>
@@ -45496,7 +45496,7 @@
 			<empty>0</empty>
 			<name>Wall of Earth</name>
 			<level>20</level>
-			<manaCost>60</manaCost>
+			<manaCost>250</manaCost>
 			<sphere>4</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45506,7 +45506,7 @@
 			<distribution>4</distribution>
 			<radius>2</radius>
 			<areaAffect>0</areaAffect>
-			<areaDuration>10</areaDuration>
+			<areaDuration>1</areaDuration>
 			<areaFrequency>0</areaFrequency>
 			<unitApplyMethod>1</unitApplyMethod>
 			<duration>0</duration>
