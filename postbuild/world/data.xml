@@ -10657,7 +10657,7 @@
 			<mind>127</mind>
 			<spirit>110</spirit>
 			<healthMax>5555</healthMax>
-			<healthRegeneration>87</healthRegeneration>
+			<healthRegeneration>360</healthRegeneration>
 			<manaMax>15000</manaMax>
 			<manaRegeneration>109</manaRegeneration>
 			<speed>27</speed>
@@ -16889,7 +16889,7 @@
 			<mind>116</mind>
 			<spirit>98</spirit>
 			<healthMax>4444</healthMax>
-			<healthRegeneration>73</healthRegeneration>
+			<healthRegeneration>360</healthRegeneration>
 			<manaMax>15000</manaMax>
 			<manaRegeneration>109</manaRegeneration>
 			<speed>23</speed>
