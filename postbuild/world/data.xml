@@ -5167,7 +5167,7 @@
 		</item>
 		<item>
 			<name>Scroll Curse</name>
-			<price>10000</price>
+			<price>5000</price>
 			<weight>1</weight>
 			<effect>castSpell=Curse:50</effect>
 		</item>
