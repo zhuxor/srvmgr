@@ -5121,7 +5121,7 @@
 			<name>Scroll Bless</name>
 			<price>5000</price>
 			<weight>1</weight>
-			<effect>castSpell=Bless:50</effect>
+			<effect>castSpell=Bless:75</effect>
 		</item>
 		<item>
 			<name>Scroll Haste</name>
@@ -5169,7 +5169,7 @@
 			<name>Scroll Curse</name>
 			<price>5000</price>
 			<weight>1</weight>
-			<effect>castSpell=Curse:50</effect>
+			<effect>castSpell=Curse:75</effect>
 		</item>
 		<item>
 			<name>Scroll Slow</name>
