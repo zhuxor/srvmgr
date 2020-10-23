@@ -5397,7 +5397,7 @@
 			<name>Potion Big Healing</name>
 			<price>300</price>
 			<weight>2</weight>
-			<effect>health=+3</effect>
+			<effect>health=+2</effect>
 		</item>
 		<item>
 			<name>Potion Mana Regeneration</name>
@@ -5415,7 +5415,7 @@
 			<name>Potion Big Mana</name>
 			<price>1000</price>
 			<weight>2</weight>
-			<effect>mana=+3</effect>
+			<effect>mana=+2</effect>
 		</item>
 		<item>
 			<name>Potion Fighter Bonus</name>
@@ -7094,7 +7094,7 @@
 			<physicalMin>20</physicalMin>
 			<physicalMax>41</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>190</toHit>
+			<toHit>195</toHit>
 			<defence>190</defence>
 			<absorbtion>7</absorbtion>
 			<charge>11</charge>
@@ -7162,7 +7162,7 @@
 			<physicalMin>33</physicalMin>
 			<physicalMax>66</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>260</toHit>
+			<toHit>265</toHit>
 			<defence>260</defence>
 			<absorbtion>12</absorbtion>
 			<charge>11</charge>
@@ -7434,7 +7434,7 @@
 			<physicalMin>15</physicalMin>
 			<physicalMax>31</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>215</toHit>
+			<toHit>220</toHit>
 			<defence>185</defence>
 			<absorbtion>7</absorbtion>
 			<charge>21</charge>
@@ -7502,7 +7502,7 @@
 			<physicalMin>25</physicalMin>
 			<physicalMax>49</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>275</toHit>
+			<toHit>280</toHit>
 			<defence>255</defence>
 			<absorbtion>12</absorbtion>
 			<charge>21</charge>
@@ -7774,7 +7774,7 @@
 			<physicalMin>51</physicalMin>
 			<physicalMax>102</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>200</toHit>
+			<toHit>205</toHit>
 			<defence>210</defence>
 			<absorbtion>14</absorbtion>
 			<charge>12</charge>
@@ -7842,7 +7842,7 @@
 			<physicalMin>82</physicalMin>
 			<physicalMax>164</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>250</toHit>
+			<toHit>255</toHit>
 			<defence>280</defence>
 			<absorbtion>22</absorbtion>
 			<charge>12</charge>
@@ -8114,7 +8114,7 @@
 			<physicalMin>38</physicalMin>
 			<physicalMax>77</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>210</toHit>
+			<toHit>215</toHit>
 			<defence>240</defence>
 			<absorbtion>25</absorbtion>
 			<charge>10</charge>
@@ -8182,7 +8182,7 @@
 			<physicalMin>61</physicalMin>
 			<physicalMax>123</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>260</toHit>
+			<toHit>265</toHit>
 			<defence>310</defence>
 			<absorbtion>39</absorbtion>
 			<charge>10</charge>
@@ -10223,7 +10223,7 @@
 			<physicalMax>49</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>300</toHit>
-			<defence>290</defence>
+			<defence>230</defence>
 			<absorbtion>18</absorbtion>
 			<charge>8</charge>
 			<relax>4</relax>
@@ -11340,7 +11340,7 @@
 			<physicalMin>15</physicalMin>
 			<physicalMax>31</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>200</toHit>
+			<toHit>220</toHit>
 			<defence>200</defence>
 			<absorbtion>12</absorbtion>
 			<charge>8</charge>
@@ -11612,7 +11612,7 @@
 			<physicalMin>8</physicalMin>
 			<physicalMax>16</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>135</toHit>
+			<toHit>200</toHit>
 			<defence>120</defence>
 			<absorbtion>7</absorbtion>
 			<charge>8</charge>
@@ -11680,7 +11680,7 @@
 			<physicalMin>13</physicalMin>
 			<physicalMax>26</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>225</toHit>
+			<toHit>240</toHit>
 			<defence>190</defence>
 			<absorbtion>12</absorbtion>
 			<charge>8</charge>
@@ -11952,7 +11952,7 @@
 			<physicalMin>20</physicalMin>
 			<physicalMax>41</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>185</toHit>
+			<toHit>200</toHit>
 			<defence>185</defence>
 			<absorbtion>7</absorbtion>
 			<charge>8</charge>
@@ -12020,7 +12020,7 @@
 			<physicalMin>33</physicalMin>
 			<physicalMax>66</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>254</toHit>
+			<toHit>265</toHit>
 			<defence>254</defence>
 			<absorbtion>12</absorbtion>
 			<charge>8</charge>
@@ -12292,7 +12292,7 @@
 			<physicalMin>15</physicalMin>
 			<physicalMax>31</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>210</toHit>
+			<toHit>220</toHit>
 			<defence>180</defence>
 			<absorbtion>7</absorbtion>
 			<charge>20</charge>
@@ -12360,7 +12360,7 @@
 			<physicalMin>25</physicalMin>
 			<physicalMax>49</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>270</toHit>
+			<toHit>280</toHit>
 			<defence>250</defence>
 			<absorbtion>12</absorbtion>
 			<charge>20</charge>
@@ -16898,7 +16898,7 @@
 			<attackType>-1</attackType>
 			<toHit>420</toHit>
 			<defence>285</defence>
-			<absorbtion>15</absorbtion>
+			<absorbtion>1</absorbtion>
 			<charge>6</charge>
 			<relax>10</relax>
 			<protectionFire>20</protectionFire>
@@ -18993,7 +18993,7 @@
 			<physicalMin>62</physicalMin>
 			<physicalMax>105</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>230</toHit>
+			<toHit>235</toHit>
 			<defence>240</defence>
 			<absorbtion>22</absorbtion>
 			<charge>12</charge>
@@ -19061,7 +19061,7 @@
 			<physicalMin>82</physicalMin>
 			<physicalMax>164</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>260</toHit>
+			<toHit>265</toHit>
 			<defence>310</defence>
 			<absorbtion>39</absorbtion>
 			<charge>12</charge>
@@ -45697,8 +45697,8 @@
 			<unitApplyMethod>1</unitApplyMethod>
 			<duration>0</duration>
 			<frequency>0</frequency>
-			<damageMin>8</damageMin>
-			<damageMax>16</damageMax>
+			<damageMin>6</damageMin>
+			<damageMax>12</damageMax>
 			<defensive>1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>10</scrollCost>
