@@ -45093,7 +45093,7 @@
 			<item>0</item>
 			<spellTarget>2</spellTarget>
 			<deliverySystem>2</deliverySystem>
-			<maxRange>6</maxRange>
+			<maxRange>7</maxRange>
 			<effectSpeed>384</effectSpeed>
 			<distribution>3</distribution>
 			<radius>1</radius>
@@ -45103,8 +45103,8 @@
 			<unitApplyMethod>1</unitApplyMethod>
 			<duration>0</duration>
 			<frequency>0</frequency>
-			<damageMin>9</damageMin>
-			<damageMax>15</damageMax>
+			<damageMin>8</damageMin>
+			<damageMax>14</damageMax>
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>70</scrollCost>
@@ -45120,7 +45120,7 @@
 			<item>0</item>
 			<spellTarget>2</spellTarget>
 			<deliverySystem>1</deliverySystem>
-			<maxRange>4</maxRange>
+			<maxRange>3</maxRange>
 			<effectSpeed>0</effectSpeed>
 			<distribution>4</distribution>
 			<radius>2</radius>
@@ -45309,7 +45309,7 @@
 			<item>0</item>
 			<spellTarget>1</spellTarget>
 			<deliverySystem>2</deliverySystem>
-			<maxRange>6</maxRange>
+			<maxRange>9</maxRange>
 			<effectSpeed>60</effectSpeed>
 			<distribution>1</distribution>
 			<radius>0</radius>
@@ -45320,7 +45320,7 @@
 			<duration>0</duration>
 			<frequency>0</frequency>
 			<damageMin>1</damageMin>
-			<damageMax>14</damageMax>
+			<damageMax>9</damageMax>
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>50</scrollCost>
@@ -45336,7 +45336,7 @@
 			<item>0</item>
 			<spellTarget>1</spellTarget>
 			<deliverySystem>2</deliverySystem>
-			<maxRange>6</maxRange>
+			<maxRange>7</maxRange>
 			<effectSpeed>60</effectSpeed>
 			<distribution>1</distribution>
 			<radius>0</radius>
@@ -45471,7 +45471,7 @@
 			<item>0</item>
 			<spellTarget>1</spellTarget>
 			<deliverySystem>2</deliverySystem>
-			<maxRange>6</maxRange>
+			<maxRange>7</maxRange>
 			<effectSpeed>200</effectSpeed>
 			<distribution>1</distribution>
 			<radius>0</radius>
@@ -45481,8 +45481,8 @@
 			<unitApplyMethod>1</unitApplyMethod>
 			<duration>0</duration>
 			<frequency>0</frequency>
-			<damageMin>5</damageMin>
-			<damageMax>10</damageMax>
+			<damageMin>4</damageMin>
+			<damageMax>9</damageMax>
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>50</scrollCost>
