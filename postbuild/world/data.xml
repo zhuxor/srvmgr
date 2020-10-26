@@ -10366,7 +10366,7 @@
 			<protectionFire>30</protectionFire>
 			<protectionWater>25</protectionWater>
 			<protectionAir>30</protectionAir>
-			<protectionEarth>60</protectionEarth>
+			<protectionEarth>75</protectionEarth>
 			<protectionAstral>30</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
@@ -10441,7 +10441,7 @@
 			<protectionFire>40</protectionFire>
 			<protectionWater>30</protectionWater>
 			<protectionAir>40</protectionAir>
-			<protectionEarth>65</protectionEarth>
+			<protectionEarth>80</protectionEarth>
 			<protectionAstral>40</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
@@ -10516,7 +10516,7 @@
 			<protectionFire>50</protectionFire>
 			<protectionWater>35</protectionWater>
 			<protectionAir>50</protectionAir>
-			<protectionEarth>75</protectionEarth>
+			<protectionEarth>85</protectionEarth>
 			<protectionAstral>50</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
@@ -10594,7 +10594,7 @@
 			<protectionFire>65</protectionFire>
 			<protectionWater>40</protectionWater>
 			<protectionAir>65</protectionAir>
-			<protectionEarth>85</protectionEarth>
+			<protectionEarth>90</protectionEarth>
 			<protectionAstral>65</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
