@@ -5053,7 +5053,7 @@
 		</item>
 		<item>
 			<name>Scroll Acid Stream</name>
-			<price>25000</price>
+			<price>100000</price>
 			<weight>1</weight>
 			<effect>castSpell=Acid_Stream:50</effect>
 		</item>
@@ -5109,7 +5109,7 @@
 			<name>Scroll Stone Curse</name>
 			<price>300000</price>
 			<weight>1</weight>
-			<effect>castSpell=Stone_Curse:50</effect>
+			<effect>castSpell=Stone_Curse:100</effect>
 		</item>
 		<item>
 			<name>Scroll Protection from Earth</name>
@@ -5215,7 +5215,7 @@
 		</item>
 		<item>
 			<name>SuperScroll Blizzard</name>
-			<price>3000000</price>
+			<price>2500000</price>
 			<weight>1</weight>
 			<effect>castSpell=Blizzard:100</effect>
 		</item>
@@ -5227,7 +5227,7 @@
 		</item>
 		<item>
 			<name>SuperScroll Acid Stream</name>
-			<price>70000</price>
+			<price>900000</price>
 			<weight>1</weight>
 			<effect>castSpell=Acid_Stream:100</effect>
 		</item>
@@ -5283,7 +5283,7 @@
 			<name>SuperScroll Stone Curse</name>
 			<price>1000000</price>
 			<weight>1</weight>
-			<effect>castSpell=Stone_Curse:100</effect>
+			<effect>castSpell=Stone_Curse:150</effect>
 		</item>
 		<item>
 			<name>SuperScroll Protection from Earth</name>
@@ -5293,13 +5293,13 @@
 		</item>
 		<item>
 			<name>SuperScroll Bless</name>
-			<price>250000</price>
+			<price>50000</price>
 			<weight>1</weight>
 			<effect>castSpell=Bless:100</effect>
 		</item>
 		<item>
 			<name>SuperScroll Haste</name>
-			<price>150000</price>
+			<price>50000</price>
 			<weight>1</weight>
 			<effect>castSpell=Haste:100</effect>
 		</item>
@@ -5335,13 +5335,13 @@
 		</item>
 		<item>
 			<name>SuperScroll Shield</name>
-			<price>500000</price>
+			<price>100000</price>
 			<weight>1</weight>
 			<effect>castSpell=Shield:100</effect>
 		</item>
 		<item>
 			<name>SuperScroll Curse</name>
-			<price>250000</price>
+			<price>100000</price>
 			<weight>1</weight>
 			<effect>castSpell=Curse:100</effect>
 		</item>
@@ -5401,7 +5401,7 @@
 		</item>
 		<item>
 			<name>Potion Mana Regeneration</name>
-			<price>5000</price>
+			<price>10000</price>
 			<weight>1</weight>
 			<effect>manaRegeneration=100: duration 60</effect>
 		</item>
