@@ -5139,7 +5139,7 @@
 			<name>Scroll Teleport</name>
 			<price>50000</price>
 			<weight>1</weight>
-			<effect>castSpell=Teleport:45</effect>
+			<effect>castSpell=Teleport:35</effect>
 		</item>
 		<item>
 			<name>Scroll Heal</name>
@@ -5227,7 +5227,7 @@
 		</item>
 		<item>
 			<name>SuperScroll Acid Stream</name>
-			<price>900000</price>
+			<price>800000</price>
 			<weight>1</weight>
 			<effect>castSpell=Acid_Stream:100</effect>
 		</item>
@@ -7645,7 +7645,7 @@
 			<relax>6</relax>
 			<protectionFire>60</protectionFire>
 			<protectionWater>30</protectionWater>
-			<protectionAir>60</protectionAir>
+			<protectionAir>50</protectionAir>
 			<protectionEarth>30</protectionEarth>
 			<protectionAstral>30</protectionAstral>
 			<protectionBlade>0</protectionBlade>
@@ -7713,7 +7713,7 @@
 			<relax>6</relax>
 			<protectionFire>70</protectionFire>
 			<protectionWater>30</protectionWater>
-			<protectionAir>70</protectionAir>
+			<protectionAir>60</protectionAir>
 			<protectionEarth>30</protectionEarth>
 			<protectionAstral>40</protectionAstral>
 			<protectionBlade>0</protectionBlade>
@@ -7781,7 +7781,7 @@
 			<relax>6</relax>
 			<protectionFire>80</protectionFire>
 			<protectionWater>30</protectionWater>
-			<protectionAir>80</protectionAir>
+			<protectionAir>70</protectionAir>
 			<protectionEarth>30</protectionEarth>
 			<protectionAstral>50</protectionAstral>
 			<protectionBlade>0</protectionBlade>
@@ -7849,7 +7849,7 @@
 			<relax>6</relax>
 			<protectionFire>90</protectionFire>
 			<protectionWater>30</protectionWater>
-			<protectionAir>90</protectionAir>
+			<protectionAir>80</protectionAir>
 			<protectionEarth>30</protectionEarth>
 			<protectionAstral>60</protectionAstral>
 			<protectionBlade>0</protectionBlade>
@@ -7917,7 +7917,7 @@
 			<relax>6</relax>
 			<protectionFire>92</protectionFire>
 			<protectionWater>30</protectionWater>
-			<protectionAir>92</protectionAir>
+			<protectionAir>90</protectionAir>
 			<protectionEarth>90</protectionEarth>
 			<protectionAstral>70</protectionAstral>
 			<protectionBlade>0</protectionBlade>
@@ -18993,7 +18993,7 @@
 			<physicalMin>62</physicalMin>
 			<physicalMax>105</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>235</toHit>
+			<toHit>245</toHit>
 			<defence>240</defence>
 			<absorbtion>22</absorbtion>
 			<charge>12</charge>
@@ -19061,7 +19061,7 @@
 			<physicalMin>82</physicalMin>
 			<physicalMax>164</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>265</toHit>
+			<toHit>275</toHit>
 			<defence>310</defence>
 			<absorbtion>39</absorbtion>
 			<charge>12</charge>
@@ -19084,7 +19084,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>300000</experience>
+			<experience>210000</experience>
 			<treasureGold>95</treasureGold>
 			<treasureGoldMin>400000</treasureGoldMin>
 			<treasureGoldMax>800000</treasureGoldMax>
