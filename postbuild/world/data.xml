@@ -5053,9 +5053,9 @@
 		</item>
 		<item>
 			<name>Scroll Acid Stream</name>
-			<price>10000</price>
+			<price>20000</price>
 			<weight>1</weight>
-			<effect>castSpell=Acid_Stream:1</effect>
+			<effect>castSpell=Acid_Stream:10</effect>
 		</item>
 		<item>
 			<name>Scroll Lightning</name>
