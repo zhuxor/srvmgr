@@ -5421,13 +5421,13 @@
 			<name>Potion Fighter Bonus</name>
 			<price>5000</price>
 			<weight>3</weight>
-			<effect>healthRegeneration=250: duration 120</effect>
+			<effect>health=+500</effect>
 		</item>
 		<item>
 			<name>Potion Mage Bonus</name>
 			<price>5000</price>
 			<weight>3</weight>
-			<effect>manaRegeneration=250: duration 120</effect>
+			<effect>&quot;protectionFire=+50: duration 30,protectionWater=+50: duration 30,protectionAir=+50: duration 30,protectionEarth=+50: duration 30&quot;</effect>
 		</item>
 		<item>
 			<name>Quest Documents</name>
