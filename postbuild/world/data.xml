@@ -5041,9 +5041,9 @@
 		</item>
 		<item>
 			<name>Scroll Blizzard</name>
-			<price>300000</price>
+			<price>30000</price>
 			<weight>1</weight>
-			<effect>castSpell=Blizzard:50</effect>
+			<effect>castSpell=Blizzard:1</effect>
 		</item>
 		<item>
 			<name>Scroll Protection from Water</name>
@@ -5053,9 +5053,9 @@
 		</item>
 		<item>
 			<name>Scroll Acid Stream</name>
-			<price>100000</price>
+			<price>10000</price>
 			<weight>1</weight>
-			<effect>castSpell=Acid_Stream:50</effect>
+			<effect>castSpell=Acid_Stream:1</effect>
 		</item>
 		<item>
 			<name>Scroll Lightning</name>
