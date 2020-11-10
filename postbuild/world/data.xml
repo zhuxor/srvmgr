@@ -5109,7 +5109,7 @@
 			<name>Scroll Stone Curse</name>
 			<price>300000</price>
 			<weight>1</weight>
-			<effect>castSpell=Stone_Curse:100</effect>
+			<effect>castSpell=Stone_Curse:80</effect>
 		</item>
 		<item>
 			<name>Scroll Protection from Earth</name>
@@ -5283,7 +5283,7 @@
 			<name>SuperScroll Stone Curse</name>
 			<price>1000000</price>
 			<weight>1</weight>
-			<effect>castSpell=Stone_Curse:150</effect>
+			<effect>castSpell=Stone_Curse:120</effect>
 		</item>
 		<item>
 			<name>SuperScroll Protection from Earth</name>
@@ -8222,7 +8222,7 @@
 			<spellProbability2>-1</spellProbability2>
 			<spell3></spell3>
 			<spellProbability3>-1</spellProbability3>
-			<spellPower>120</spellPower>
+			<spellPower>100</spellPower>
 			<serverId>623</serverId>
 			<knownSpellsAreEmpty>1</knownSpellsAreEmpty>
 			<skillFire>-1</skillFire>
@@ -8290,7 +8290,7 @@
 			<spellProbability2>-1</spellProbability2>
 			<spell3></spell3>
 			<spellProbability3>-1</spellProbability3>
-			<spellPower>255</spellPower>
+			<spellPower>250</spellPower>
 			<serverId>806</serverId>
 			<knownSpellsAreEmpty>1</knownSpellsAreEmpty>
 			<skillFire>-1</skillFire>
@@ -10644,7 +10644,7 @@
 			<skillFire>100</skillFire>
 			<skillWater>100</skillWater>
 			<skillAir>100</skillAir>
-			<skillEarth>254</skillEarth>
+			<skillEarth>250</skillEarth>
 			<skillAstral>100</skillAstral>
 			<equipItem1>Flame Thrower</equipItem1>
 			<equipItem2></equipItem2>
@@ -10724,7 +10724,7 @@
 			<skillFire>254</skillFire>
 			<skillWater>254</skillWater>
 			<skillAir>254</skillAir>
-			<skillEarth>254</skillEarth>
+			<skillEarth>250</skillEarth>
 			<skillAstral>100</skillAstral>
 			<equipItem1>Flame Thrower</equipItem1>
 			<equipItem2></equipItem2>
@@ -11104,7 +11104,7 @@
 			<skillFire>254</skillFire>
 			<skillWater>100</skillWater>
 			<skillAir>100</skillAir>
-			<skillEarth>254</skillEarth>
+			<skillEarth>250</skillEarth>
 			<skillAstral>100</skillAstral>
 			<equipItem1>Wood Shaman Staff {castSpell=Fire_Arrow:35}</equipItem1>
 			<equipItem2></equipItem2>
@@ -11182,7 +11182,7 @@
 			<skillFire>254</skillFire>
 			<skillWater>100</skillWater>
 			<skillAir>100</skillAir>
-			<skillEarth>254</skillEarth>
+			<skillEarth>250</skillEarth>
 			<skillAstral>100</skillAstral>
 			<equipItem1>Wood Shaman Staff {castSpell=Fire_Arrow:99}</equipItem1>
 			<equipItem2></equipItem2>
@@ -11448,7 +11448,7 @@
 			<spellProbability2>1</spellProbability2>
 			<spell3>Shield</spell3>
 			<spellProbability3>3</spellProbability3>
-			<spellPower>30</spellPower>
+			<spellPower>25</spellPower>
 			<serverId>660</serverId>
 			<knownSpellsAreEmpty>1</knownSpellsAreEmpty>
 			<skillFire>-1</skillFire>
@@ -11516,7 +11516,7 @@
 			<spellProbability2>1</spellProbability2>
 			<spell3>Shield</spell3>
 			<spellProbability3>3</spellProbability3>
-			<spellPower>254</spellPower>
+			<spellPower>250</spellPower>
 			<serverId>815</serverId>
 			<knownSpellsAreEmpty>1</knownSpellsAreEmpty>
 			<skillFire>-1</skillFire>
@@ -11720,7 +11720,7 @@
 			<spellProbability2>1</spellProbability2>
 			<spell3>Shield</spell3>
 			<spellProbability3>3</spellProbability3>
-			<spellPower>100</spellPower>
+			<spellPower>80</spellPower>
 			<serverId>663</serverId>
 			<knownSpellsAreEmpty>1</knownSpellsAreEmpty>
 			<skillFire>-1</skillFire>
@@ -11788,7 +11788,7 @@
 			<spellProbability2>1</spellProbability2>
 			<spell3>Shield</spell3>
 			<spellProbability3>3</spellProbability3>
-			<spellPower>254</spellPower>
+			<spellPower>250</spellPower>
 			<serverId>816</serverId>
 			<knownSpellsAreEmpty>1</knownSpellsAreEmpty>
 			<skillFire>-1</skillFire>
@@ -13659,7 +13659,7 @@
 			<skillFire>80</skillFire>
 			<skillWater>80</skillWater>
 			<skillAir>80</skillAir>
-			<skillEarth>150</skillEarth>
+			<skillEarth>130</skillEarth>
 			<skillAstral>80</skillAstral>
 			<equipItem1>Wood Shaman Staff {castSpell=Ice_Missile:10}</equipItem1>
 			<equipItem2></equipItem2>
@@ -13734,7 +13734,7 @@
 			<skillFire>80</skillFire>
 			<skillWater>80</skillWater>
 			<skillAir>80</skillAir>
-			<skillEarth>150</skillEarth>
+			<skillEarth>130</skillEarth>
 			<skillAstral>80</skillAstral>
 			<equipItem1>Wood Shaman Staff {castSpell=Ice_Missile:10}</equipItem1>
 			<equipItem2></equipItem2>
@@ -13885,7 +13885,7 @@
 			<skillFire>100</skillFire>
 			<skillWater>100</skillWater>
 			<skillAir>100</skillAir>
-			<skillEarth>254</skillEarth>
+			<skillEarth>250</skillEarth>
 			<skillAstral>100</skillAstral>
 			<equipItem1>Wood Shaman Staff {castSpell=Ice_Missile:35}</equipItem1>
 			<equipItem2></equipItem2>
@@ -13961,7 +13961,7 @@
 			<skillFire>100</skillFire>
 			<skillWater>100</skillWater>
 			<skillAir>100</skillAir>
-			<skillEarth>254</skillEarth>
+			<skillEarth>250</skillEarth>
 			<skillAstral>100</skillAstral>
 			<equipItem1>Wood Shaman Staff {castSpell=Ice_Missile:35}</equipItem1>
 			<equipItem2></equipItem2>
@@ -14112,7 +14112,7 @@
 			<skillFire>100</skillFire>
 			<skillWater>254</skillWater>
 			<skillAir>100</skillAir>
-			<skillEarth>254</skillEarth>
+			<skillEarth>250</skillEarth>
 			<skillAstral>100</skillAstral>
 			<equipItem1>Wood Shaman Staff {castSpell=Ice_Missile:99}</equipItem1>
 			<equipItem2></equipItem2>
@@ -14188,7 +14188,7 @@
 			<skillFire>100</skillFire>
 			<skillWater>254</skillWater>
 			<skillAir>100</skillAir>
-			<skillEarth>254</skillEarth>
+			<skillEarth>250</skillEarth>
 			<skillAstral>100</skillAstral>
 			<equipItem1>Wood Shaman Staff {castSpell=Ice_Missile:99}</equipItem1>
 			<equipItem2></equipItem2>
@@ -15577,7 +15577,7 @@
 			<skillFire>80</skillFire>
 			<skillWater>80</skillWater>
 			<skillAir>80</skillAir>
-			<skillEarth>150</skillEarth>
+			<skillEarth>130</skillEarth>
 			<skillAstral>80</skillAstral>
 			<equipItem1>Good Wood Staff {castSpell=Drain_Life:5}</equipItem1>
 			<equipItem2></equipItem2>
@@ -16874,7 +16874,7 @@
 			<skillFire>100</skillFire>
 			<skillWater>100</skillWater>
 			<skillAir>100</skillAir>
-			<skillEarth>254</skillEarth>
+			<skillEarth>250</skillEarth>
 			<skillAstral>100</skillAstral>
 			<equipItem1>Sonic Beam</equipItem1>
 			<equipItem2></equipItem2>
@@ -16954,7 +16954,7 @@
 			<skillFire>254</skillFire>
 			<skillWater>254</skillWater>
 			<skillAir>254</skillAir>
-			<skillEarth>254</skillEarth>
+			<skillEarth>250</skillEarth>
 			<skillAstral>100</skillAstral>
 			<equipItem1>Sonic Beam</equipItem1>
 			<equipItem2></equipItem2>
@@ -19101,7 +19101,7 @@
 			<spellProbability2>10</spellProbability2>
 			<spell3>Stone Curse</spell3>
 			<spellProbability3>5</spellProbability3>
-			<spellPower>120</spellPower>
+			<spellPower>100</spellPower>
 			<serverId>2377</serverId>
 			<knownSpellsAreEmpty>1</knownSpellsAreEmpty>
 			<skillFire>-1</skillFire>
@@ -19169,7 +19169,7 @@
 			<spellProbability2>10</spellProbability2>
 			<spell3>Stone Curse</spell3>
 			<spellProbability3>5</spellProbability3>
-			<spellPower>254</spellPower>
+			<spellPower>250</spellPower>
 			<serverId>2378</serverId>
 			<knownSpellsAreEmpty>1</knownSpellsAreEmpty>
 			<skillFire>-1</skillFire>
@@ -45533,7 +45533,7 @@
 			<areaDuration>0</areaDuration>
 			<areaFrequency>0</areaFrequency>
 			<unitApplyMethod>2</unitApplyMethod>
-			<duration>48</duration>
+			<duration>64</duration>
 			<frequency>0</frequency>
 			<damageMin>-1</damageMin>
 			<damageMax>-1</damageMax>
