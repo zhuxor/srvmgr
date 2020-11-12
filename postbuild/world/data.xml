@@ -5053,7 +5053,7 @@
 		</item>
 		<item>
 			<name>Scroll Acid Stream</name>
-			<price>40000</price>
+			<price>20000</price>
 			<weight>1</weight>
 			<effect>castSpell=Acid_Stream:20</effect>
 		</item>
@@ -5227,7 +5227,7 @@
 		</item>
 		<item>
 			<name>SuperScroll Acid Stream</name>
-			<price>800000</price>
+			<price>400000</price>
 			<weight>1</weight>
 			<effect>castSpell=Acid_Stream:100</effect>
 		</item>
@@ -45292,8 +45292,8 @@
 			<unitApplyMethod>1</unitApplyMethod>
 			<duration>0</duration>
 			<frequency>0</frequency>
-			<damageMin>10</damageMin>
-			<damageMax>14</damageMax>
+			<damageMin>5</damageMin>
+			<damageMax>7</damageMax>
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>2000</scrollCost>
