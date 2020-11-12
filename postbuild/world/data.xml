@@ -5053,7 +5053,7 @@
 		</item>
 		<item>
 			<name>Scroll Acid Stream</name>
-			<price>40000</price>
+			<price>35000</price>
 			<weight>1</weight>
 			<effect>castSpell=Acid_Stream:20</effect>
 		</item>
@@ -5227,7 +5227,7 @@
 		</item>
 		<item>
 			<name>SuperScroll Acid Stream</name>
-			<price>800000</price>
+			<price>700000</price>
 			<weight>1</weight>
 			<effect>castSpell=Acid_Stream:100</effect>
 		</item>
@@ -10514,7 +10514,7 @@
 			<charge>10</charge>
 			<relax>4</relax>
 			<protectionFire>50</protectionFire>
-			<protectionWater>35</protectionWater>
+			<protectionWater>40</protectionWater>
 			<protectionAir>50</protectionAir>
 			<protectionEarth>85</protectionEarth>
 			<protectionAstral>50</protectionAstral>
@@ -10592,7 +10592,7 @@
 			<charge>10</charge>
 			<relax>4</relax>
 			<protectionFire>65</protectionFire>
-			<protectionWater>40</protectionWater>
+			<protectionWater>55</protectionWater>
 			<protectionAir>65</protectionAir>
 			<protectionEarth>90</protectionEarth>
 			<protectionAstral>65</protectionAstral>
@@ -10672,7 +10672,7 @@
 			<charge>10</charge>
 			<relax>4</relax>
 			<protectionFire>65</protectionFire>
-			<protectionWater>45</protectionWater>
+			<protectionWater>60</protectionWater>
 			<protectionAir>65</protectionAir>
 			<protectionEarth>92</protectionEarth>
 			<protectionAstral>70</protectionAstral>
@@ -45292,8 +45292,8 @@
 			<unitApplyMethod>1</unitApplyMethod>
 			<duration>0</duration>
 			<frequency>0</frequency>
-			<damageMin>10</damageMin>
-			<damageMax>14</damageMax>
+			<damageMin>8</damageMin>
+			<damageMax>12</damageMax>
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>2000</scrollCost>
