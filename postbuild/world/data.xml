@@ -5175,7 +5175,7 @@
 			<name>Scroll Slow</name>
 			<price>1000</price>
 			<weight>1</weight>
-			<effect>castSpell=Slow:50</effect>
+			<effect>castSpell=Slow:01</effect>
 		</item>
 		<item>
 			<name>SuperScroll Fire Arrow</name>
@@ -5349,7 +5349,7 @@
 			<name>SuperScroll Slow</name>
 			<price>10000</price>
 			<weight>1</weight>
-			<effect>castSpell=Slow:100</effect>
+			<effect>castSpell=Slow:1</effect>
 		</item>
 		<item>
 			<name>Potion Antipoison</name>
