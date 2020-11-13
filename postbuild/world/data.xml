@@ -5055,7 +5055,7 @@
 			<name>Scroll Acid Stream</name>
 			<price>99000</price>
 			<weight>1</weight>
-			<effect>castSpell=Poison_Cloud:50</effect>
+			<effect>castSpell=Acid_Stream:20</effect>
 		</item>
 		<item>
 			<name>Scroll Lightning</name>
@@ -5229,7 +5229,7 @@
 			<name>SuperScroll Acid Stream</name>
 			<price>999000</price>
 			<weight>1</weight>
-			<effect>castSpell=Poison_Cloud:110</effect>
+			<effect>castSpell=Acid_Stream:100</effect>
 		</item>
 		<item>
 			<name>SuperScroll Lightning</name>
