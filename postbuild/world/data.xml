@@ -45081,7 +45081,7 @@
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>50</scrollCost>
-			<bookCost>150000</bookCost>
+			<bookCost>1500000</bookCost>
 			<effect></effect>
 		</item>
 		<item>
@@ -45108,7 +45108,7 @@
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>70</scrollCost>
-			<bookCost>500000</bookCost>
+			<bookCost>5000000</bookCost>
 			<effect></effect>
 		</item>
 		<item>
@@ -45162,7 +45162,7 @@
 			<defensive>1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>1000</scrollCost>
-			<bookCost>2000000</bookCost>
+			<bookCost>20000000</bookCost>
 			<effect>protectionFire=+30: duration 30</effect>
 		</item>
 		<item>
@@ -45189,7 +45189,7 @@
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>50</scrollCost>
-			<bookCost>250000</bookCost>
+			<bookCost>2500000</bookCost>
 			<effect></effect>
 		</item>
 		<item>
@@ -45243,7 +45243,7 @@
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>500</scrollCost>
-			<bookCost>99000000</bookCost>
+			<bookCost>499000000</bookCost>
 			<effect></effect>
 		</item>
 		<item>
@@ -45270,7 +45270,7 @@
 			<defensive>1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>1000</scrollCost>
-			<bookCost>1000000</bookCost>
+			<bookCost>10000000</bookCost>
 			<effect>protectionWater=+30: duration 30</effect>
 		</item>
 		<item>
@@ -45297,7 +45297,7 @@
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>2000</scrollCost>
-			<bookCost>800000</bookCost>
+			<bookCost>8000000</bookCost>
 			<effect></effect>
 		</item>
 		<item>
@@ -45324,7 +45324,7 @@
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>50</scrollCost>
-			<bookCost>25000</bookCost>
+			<bookCost>250000</bookCost>
 			<effect></effect>
 		</item>
 		<item>
@@ -45351,7 +45351,7 @@
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>5000</scrollCost>
-			<bookCost>2500000</bookCost>
+			<bookCost>25000000</bookCost>
 			<effect></effect>
 		</item>
 		<item>
@@ -45378,7 +45378,7 @@
 			<defensive>1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>3000</scrollCost>
-			<bookCost>40000000</bookCost>
+			<bookCost>90000000</bookCost>
 			<effect>Invisibility = ON</effect>
 		</item>
 		<item>
@@ -45405,7 +45405,7 @@
 			<defensive>1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>1000</scrollCost>
-			<bookCost>2000000</bookCost>
+			<bookCost>20000000</bookCost>
 			<effect>protectionAir=+30: duration 30</effect>
 		</item>
 		<item>
@@ -45486,7 +45486,7 @@
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>50</scrollCost>
-			<bookCost>750000</bookCost>
+			<bookCost>7500000</bookCost>
 			<effect></effect>
 		</item>
 		<item>
@@ -45513,7 +45513,7 @@
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>500</scrollCost>
-			<bookCost>15000000</bookCost>
+			<bookCost>150000000</bookCost>
 			<effect></effect>
 		</item>
 		<item>
@@ -45567,7 +45567,7 @@
 			<defensive>1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>1000</scrollCost>
-			<bookCost>10000000</bookCost>
+			<bookCost>100000000</bookCost>
 			<effect>protectionEarth=+30: duration 30</effect>
 		</item>
 		<item>
@@ -45594,7 +45594,7 @@
 			<defensive>1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>50</scrollCost>
-			<bookCost>5000</bookCost>
+			<bookCost>50000</bookCost>
 			<effect>toHit=+1:duration 30</effect>
 		</item>
 		<item>
@@ -45621,7 +45621,7 @@
 			<defensive>1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>50</scrollCost>
-			<bookCost>1500000</bookCost>
+			<bookCost>15000000</bookCost>
 			<effect>speed=+2: duration 30</effect>
 		</item>
 		<item>
@@ -45675,7 +45675,7 @@
 			<defensive>1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>10000</scrollCost>
-			<bookCost>50000000</bookCost>
+			<bookCost>97000000</bookCost>
 			<effect></effect>
 		</item>
 		<item>
@@ -45756,7 +45756,7 @@
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>50</scrollCost>
-			<bookCost>50000</bookCost>
+			<bookCost>500000</bookCost>
 			<effect></effect>
 		</item>
 		<item>
@@ -45783,7 +45783,7 @@
 			<defensive>1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>1000</scrollCost>
-			<bookCost>100000</bookCost>
+			<bookCost>1000000</bookCost>
 			<effect>absorbtion=+5:duration 30</effect>
 		</item>
 		<item>
