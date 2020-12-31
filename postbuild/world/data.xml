@@ -5145,7 +5145,7 @@
 			<name>Scroll Heal</name>
 			<price>50</price>
 			<weight>1</weight>
-			<effect>castSpell=Heal:50</effect>
+			<effect>castSpell=Heal:1</effect>
 		</item>
 		<item>
 			<name>Scroll Summon</name>
@@ -5157,7 +5157,7 @@
 			<name>Scroll Drain Life</name>
 			<price>500</price>
 			<weight>1</weight>
-			<effect>castSpell=Drain_Life:50</effect>
+			<effect>castSpell=Drain_Life:10</effect>
 		</item>
 		<item>
 			<name>Scroll Shield</name>
@@ -5319,7 +5319,7 @@
 			<name>SuperScroll Heal</name>
 			<price>3000</price>
 			<weight>1</weight>
-			<effect>castSpell=Heal:100</effect>
+			<effect>castSpell=Heal:10</effect>
 		</item>
 		<item>
 			<name>SuperScroll Summon</name>
@@ -5331,7 +5331,7 @@
 			<name>SuperScroll Drain Life</name>
 			<price>1500</price>
 			<weight>1</weight>
-			<effect>castSpell=Drain_Life:100</effect>
+			<effect>castSpell=Drain_Life:25</effect>
 		</item>
 		<item>
 			<name>SuperScroll Shield</name>
@@ -45687,7 +45687,7 @@
 			<item>0</item>
 			<spellTarget>1</spellTarget>
 			<deliverySystem>1</deliverySystem>
-			<maxRange>6</maxRange>
+			<maxRange>0</maxRange>
 			<effectSpeed>0</effectSpeed>
 			<distribution>1</distribution>
 			<radius>0</radius>
