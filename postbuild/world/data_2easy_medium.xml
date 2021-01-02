@@ -5023,9 +5023,9 @@
 		</item>
 		<item>
 			<name>Scroll Protection from Fire</name>
-			<price>100000</price>
+			<price>3000</price>
 			<weight>1</weight>
-			<effect>castSpell=Protection_from_Fire:1</effect>
+			<effect>castSpell=Protection_from_Fire:50</effect>
 		</item>
 		<item>
 			<name>Scroll Ice Missile</name>
@@ -5047,9 +5047,9 @@
 		</item>
 		<item>
 			<name>Scroll Protection from Water</name>
-			<price>100000</price>
+			<price>3000</price>
 			<weight>1</weight>
-			<effect>castSpell=Protection_from_Water:1</effect>
+			<effect>castSpell=Protection_from_Water:50</effect>
 		</item>
 		<item>
 			<name>Scroll Acid Stream</name>
@@ -5077,9 +5077,9 @@
 		</item>
 		<item>
 			<name>Scroll Protection from Air</name>
-			<price>100000</price>
+			<price>3000</price>
 			<weight>1</weight>
-			<effect>castSpell=Protection_from_Air:1</effect>
+			<effect>castSpell=Protection_from_Air:50</effect>
 		</item>
 		<item>
 			<name>Scroll Darkness</name>
@@ -5113,9 +5113,9 @@
 		</item>
 		<item>
 			<name>Scroll Protection from Earth</name>
-			<price>100000</price>
+			<price>3000</price>
 			<weight>1</weight>
-			<effect>castSpell=Protection_from_Earth:1</effect>
+			<effect>castSpell=Protection_from_Earth:50</effect>
 		</item>
 		<item>
 			<name>Scroll Bless</name>
@@ -5199,7 +5199,7 @@
 			<name>SuperScroll Protection from Fire</name>
 			<price>100000</price>
 			<weight>1</weight>
-			<effect>castSpell=Protection_from_Fire:1</effect>
+			<effect>castSpell=Protection_from_Fire:100</effect>
 		</item>
 		<item>
 			<name>SuperScroll Ice Missile</name>
@@ -5223,7 +5223,7 @@
 			<name>SuperScroll Protection from Water</name>
 			<price>100000</price>
 			<weight>1</weight>
-			<effect>castSpell=Protection_from_Water:1</effect>
+			<effect>castSpell=Protection_from_Water:100</effect>
 		</item>
 		<item>
 			<name>SuperScroll Acid Stream</name>
@@ -5253,7 +5253,7 @@
 			<name>SuperScroll Protection from Air</name>
 			<price>100000</price>
 			<weight>1</weight>
-			<effect>castSpell=Protection_from_Air:1</effect>
+			<effect>castSpell=Protection_from_Air:100</effect>
 		</item>
 		<item>
 			<name>SuperScroll Darkness</name>
@@ -5289,7 +5289,7 @@
 			<name>SuperScroll Protection from Earth</name>
 			<price>100000</price>
 			<weight>1</weight>
-			<effect>castSpell=Protection_from_Earth:1</effect>
+			<effect>castSpell=Protection_from_Earth:100</effect>
 		</item>
 		<item>
 			<name>SuperScroll Bless</name>
@@ -45163,7 +45163,7 @@
 			<skillOffset>0</skillOffset>
 			<scrollCost>1000</scrollCost>
 			<bookCost>20000000</bookCost>
-			<effect>body=+1</effect>
+			<effect>protectionFire=+30: duration 30</effect>
 		</item>
 		<item>
 			<empty>0</empty>
@@ -45271,7 +45271,7 @@
 			<skillOffset>0</skillOffset>
 			<scrollCost>1000</scrollCost>
 			<bookCost>10000000</bookCost>
-			<effect>reaction=+1</effect>
+			<effect>protectionWater=+30: duration 30</effect>
 		</item>
 		<item>
 			<empty>0</empty>
@@ -45406,7 +45406,7 @@
 			<skillOffset>0</skillOffset>
 			<scrollCost>1000</scrollCost>
 			<bookCost>20000000</bookCost>
-			<effect>mind=+1</effect>
+			<effect>protectionAir=+30: duration 30</effect>
 		</item>
 		<item>
 			<empty>0</empty>
@@ -45568,7 +45568,7 @@
 			<skillOffset>0</skillOffset>
 			<scrollCost>1000</scrollCost>
 			<bookCost>100000000</bookCost>
-			<effect>spirit=+1</effect>
+			<effect>protectionEarth=+30: duration 30</effect>
 		</item>
 		<item>
 			<empty>0</empty>
