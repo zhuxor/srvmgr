@@ -45841,16 +45841,112 @@
 			<effect>speed=-2: duration 30</effect>
 		</item>
 		<item>
-			<empty>1</empty>
+			<empty>0</empty>
+			<name>Bodius</name>
+			<level>3</level>
+			<manaCost>10</manaCost>
+			<sphere>5</sphere>
+			<item>0</item>
+			<spellTarget>2</spellTarget>
+			<deliverySystem>1</deliverySystem>
+			<maxRange>0</maxRange>
+			<effectSpeed>0</effectSpeed>
+			<distribution>1</distribution>
+			<radius>0</radius>
+			<areaAffect>0</areaAffect>
+			<areaDuration>0</areaDuration>
+			<areaFrequency>0</areaFrequency>
+			<unitApplyMethod>2</unitApplyMethod>
+			<duration>20</duration>
+			<frequency>0</frequency>
+			<damageMin>-1</damageMin>
+			<damageMax>-1</damageMax>
+			<defensive>1</defensive>
+			<skillOffset>0</skillOffset>
+			<scrollCost>1000</scrollCost>
+			<bookCost>999999999</bookCost>
+			<effect>body=+1</effect>
 		</item>
 		<item>
-			<empty>1</empty>
+			<empty>0</empty>
+			<name>Reactinus</name>
+			<level>3</level>
+			<manaCost>10</manaCost>
+			<sphere>5</sphere>
+			<item>0</item>
+			<spellTarget>2</spellTarget>
+			<deliverySystem>1</deliverySystem>
+			<maxRange>0</maxRange>
+			<effectSpeed>0</effectSpeed>
+			<distribution>1</distribution>
+			<radius>0</radius>
+			<areaAffect>0</areaAffect>
+			<areaDuration>0</areaDuration>
+			<areaFrequency>0</areaFrequency>
+			<unitApplyMethod>2</unitApplyMethod>
+			<duration>20</duration>
+			<frequency>0</frequency>
+			<damageMin>-1</damageMin>
+			<damageMax>-1</damageMax>
+			<defensive>1</defensive>
+			<skillOffset>0</skillOffset>
+			<scrollCost>1000</scrollCost>
+			<bookCost>999999999</bookCost>
+			<effect>reaction=+1</effect>
 		</item>
 		<item>
-			<empty>1</empty>
+			<empty>0</empty>
+			<name>Mindius</name>
+			<level>3</level>
+			<manaCost>10</manaCost>
+			<sphere>5</sphere>
+			<item>0</item>
+			<spellTarget>2</spellTarget>
+			<deliverySystem>1</deliverySystem>
+			<maxRange>0</maxRange>
+			<effectSpeed>0</effectSpeed>
+			<distribution>1</distribution>
+			<radius>0</radius>
+			<areaAffect>0</areaAffect>
+			<areaDuration>0</areaDuration>
+			<areaFrequency>0</areaFrequency>
+			<unitApplyMethod>2</unitApplyMethod>
+			<duration>20</duration>
+			<frequency>0</frequency>
+			<damageMin>-1</damageMin>
+			<damageMax>-1</damageMax>
+			<defensive>1</defensive>
+			<skillOffset>0</skillOffset>
+			<scrollCost>1000</scrollCost>
+			<bookCost>999999999</bookCost>
+			<effect>mind=+1</effect>
 		</item>
 		<item>
-			<empty>1</empty>
+			<empty>0</empty>
+			<name>Spiritus</name>
+			<level>3</level>
+			<manaCost>10</manaCost>
+			<sphere>5</sphere>
+			<item>0</item>
+			<spellTarget>2</spellTarget>
+			<deliverySystem>1</deliverySystem>
+			<maxRange>0</maxRange>
+			<effectSpeed>0</effectSpeed>
+			<distribution>1</distribution>
+			<radius>0</radius>
+			<areaAffect>0</areaAffect>
+			<areaDuration>0</areaDuration>
+			<areaFrequency>0</areaFrequency>
+			<unitApplyMethod>2</unitApplyMethod>
+			<duration>20</duration>
+			<frequency>0</frequency>
+			<damageMin>-1</damageMin>
+			<damageMax>-1</damageMax>
+			<defensive>1</defensive>
+			<skillOffset>0</skillOffset>
+			<scrollCost>1000</scrollCost>
+			<bookCost>999999999</bookCost>
+			<effect>spirit=+1</effect>
 		</item>
 		<item>
 			<empty>1</empty>
