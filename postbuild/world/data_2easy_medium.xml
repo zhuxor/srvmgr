@@ -5023,9 +5023,9 @@
 		</item>
 		<item>
 			<name>Scroll Protection from Fire</name>
-			<price>100000</price>
+			<price>3000</price>
 			<weight>1</weight>
-			<effect>castSpell=Protection_from_Fire:1</effect>
+			<effect>castSpell=Fire_Arrow:50</effect>
 		</item>
 		<item>
 			<name>Scroll Ice Missile</name>
@@ -5047,9 +5047,9 @@
 		</item>
 		<item>
 			<name>Scroll Protection from Water</name>
-			<price>100000</price>
+			<price>3000</price>
 			<weight>1</weight>
-			<effect>castSpell=Protection_from_Water:1</effect>
+			<effect>castSpell=Ice_Missile:50</effect>
 		</item>
 		<item>
 			<name>Scroll Acid Stream</name>
@@ -5077,9 +5077,9 @@
 		</item>
 		<item>
 			<name>Scroll Protection from Air</name>
-			<price>100000</price>
+			<price>3000</price>
 			<weight>1</weight>
-			<effect>castSpell=Protection_from_Air:1</effect>
+			<effect>castSpell=Lightning:1</effect>
 		</item>
 		<item>
 			<name>Scroll Darkness</name>
@@ -5113,9 +5113,9 @@
 		</item>
 		<item>
 			<name>Scroll Protection from Earth</name>
-			<price>100000</price>
+			<price>3000</price>
 			<weight>1</weight>
-			<effect>castSpell=Protection_from_Earth:1</effect>
+			<effect>castSpell=Diamond_Dust:1</effect>
 		</item>
 		<item>
 			<name>Scroll Bless</name>
