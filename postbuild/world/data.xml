@@ -5353,9 +5353,9 @@
 		</item>
 		<item>
 			<name>Potion Antipoison</name>
-			<price>1000000</price>
-			<weight>1</weight>
-			<effect>absorbtion=+50: duration 30</effect>
+			<price>1000</price>
+			<weight>3</weight>
+			<effect>health=+1, mana=+1</effect>
 		</item>
 		<item>
 			<name>Potion Body</name>
@@ -5383,51 +5383,51 @@
 		</item>
 		<item>
 			<name>Potion Health Regeneration</name>
-			<price>1000</price>
+			<price>200000</price>
 			<weight>1</weight>
 			<effect>healthRegeneration=100: duration 60</effect>
 		</item>
 		<item>
 			<name>Potion Medium Healing</name>
-			<price>30</price>
-			<weight>1</weight>
+			<price>2000000</price>
+			<weight>2</weight>
 			<effect>health=+1</effect>
 		</item>
 		<item>
 			<name>Potion Big Healing</name>
-			<price>300</price>
-			<weight>2</weight>
+			<price>20000000</price>
+			<weight>3</weight>
 			<effect>health=+2</effect>
 		</item>
 		<item>
 			<name>Potion Mana Regeneration</name>
-			<price>10000</price>
+			<price>200000</price>
 			<weight>1</weight>
 			<effect>manaRegeneration=100: duration 60</effect>
 		</item>
 		<item>
 			<name>Potion Medium Mana</name>
-			<price>100</price>
-			<weight>1</weight>
+			<price>2000000</price>
+			<weight>2</weight>
 			<effect>mana=+1</effect>
 		</item>
 		<item>
 			<name>Potion Big Mana</name>
-			<price>1000</price>
-			<weight>2</weight>
+			<price>20000000</price>
+			<weight>3</weight>
 			<effect>mana=+2</effect>
 		</item>
 		<item>
 			<name>Potion Fighter Bonus</name>
-			<price>5000</price>
+			<price>1000</price>
 			<weight>3</weight>
-			<effect>health=+500</effect>
+			<effect>healthRegeneration=100: duration 60</effect>
 		</item>
 		<item>
 			<name>Potion Mage Bonus</name>
-			<price>5000</price>
+			<price>1000</price>
 			<weight>3</weight>
-			<effect>protectionFire=+10,protectionWater=+10,protectionAir=+10,protectionEarth=+10</effect>
+			<effect>manaRegeneration=100: duration 60</effect>
 		</item>
 		<item>
 			<name>Quest Documents</name>
