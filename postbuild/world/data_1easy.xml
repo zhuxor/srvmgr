@@ -5353,7 +5353,7 @@
 		</item>
 		<item>
 			<name>Potion Antipoison</name>
-			<price>1000</price>
+			<price>100</price>
 			<weight>3</weight>
 			<effect>health=+1, mana=+1</effect>
 		</item>
@@ -5419,13 +5419,13 @@
 		</item>
 		<item>
 			<name>Potion Fighter Bonus</name>
-			<price>1000</price>
+			<price>100</price>
 			<weight>3</weight>
 			<effect>healthRegeneration=100: duration 60</effect>
 		</item>
 		<item>
 			<name>Potion Mage Bonus</name>
-			<price>1000</price>
+			<price>100</price>
 			<weight>3</weight>
 			<effect>manaRegeneration=100: duration 60</effect>
 		</item>
