@@ -7644,10 +7644,10 @@
 			<charge>12</charge>
 			<relax>6</relax>
 			<protectionFire>60</protectionFire>
-			<protectionWater>40</protectionWater>
+			<protectionWater>30</protectionWater>
 			<protectionAir>50</protectionAir>
-			<protectionEarth>40</protectionEarth>
-			<protectionAstral>40</protectionAstral>
+			<protectionEarth>30</protectionEarth>
+			<protectionAstral>30</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>20</protectionBludgeon>
@@ -7712,9 +7712,9 @@
 			<charge>12</charge>
 			<relax>6</relax>
 			<protectionFire>70</protectionFire>
-			<protectionWater>40</protectionWater>
+			<protectionWater>30</protectionWater>
 			<protectionAir>60</protectionAir>
-			<protectionEarth>40</protectionEarth>
+			<protectionEarth>30</protectionEarth>
 			<protectionAstral>40</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
@@ -7983,11 +7983,11 @@
 			<absorbtion>10</absorbtion>
 			<charge>10</charge>
 			<relax>6</relax>
-			<protectionFire>50</protectionFire>
+			<protectionFire>30</protectionFire>
 			<protectionWater>60</protectionWater>
-			<protectionAir>50</protectionAir>
+			<protectionAir>30</protectionAir>
 			<protectionEarth>60</protectionEarth>
-			<protectionAstral>50</protectionAstral>
+			<protectionAstral>30</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>50</protectionBludgeon>
@@ -8051,11 +8051,11 @@
 			<absorbtion>16</absorbtion>
 			<charge>10</charge>
 			<relax>6</relax>
-			<protectionFire>50</protectionFire>
+			<protectionFire>30</protectionFire>
 			<protectionWater>70</protectionWater>
-			<protectionAir>50</protectionAir>
+			<protectionAir>30</protectionAir>
 			<protectionEarth>70</protectionEarth>
-			<protectionAstral>50</protectionAstral>
+			<protectionAstral>40</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>60</protectionBludgeon>
