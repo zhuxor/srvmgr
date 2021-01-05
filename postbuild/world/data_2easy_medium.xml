@@ -45763,7 +45763,7 @@
 			<empty>0</empty>
 			<name>Shield</name>
 			<level>3</level>
-			<manaCost>50</manaCost>
+			<manaCost>100</manaCost>
 			<sphere>5</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45784,7 +45784,7 @@
 			<skillOffset>0</skillOffset>
 			<scrollCost>1000</scrollCost>
 			<bookCost>10000</bookCost>
-			<effect>absorbtion=+5:duration 10</effect>
+			<effect>absorbtion=+5:duration 5</effect>
 		</item>
 		<item>
 			<empty>0</empty>
