@@ -5187,7 +5187,7 @@
 			<name>SuperScroll Fire Ball</name>
 			<price>50000</price>
 			<weight>1</weight>
-			<effect>castSpell=Fire_Ball:50</effect>
+			<effect>castSpell=Fire_Ball:20</effect>
 		</item>
 		<item>
 			<name>SuperScroll Fire Wall</name>
