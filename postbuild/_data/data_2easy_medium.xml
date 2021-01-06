@@ -5013,7 +5013,7 @@
 			<name>Scroll Fire Ball</name>
 			<price>3000</price>
 			<weight>1</weight>
-			<effect>castSpell=Fire_Ball:10</effect>
+			<effect>castSpell=Fire_Ball:20</effect>
 		</item>
 		<item>
 			<name>Scroll Fire Wall</name>
@@ -5157,13 +5157,13 @@
 			<name>Scroll Drain Life</name>
 			<price>500</price>
 			<weight>1</weight>
-			<effect>castSpell=Drain_Life:10</effect>
+			<effect>castSpell=Drain_Life:20</effect>
 		</item>
 		<item>
 			<name>Scroll Shield</name>
 			<price>20000</price>
 			<weight>1</weight>
-			<effect>castSpell=Shield:10</effect>
+			<effect>castSpell=Shield:20</effect>
 		</item>
 		<item>
 			<name>Scroll Curse</name>
@@ -5187,7 +5187,7 @@
 			<name>SuperScroll Fire Ball</name>
 			<price>50000</price>
 			<weight>1</weight>
-			<effect>castSpell=Fire_Ball:20</effect>
+			<effect>castSpell=Fire_Ball:30</effect>
 		</item>
 		<item>
 			<name>SuperScroll Fire Wall</name>
@@ -5331,7 +5331,7 @@
 			<name>SuperScroll Drain Life</name>
 			<price>1500</price>
 			<weight>1</weight>
-			<effect>castSpell=Drain_Life:20</effect>
+			<effect>castSpell=Drain_Life:30</effect>
 		</item>
 		<item>
 			<name>SuperScroll Shield</name>
@@ -45784,7 +45784,7 @@
 			<skillOffset>0</skillOffset>
 			<scrollCost>1000</scrollCost>
 			<bookCost>10000</bookCost>
-			<effect>absorbtion=+5:duration 5</effect>
+			<effect>absorbtion=+5:duration 3</effect>
 		</item>
 		<item>
 			<empty>0</empty>
