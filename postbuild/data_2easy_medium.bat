@@ -10,7 +10,6 @@ if exist world.res del /Q /F world.res >nul
 if exist world\data.bin del /Q /F world\data.bin >nul
 if exist tmp_world rmdir /S /Q tmp_world >nul
 
-rem copy /Y _data\data_1easy.xml world\data.xml >nul
 copy /Y _data\data_2easy_medium.xml world\data.xml >nul
 
 databin2xml.exe "world\data.xml" world\data.bin
