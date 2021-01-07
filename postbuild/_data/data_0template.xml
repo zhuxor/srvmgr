@@ -3733,7 +3733,7 @@
 			<name>Dagger</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>100</price>
+			<price>1000</price>
 			<weight>1</weight>
 			<slot>1</slot>
 			<attackType>1</attackType>
@@ -3809,7 +3809,7 @@
 			<name>Short Sword</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>250</price>
+			<price>2500</price>
 			<weight>3</weight>
 			<slot>1</slot>
 			<attackType>1</attackType>
@@ -3881,7 +3881,7 @@
 			<name>Long Sword</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>600</price>
+			<price>6000</price>
 			<weight>50</weight>
 			<slot>1</slot>
 			<attackType>1</attackType>
@@ -3957,7 +3957,7 @@
 			<name>Bastard Sword</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>900</price>
+			<price>9000</price>
 			<weight>55</weight>
 			<slot>1</slot>
 			<attackType>1</attackType>
@@ -3993,7 +3993,7 @@
 			<name>Two Handed Sword</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>700</price>
+			<price>7000</price>
 			<weight>5</weight>
 			<slot>1</slot>
 			<attackType>1</attackType>
@@ -4069,7 +4069,7 @@
 			<name>Club</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>21</price>
+			<price>210</price>
 			<weight>1</weight>
 			<slot>1</slot>
 			<attackType>3</attackType>
@@ -4105,7 +4105,7 @@
 			<name>Spiked Club</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>64</price>
+			<price>640</price>
 			<weight>2</weight>
 			<slot>1</slot>
 			<attackType>3</attackType>
@@ -4145,7 +4145,7 @@
 			<name>Mace</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>290</price>
+			<price>2900</price>
 			<weight>5</weight>
 			<slot>1</slot>
 			<attackType>3</attackType>
@@ -4201,7 +4201,7 @@
 			<name>Morning Star</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>600</price>
+			<price>6000</price>
 			<weight>50</weight>
 			<slot>1</slot>
 			<attackType>3</attackType>
@@ -4257,7 +4257,7 @@
 			<name>Pick Hammer</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>460</price>
+			<price>4600</price>
 			<weight>5</weight>
 			<slot>1</slot>
 			<attackType>3</attackType>
@@ -4297,7 +4297,7 @@
 			<name>War Hammer</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>700</price>
+			<price>7000</price>
 			<weight>5</weight>
 			<slot>1</slot>
 			<attackType>3</attackType>
@@ -4453,7 +4453,7 @@
 			<name>Pike</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>600</price>
+			<price>6000</price>
 			<weight>50</weight>
 			<slot>1</slot>
 			<attackType>4</attackType>
@@ -4513,7 +4513,7 @@
 			<name>Halberd</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>800</price>
+			<price>8000</price>
 			<weight>5</weight>
 			<slot>1</slot>
 			<attackType>4</attackType>
@@ -4557,7 +4557,7 @@
 			<name>Lance</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>1600</price>
+			<price>16000</price>
 			<weight>5</weight>
 			<slot>1</slot>
 			<attackType>4</attackType>
@@ -4589,7 +4589,7 @@
 			<name>Axe</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>700</price>
+			<price>7000</price>
 			<weight>50</weight>
 			<slot>1</slot>
 			<attackType>2</attackType>
@@ -4653,7 +4653,7 @@
 			<name>Two Handed Axe</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>780</price>
+			<price>7800</price>
 			<weight>5</weight>
 			<slot>1</slot>
 			<attackType>2</attackType>
@@ -4713,7 +4713,7 @@
 			<name>Short Bow</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>800</price>
+			<price>8000</price>
 			<weight>1</weight>
 			<slot>1</slot>
 			<attackType>5</attackType>
@@ -4757,7 +4757,7 @@
 			<name>Long Bow</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>4200</price>
+			<price>42000</price>
 			<weight>10</weight>
 			<slot>1</slot>
 			<attackType>5</attackType>
@@ -4805,7 +4805,7 @@
 			<name>Crossbow</name>
 			<shape>0</shape>
 			<material>0</material>
-			<price>2000</price>
+			<price>20000</price>
 			<weight>80</weight>
 			<slot>1</slot>
 			<attackType>5</attackType>
