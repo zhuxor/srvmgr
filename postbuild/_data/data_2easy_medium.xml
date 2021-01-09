@@ -45784,7 +45784,7 @@
 			<skillOffset>0</skillOffset>
 			<scrollCost>1000</scrollCost>
 			<bookCost>10000</bookCost>
-			<effect>absorbtion=+5:duration 3</effect>
+			<effect>absorbtion=+5:duration 1</effect>
 		</item>
 		<item>
 			<empty>0</empty>
