@@ -5355,7 +5355,7 @@
 			<name>Potion Antipoison</name>
 			<price>100</price>
 			<weight>3</weight>
-			<effect>health=+20, mana=+20</effect>
+			<effect>health=+10, mana=+10</effect>
 		</item>
 		<item>
 			<name>Potion Body</name>
@@ -5385,13 +5385,13 @@
 			<name>Potion Health Regeneration</name>
 			<price>20000</price>
 			<weight>1</weight>
-			<effect>body=+1, reaction=+1</effect>
+			<effect>health=+1</effect>
 		</item>
 		<item>
 			<name>Potion Medium Healing</name>
 			<price>200000</price>
 			<weight>2</weight>
-			<effect>health=+1</effect>
+			<effect>body=+1, reaction=+1</effect>
 		</item>
 		<item>
 			<name>Potion Big Healing</name>
@@ -5403,13 +5403,13 @@
 			<name>Potion Mana Regeneration</name>
 			<price>20000</price>
 			<weight>1</weight>
-			<effect>mind=+1, spirit=+1</effect>
+			<effect>mana=+1</effect>
 		</item>
 		<item>
 			<name>Potion Medium Mana</name>
 			<price>200000</price>
 			<weight>2</weight>
-			<effect>mana=+1</effect>
+			<effect>mind=+1, spirit=+1</effect>
 		</item>
 		<item>
 			<name>Potion Big Mana</name>
