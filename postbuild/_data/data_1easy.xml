@@ -9365,10 +9365,10 @@
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
-			<treasureItem>-1</treasureItem>
-			<treasureItemMin>-1</treasureItemMin>
-			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>-1</treasureItemMask>
+			<treasureItem>80</treasureItem>
+			<treasureItemMin>0</treasureItemMin>
+			<treasureItemMax>5</treasureItemMax>
+			<treasureItemMask>16843776</treasureItemMask>
 			<notUsed>-1</notUsed>
 			<notUsed1>-1</notUsed1>
 			<power>18</power>
@@ -10045,10 +10045,10 @@
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
-			<treasureItem>-1</treasureItem>
-			<treasureItemMin>-1</treasureItemMin>
-			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>-1</treasureItemMask>
+			<treasureItem>80</treasureItem>
+			<treasureItemMin>0</treasureItemMin>
+			<treasureItemMax>38</treasureItemMax>
+			<treasureItemMask>16812032</treasureItemMask>
 			<notUsed>-1</notUsed>
 			<notUsed1>-1</notUsed1>
 			<power>78</power>
@@ -15934,10 +15934,10 @@
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
-			<treasureItem>-1</treasureItem>
-			<treasureItemMin>-1</treasureItemMin>
-			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>-1</treasureItemMask>
+			<treasureItem>80</treasureItem>
+			<treasureItemMin>0</treasureItemMin>
+			<treasureItemMax>38</treasureItemMax>
+			<treasureItemMask>16812032</treasureItemMask>
 			<notUsed>-1</notUsed>
 			<notUsed1>-1</notUsed1>
 			<power>48</power>
@@ -17003,10 +17003,10 @@
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
-			<treasureItem>-1</treasureItem>
-			<treasureItemMin>-1</treasureItemMin>
-			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>-1</treasureItemMask>
+			<treasureItem>80</treasureItem>
+			<treasureItemMin>0</treasureItemMin>
+			<treasureItemMax>75</treasureItemMax>
+			<treasureItemMask>16844800</treasureItemMask>
 			<notUsed>-1</notUsed>
 			<notUsed1>-1</notUsed1>
 			<power>192</power>
