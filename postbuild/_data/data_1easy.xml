@@ -185,7 +185,7 @@
 			<weight>0.20000000000000001</weight>
 			<damage>0.27908300000000003</damage>
 			<toHit>1</toHit>
-			<defence>0.27908300000000003</defence>
+			<defence>0.57870500000000002</defence>
 			<absorbtion>1</absorbtion>
 			<magicVolume>0</magicVolume>
 		</item>
@@ -195,7 +195,7 @@
 			<weight>0.40000000000000002</weight>
 			<damage>0.57870500000000002</damage>
 			<toHit>1</toHit>
-			<defence>0.57870500000000002</defence>
+			<defence>0.69444499999999998</defence>
 			<absorbtion>1</absorbtion>
 			<magicVolume>1</magicVolume>
 		</item>
