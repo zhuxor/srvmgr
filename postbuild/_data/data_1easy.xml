@@ -8658,8 +8658,8 @@
 			<physicalMin>1</physicalMin>
 			<physicalMax>7</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>35</toHit>
-			<defence>25</defence>
+			<toHit>20</toHit>
+			<defence>0</defence>
 			<absorbtion>2</absorbtion>
 			<charge>8</charge>
 			<relax>4</relax>
@@ -9335,10 +9335,10 @@
 			<speed>17</speed>
 			<rotationSpeed>14</rotationSpeed>
 			<scanRange>7</scanRange>
-			<physicalMin>2</physicalMin>
+			<physicalMin>1</physicalMin>
 			<physicalMax>6</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>40</toHit>
+			<toHit>20</toHit>
 			<defence>0</defence>
 			<absorbtion>0</absorbtion>
 			<charge>8</charge>
@@ -9679,7 +9679,7 @@
 			<physicalMax>5</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>0</toHit>
-			<defence>25</defence>
+			<defence>0</defence>
 			<absorbtion>0</absorbtion>
 			<charge>10</charge>
 			<relax>4</relax>
@@ -10016,11 +10016,11 @@
 			<rotationSpeed>12</rotationSpeed>
 			<scanRange>5</scanRange>
 			<physicalMin>1</physicalMin>
-			<physicalMax>12</physicalMax>
+			<physicalMax>9</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>30</toHit>
-			<defence>40</defence>
-			<absorbtion>4</absorbtion>
+			<toHit>25</toHit>
+			<defence>20</defence>
+			<absorbtion>2</absorbtion>
 			<charge>8</charge>
 			<relax>4</relax>
 			<protectionFire>0</protectionFire>
@@ -15907,8 +15907,8 @@
 			<physicalMin>2</physicalMin>
 			<physicalMax>7</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>40</toHit>
-			<defence>20</defence>
+			<toHit>25</toHit>
+			<defence>0</defence>
 			<absorbtion>2</absorbtion>
 			<charge>6</charge>
 			<relax>6</relax>
@@ -16973,11 +16973,11 @@
 			<speed>22</speed>
 			<rotationSpeed>22</rotationSpeed>
 			<scanRange>6</scanRange>
-			<physicalMin>6</physicalMin>
-			<physicalMax>14</physicalMax>
+			<physicalMin>3</physicalMin>
+			<physicalMax>12</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>50</toHit>
-			<defence>30</defence>
+			<toHit>30</toHit>
+			<defence>15</defence>
 			<absorbtion>4</absorbtion>
 			<charge>6</charge>
 			<relax>8</relax>
