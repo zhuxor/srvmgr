@@ -6265,7 +6265,7 @@
 			<empty>0</empty>
 			<name>Goblin_Pike</name>
 			<body>20</body>
-			<reaction>60</reaction>
+			<reaction>50</reaction>
 			<mind>10</mind>
 			<spirit>10</spirit>
 			<healthMax>40</healthMax>
@@ -6279,7 +6279,7 @@
 			<physicalMax>8</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>15</toHit>
-			<defence>30</defence>
+			<defence>20</defence>
 			<absorbtion>0</absorbtion>
 			<charge>7</charge>
 			<relax>3</relax>
@@ -6605,7 +6605,7 @@
 			<empty>0</empty>
 			<name>Goblin_Sling</name>
 			<body>15</body>
-			<reaction>60</reaction>
+			<reaction>50</reaction>
 			<mind>10</mind>
 			<spirit>10</spirit>
 			<healthMax>30</healthMax>
@@ -6619,7 +6619,7 @@
 			<physicalMax>6</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>20</toHit>
-			<defence>25</defence>
+			<defence>20</defence>
 			<absorbtion>0</absorbtion>
 			<charge>21</charge>
 			<relax>7</relax>
@@ -8659,7 +8659,7 @@
 			<physicalMax>8</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>40</toHit>
-			<defence>50</defence>
+			<defence>30</defence>
 			<absorbtion>2</absorbtion>
 			<charge>8</charge>
 			<relax>4</relax>
@@ -9325,7 +9325,7 @@
 			<empty>0</empty>
 			<name>Squirrel</name>
 			<body>10</body>
-			<reaction>60</reaction>
+			<reaction>40</reaction>
 			<mind>3</mind>
 			<spirit>6</spirit>
 			<healthMax>20</healthMax>
@@ -10019,7 +10019,7 @@
 			<physicalMax>12</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>30</toHit>
-			<defence>80</defence>
+			<defence>40</defence>
 			<absorbtion>4</absorbtion>
 			<charge>8</charge>
 			<relax>4</relax>
@@ -15894,7 +15894,7 @@
 			<empty>0</empty>
 			<name>Wolf</name>
 			<body>25</body>
-			<reaction>60</reaction>
+			<reaction>40</reaction>
 			<mind>5</mind>
 			<spirit>10</spirit>
 			<healthMax>40</healthMax>
@@ -15908,7 +15908,7 @@
 			<physicalMax>8</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>40</toHit>
-			<defence>30</defence>
+			<defence>20</defence>
 			<absorbtion>2</absorbtion>
 			<charge>6</charge>
 			<relax>6</relax>
@@ -16977,7 +16977,7 @@
 			<physicalMax>16</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>50</toHit>
-			<defence>50</defence>
+			<defence>30</defence>
 			<absorbtion>4</absorbtion>
 			<charge>6</charge>
 			<relax>8</relax>
