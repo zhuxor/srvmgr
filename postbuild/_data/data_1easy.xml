@@ -9332,8 +9332,8 @@
 			<healthRegeneration>50</healthRegeneration>
 			<manaMax>0</manaMax>
 			<manaRegeneration>0</manaRegeneration>
-			<speed>24</speed>
-			<rotationSpeed>16</rotationSpeed>
+			<speed>17</speed>
+			<rotationSpeed>14</rotationSpeed>
 			<scanRange>7</scanRange>
 			<physicalMin>3</physicalMin>
 			<physicalMax>6</physicalMax>
@@ -15901,8 +15901,8 @@
 			<healthRegeneration>50</healthRegeneration>
 			<manaMax>0</manaMax>
 			<manaRegeneration>0</manaRegeneration>
-			<speed>16</speed>
-			<rotationSpeed>16</rotationSpeed>
+			<speed>15</speed>
+			<rotationSpeed>14</rotationSpeed>
 			<scanRange>7</scanRange>
 			<physicalMin>4</physicalMin>
 			<physicalMax>8</physicalMax>
@@ -45687,7 +45687,7 @@
 			<item>0</item>
 			<spellTarget>1</spellTarget>
 			<deliverySystem>1</deliverySystem>
-			<maxRange>0</maxRange>
+			<maxRange>6</maxRange>
 			<effectSpeed>0</effectSpeed>
 			<distribution>1</distribution>
 			<radius>0</radius>
