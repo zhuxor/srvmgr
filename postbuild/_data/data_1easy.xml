@@ -6275,7 +6275,7 @@
 			<speed>24</speed>
 			<rotationSpeed>16</rotationSpeed>
 			<scanRange>6</scanRange>
-			<physicalMin>4</physicalMin>
+			<physicalMin>2</physicalMin>
 			<physicalMax>8</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>15</toHit>
@@ -6283,15 +6283,15 @@
 			<absorbtion>0</absorbtion>
 			<charge>7</charge>
 			<relax>3</relax>
-			<protectionFire>50</protectionFire>
+			<protectionFire>20</protectionFire>
 			<protectionWater>0</protectionWater>
-			<protectionAir>30</protectionAir>
+			<protectionAir>10</protectionAir>
 			<protectionEarth>0</protectionEarth>
-			<protectionAstral>30</protectionAstral>
-			<protectionBlade>30</protectionBlade>
+			<protectionAstral>10</protectionAstral>
+			<protectionBlade>10</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
-			<protectionPike>40</protectionPike>
+			<protectionPike>20</protectionPike>
 			<protectionShooting>0</protectionShooting>
 			<typeId>64</typeId>
 			<face>1</face>
@@ -6615,7 +6615,7 @@
 			<speed>24</speed>
 			<rotationSpeed>16</rotationSpeed>
 			<scanRange>6</scanRange>
-			<physicalMin>3</physicalMin>
+			<physicalMin>2</physicalMin>
 			<physicalMax>6</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>20</toHit>
@@ -8656,18 +8656,18 @@
 			<rotationSpeed>16</rotationSpeed>
 			<scanRange>6</scanRange>
 			<physicalMin>1</physicalMin>
-			<physicalMax>8</physicalMax>
+			<physicalMax>7</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>40</toHit>
-			<defence>30</defence>
+			<toHit>35</toHit>
+			<defence>25</defence>
 			<absorbtion>2</absorbtion>
 			<charge>8</charge>
 			<relax>4</relax>
 			<protectionFire>0</protectionFire>
-			<protectionWater>50</protectionWater>
-			<protectionAir>30</protectionAir>
-			<protectionEarth>100</protectionEarth>
-			<protectionAstral>50</protectionAstral>
+			<protectionWater>20</protectionWater>
+			<protectionAir>10</protectionAir>
+			<protectionEarth>90</protectionEarth>
+			<protectionAstral>10</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>10</protectionBludgeon>
@@ -8732,15 +8732,15 @@
 			<charge>8</charge>
 			<relax>4</relax>
 			<protectionFire>0</protectionFire>
-			<protectionWater>50</protectionWater>
-			<protectionAir>30</protectionAir>
+			<protectionWater>20</protectionWater>
+			<protectionAir>10</protectionAir>
 			<protectionEarth>100</protectionEarth>
-			<protectionAstral>60</protectionAstral>
+			<protectionAstral>10</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
-			<protectionBludgeon>20</protectionBludgeon>
+			<protectionBludgeon>10</protectionBludgeon>
 			<protectionPike>0</protectionPike>
-			<protectionShooting>20</protectionShooting>
+			<protectionShooting>10</protectionShooting>
 			<typeId>69</typeId>
 			<face>2</face>
 			<tokenSize>1</tokenSize>
@@ -9335,7 +9335,7 @@
 			<speed>17</speed>
 			<rotationSpeed>14</rotationSpeed>
 			<scanRange>7</scanRange>
-			<physicalMin>3</physicalMin>
+			<physicalMin>2</physicalMin>
 			<physicalMax>6</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>40</toHit>
@@ -9343,11 +9343,11 @@
 			<absorbtion>0</absorbtion>
 			<charge>8</charge>
 			<relax>4</relax>
-			<protectionFire>50</protectionFire>
-			<protectionWater>10</protectionWater>
-			<protectionAir>10</protectionAir>
-			<protectionEarth>10</protectionEarth>
-			<protectionAstral>10</protectionAstral>
+			<protectionFire>20</protectionFire>
+			<protectionWater>0</protectionWater>
+			<protectionAir>0</protectionAir>
+			<protectionEarth>0</protectionEarth>
+			<protectionAstral>0</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>10</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -9679,7 +9679,7 @@
 			<physicalMax>5</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>0</toHit>
-			<defence>30</defence>
+			<defence>25</defence>
 			<absorbtion>0</absorbtion>
 			<charge>10</charge>
 			<relax>4</relax>
@@ -10024,10 +10024,10 @@
 			<charge>8</charge>
 			<relax>4</relax>
 			<protectionFire>0</protectionFire>
-			<protectionWater>50</protectionWater>
+			<protectionWater>20</protectionWater>
 			<protectionAir>0</protectionAir>
-			<protectionEarth>50</protectionEarth>
-			<protectionAstral>30</protectionAstral>
+			<protectionEarth>20</protectionEarth>
+			<protectionAstral>10</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>30</protectionBludgeon>
@@ -11202,7 +11202,7 @@
 			<rotationSpeed>16</rotationSpeed>
 			<scanRange>5</scanRange>
 			<physicalMin>6</physicalMin>
-			<physicalMax>12</physicalMax>
+			<physicalMax>11</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>40</toHit>
 			<defence>60</defence>
@@ -11210,15 +11210,15 @@
 			<charge>6</charge>
 			<relax>6</relax>
 			<protectionFire>0</protectionFire>
-			<protectionWater>50</protectionWater>
-			<protectionAir>10</protectionAir>
-			<protectionEarth>30</protectionEarth>
-			<protectionAstral>50</protectionAstral>
-			<protectionBlade>30</protectionBlade>
-			<protectionAxe>75</protectionAxe>
+			<protectionWater>20</protectionWater>
+			<protectionAir>0</protectionAir>
+			<protectionEarth>10</protectionEarth>
+			<protectionAstral>20</protectionAstral>
+			<protectionBlade>10</protectionBlade>
+			<protectionAxe>50</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
-			<protectionPike>50</protectionPike>
-			<protectionShooting>50</protectionShooting>
+			<protectionPike>20</protectionPike>
+			<protectionShooting>20</protectionShooting>
 			<typeId>82</typeId>
 			<face>1</face>
 			<tokenSize>1</tokenSize>
@@ -11550,10 +11550,10 @@
 			<charge>8</charge>
 			<relax>16</relax>
 			<protectionFire>0</protectionFire>
-			<protectionWater>60</protectionWater>
+			<protectionWater>30</protectionWater>
 			<protectionAir>20</protectionAir>
 			<protectionEarth>30</protectionEarth>
-			<protectionAstral>50</protectionAstral>
+			<protectionAstral>20</protectionAstral>
 			<protectionBlade>30</protectionBlade>
 			<protectionAxe>75</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -11813,24 +11813,24 @@
 			<speed>16</speed>
 			<rotationSpeed>16</rotationSpeed>
 			<scanRange>6</scanRange>
-			<physicalMin>8</physicalMin>
-			<physicalMax>16</physicalMax>
+			<physicalMin>6</physicalMin>
+			<physicalMax>14</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>50</toHit>
-			<defence>45</defence>
+			<defence>35</defence>
 			<absorbtion>2</absorbtion>
 			<charge>8</charge>
 			<relax>6</relax>
-			<protectionFire>30</protectionFire>
-			<protectionWater>10</protectionWater>
-			<protectionAir>50</protectionAir>
+			<protectionFire>10</protectionFire>
+			<protectionWater>0</protectionWater>
+			<protectionAir>20</protectionAir>
 			<protectionEarth>0</protectionEarth>
-			<protectionAstral>50</protectionAstral>
-			<protectionBlade>50</protectionBlade>
+			<protectionAstral>20</protectionAstral>
+			<protectionBlade>20</protectionBlade>
 			<protectionAxe>0</protectionAxe>
-			<protectionBludgeon>75</protectionBludgeon>
-			<protectionPike>30</protectionPike>
-			<protectionShooting>50</protectionShooting>
+			<protectionBludgeon>50</protectionBludgeon>
+			<protectionPike>10</protectionPike>
+			<protectionShooting>20</protectionShooting>
 			<typeId>89</typeId>
 			<face>1</face>
 			<tokenSize>1</tokenSize>
@@ -12161,16 +12161,16 @@
 			<absorbtion>2</absorbtion>
 			<charge>20</charge>
 			<relax>5</relax>
-			<protectionFire>30</protectionFire>
+			<protectionFire>10</protectionFire>
 			<protectionWater>0</protectionWater>
-			<protectionAir>50</protectionAir>
+			<protectionAir>20</protectionAir>
 			<protectionEarth>0</protectionEarth>
-			<protectionAstral>50</protectionAstral>
-			<protectionBlade>50</protectionBlade>
+			<protectionAstral>20</protectionAstral>
+			<protectionBlade>20</protectionBlade>
 			<protectionAxe>0</protectionAxe>
-			<protectionBludgeon>75</protectionBludgeon>
-			<protectionPike>30</protectionPike>
-			<protectionShooting>50</protectionShooting>
+			<protectionBludgeon>50</protectionBludgeon>
+			<protectionPike>10</protectionPike>
+			<protectionShooting>20</protectionShooting>
 			<typeId>93</typeId>
 			<face>1</face>
 			<tokenSize>1</tokenSize>
@@ -15904,19 +15904,19 @@
 			<speed>15</speed>
 			<rotationSpeed>14</rotationSpeed>
 			<scanRange>7</scanRange>
-			<physicalMin>4</physicalMin>
-			<physicalMax>8</physicalMax>
+			<physicalMin>2</physicalMin>
+			<physicalMax>7</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>40</toHit>
 			<defence>20</defence>
 			<absorbtion>2</absorbtion>
 			<charge>6</charge>
 			<relax>6</relax>
-			<protectionFire>50</protectionFire>
+			<protectionFire>20</protectionFire>
 			<protectionWater>0</protectionWater>
-			<protectionAir>30</protectionAir>
+			<protectionAir>10</protectionAir>
 			<protectionEarth>0</protectionEarth>
-			<protectionAstral>30</protectionAstral>
+			<protectionAstral>10</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>10</protectionAxe>
 			<protectionBludgeon>10</protectionBludgeon>
@@ -16973,8 +16973,8 @@
 			<speed>22</speed>
 			<rotationSpeed>22</rotationSpeed>
 			<scanRange>6</scanRange>
-			<physicalMin>8</physicalMin>
-			<physicalMax>16</physicalMax>
+			<physicalMin>6</physicalMin>
+			<physicalMax>14</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>50</toHit>
 			<defence>30</defence>
