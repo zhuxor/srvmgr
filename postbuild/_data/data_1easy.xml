@@ -185,7 +185,7 @@
 			<weight>0.20000000000000001</weight>
 			<damage>0.27908300000000003</damage>
 			<toHit>1</toHit>
-			<defence>0.57870500000000002</defence>
+			<defence>0.69444499999999998</defence>
 			<absorbtion>1</absorbtion>
 			<magicVolume>0</magicVolume>
 		</item>
@@ -195,7 +195,7 @@
 			<weight>0.40000000000000002</weight>
 			<damage>0.57870500000000002</damage>
 			<toHit>1</toHit>
-			<defence>0.69444499999999998</defence>
+			<defence>1.0000009999999999</defence>
 			<absorbtion>1</absorbtion>
 			<magicVolume>1</magicVolume>
 		</item>
@@ -8685,10 +8685,10 @@
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
-			<treasureItem>-1</treasureItem>
-			<treasureItemMin>-1</treasureItemMin>
-			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>-1</treasureItemMask>
+			<treasureItem>80</treasureItem>
+			<treasureItemMin>0</treasureItemMin>
+			<treasureItemMax>500</treasureItemMax>
+			<treasureItemMask>34652160</treasureItemMask>
 			<notUsed>-1</notUsed>
 			<notUsed1>-1</notUsed1>
 			<power>45</power>
