@@ -45621,7 +45621,7 @@
 			<defensive>1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>50</scrollCost>
-			<bookCost>1500000</bookCost>
+			<bookCost>2500000</bookCost>
 			<effect>speed=+2: duration 30</effect>
 		</item>
 		<item>
