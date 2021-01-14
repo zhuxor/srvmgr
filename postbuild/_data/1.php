@@ -2,13 +2,21 @@
 
 error_reporting(0);
 
-// EASY
-define(ORIGINAL_XML, "D:\GitHub\srvmgr\postbuild\_data\data_1easy.xml");
-define(OUTPUT_XML, "D:\GitHub\srvmgr\postbuild\_data\_data_1easy.xml");
+// 1-EASY
+//define(ORIGINAL_XML, "D:\GitHub\srvmgr\postbuild\_data\data_1easy.xml");
+//define(OUTPUT_XML, "D:\GitHub\srvmgr\postbuild\_data\_data_1easy.xml");
 
-// EASY-2
-//define(ORIGINAL_XML, "D:\GitHub\srvmgr\postbuild\_data\data_2easy_medium.xml");
-//define(OUTPUT_XML, "D:\GitHub\srvmgr\postbuild\_data\_data_2easy_medium.xml");
+// 2-EASY
+//define(ORIGINAL_XML, "D:\GitHub\srvmgr\postbuild\_data\data_2easy.xml");
+//define(OUTPUT_XML, "D:\GitHub\srvmgr\postbuild\_data\_data_2easy.xml");
+
+// 3-EASY-medium
+//define(ORIGINAL_XML, "D:\GitHub\srvmgr\postbuild\_data\data_3easy_medium.xml");
+//define(OUTPUT_XML, "D:\GitHub\srvmgr\postbuild\_data\_data_3easy_medium.xml");
+
+// 4-MEDUM
+define(ORIGINAL_XML, "D:\GitHub\srvmgr\postbuild\_data\data_4medium.xml");
+define(OUTPUT_XML, "D:\GitHub\srvmgr\postbuild\_data\_data_4medium.xml");
 
 define(COEFFICIENT, 0.75);
 
