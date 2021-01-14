@@ -5389,7 +5389,7 @@
 		</item>
 		<item>
 			<name>Potion Medium Healing</name>
-			<price>200000</price>
+			<price>400000</price>
 			<weight>2</weight>
 			<effect>body=+1, reaction=+1</effect>
 		</item>
@@ -5407,7 +5407,7 @@
 		</item>
 		<item>
 			<name>Potion Medium Mana</name>
-			<price>200000</price>
+			<price>400000</price>
 			<weight>2</weight>
 			<effect>mind=+1, spirit=+1</effect>
 		</item>

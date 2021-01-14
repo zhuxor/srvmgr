@@ -5389,7 +5389,7 @@
 		</item>
 		<item>
 			<name>Potion Medium Healing</name>
-			<price>200000</price>
+			<price>400000</price>
 			<weight>2</weight>
 			<effect>health=+1</effect>
 		</item>
@@ -5407,7 +5407,7 @@
 		</item>
 		<item>
 			<name>Potion Medium Mana</name>
-			<price>200000</price>
+			<price>400000</price>
 			<weight>2</weight>
 			<effect>mana=+1</effect>
 		</item>
