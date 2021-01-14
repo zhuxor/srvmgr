@@ -5355,7 +5355,7 @@
 			<name>Potion Antipoison</name>
 			<price>100</price>
 			<weight>3</weight>
-			<effect>health=+10, mana=+10</effect>
+			<effect>health=+5, mana=+10</effect>
 		</item>
 		<item>
 			<name>Potion Body</name>
