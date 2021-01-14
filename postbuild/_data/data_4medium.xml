@@ -45115,7 +45115,7 @@
 			<empty>0</empty>
 			<name>Wall of Fire</name>
 			<level>20</level>
-			<manaCost>9999</manaCost>
+			<manaCost>100</manaCost>
 			<sphere>1</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45131,7 +45131,7 @@
 			<duration>0</duration>
 			<frequency>0</frequency>
 			<damageMin>1</damageMin>
-			<damageMax>2</damageMax>
+			<damageMax>3</damageMax>
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>100</scrollCost>
@@ -45196,7 +45196,7 @@
 			<empty>0</empty>
 			<name>Poison Cloud</name>
 			<level>20</level>
-			<manaCost>9999</manaCost>
+			<manaCost>100</manaCost>
 			<sphere>2</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45223,7 +45223,7 @@
 			<empty>0</empty>
 			<name>Blizzard</name>
 			<level>20</level>
-			<manaCost>9999</manaCost>
+			<manaCost>240</manaCost>
 			<sphere>4</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45238,8 +45238,8 @@
 			<unitApplyMethod>1</unitApplyMethod>
 			<duration>0</duration>
 			<frequency>0</frequency>
-			<damageMin>1</damageMin>
-			<damageMax>2</damageMax>
+			<damageMin>10</damageMin>
+			<damageMax>30</damageMax>
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>500</scrollCost>
@@ -45292,8 +45292,8 @@
 			<unitApplyMethod>1</unitApplyMethod>
 			<duration>0</duration>
 			<frequency>0</frequency>
-			<damageMin>1</damageMin>
-			<damageMax>2</damageMax>
+			<damageMin>10</damageMin>
+			<damageMax>14</damageMax>
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>2000</scrollCost>
@@ -45331,7 +45331,7 @@
 			<empty>0</empty>
 			<name>Prismatic Spray</name>
 			<level>20</level>
-			<manaCost>9999</manaCost>
+			<manaCost>50</manaCost>
 			<sphere>3</sphere>
 			<item>0</item>
 			<spellTarget>1</spellTarget>
@@ -45346,8 +45346,8 @@
 			<unitApplyMethod>1</unitApplyMethod>
 			<duration>0</duration>
 			<frequency>0</frequency>
-			<damageMin>1</damageMin>
-			<damageMax>2</damageMax>
+			<damageMin>5</damageMin>
+			<damageMax>15</damageMax>
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>5000</scrollCost>
@@ -45358,7 +45358,7 @@
 			<empty>0</empty>
 			<name>Invisibility</name>
 			<level>25</level>
-			<manaCost>9999</manaCost>
+			<manaCost>150</manaCost>
 			<sphere>3</sphere>
 			<item>0</item>
 			<spellTarget>1</spellTarget>
@@ -45493,7 +45493,7 @@
 			<empty>0</empty>
 			<name>Wall of Earth</name>
 			<level>20</level>
-			<manaCost>9999</manaCost>
+			<manaCost>250</manaCost>
 			<sphere>4</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45519,7 +45519,7 @@
 		<item>
 			<empty>0</empty>
 			<name>Stone Curse</name>
-			<level>9999</level>
+			<level>20</level>
 			<manaCost>40</manaCost>
 			<sphere>4</sphere>
 			<item>0</item>
@@ -45628,7 +45628,7 @@
 			<empty>0</empty>
 			<name>Control Spirit</name>
 			<level>20</level>
-			<manaCost>9999</manaCost>
+			<manaCost>90</manaCost>
 			<sphere>5</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45655,7 +45655,7 @@
 			<empty>0</empty>
 			<name>Teleport</name>
 			<level>20</level>
-			<manaCost>9999</manaCost>
+			<manaCost>360</manaCost>
 			<sphere>5</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45709,7 +45709,7 @@
 			<empty>0</empty>
 			<name>Summon</name>
 			<level>20</level>
-			<manaCost>9999</manaCost>
+			<manaCost>100</manaCost>
 			<sphere>5</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45763,7 +45763,7 @@
 			<empty>0</empty>
 			<name>Shield</name>
 			<level>3</level>
-			<manaCost>150</manaCost>
+			<manaCost>50</manaCost>
 			<sphere>5</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45776,7 +45776,7 @@
 			<areaDuration>0</areaDuration>
 			<areaFrequency>0</areaFrequency>
 			<unitApplyMethod>2</unitApplyMethod>
-			<duration>5</duration>
+			<duration>20</duration>
 			<frequency>0</frequency>
 			<damageMin>-1</damageMin>
 			<damageMax>-1</damageMax>
@@ -45784,7 +45784,7 @@
 			<skillOffset>0</skillOffset>
 			<scrollCost>1000</scrollCost>
 			<bookCost>10000</bookCost>
-			<effect>absorbtion=+5:duration 1</effect>
+			<effect>absorbtion=+5:duration 10</effect>
 		</item>
 		<item>
 			<empty>0</empty>
