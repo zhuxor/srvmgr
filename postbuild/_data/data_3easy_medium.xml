@@ -45405,7 +45405,7 @@
 			<defensive>1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>1000</scrollCost>
-			<bookCost>2000000</bookCost>
+			<bookCost>3000000</bookCost>
 			<effect>protectionAir=+30: duration 30</effect>
 		</item>
 		<item>
