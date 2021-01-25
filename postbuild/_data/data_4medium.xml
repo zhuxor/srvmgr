@@ -10533,12 +10533,12 @@
 			<seeInvisible>5</seeInvisible>
 			<experience>151948</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>147000</treasureGoldMin>
-			<treasureGoldMax>269340</treasureGoldMax>
-			<treasureItem>100</treasureItem>
-			<treasureItemMin>73500</treasureItemMin>
-			<treasureItemMax>202005</treasureItemMax>
-			<treasureItemMask>672137215</treasureItemMask>
+			<treasureGoldMin>68200</treasureGoldMin>
+			<treasureGoldMax>141604</treasureGoldMax>
+			<treasureItem>30</treasureItem>
+			<treasureItemMin>100500</treasureItemMin>
+			<treasureItemMax>440000</treasureItemMax>
+			<treasureItemMask>554635264</treasureItemMask>
 			<notUsed>73500</notUsed>
 			<notUsed1>122500</notUsed1>
 			<power>20480</power>
@@ -45292,8 +45292,8 @@
 			<unitApplyMethod>1</unitApplyMethod>
 			<duration>0</duration>
 			<frequency>0</frequency>
-			<damageMin>10</damageMin>
-			<damageMax>14</damageMax>
+			<damageMin>1</damageMin>
+			<damageMax>2</damageMax>
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>2000</scrollCost>
