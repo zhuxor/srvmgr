@@ -45142,7 +45142,7 @@
 			<empty>0</empty>
 			<name>Protection from Fire</name>
 			<level>10</level>
-			<manaCost>30</manaCost>
+			<manaCost>35</manaCost>
 			<sphere>1</sphere>
 			<item>0</item>
 			<spellTarget>1</spellTarget>
@@ -45250,7 +45250,7 @@
 			<empty>0</empty>
 			<name>Protection from Water</name>
 			<level>10</level>
-			<manaCost>30</manaCost>
+			<manaCost>35</manaCost>
 			<sphere>2</sphere>
 			<item>0</item>
 			<spellTarget>1</spellTarget>
@@ -45385,7 +45385,7 @@
 			<empty>0</empty>
 			<name>Protection from Air</name>
 			<level>10</level>
-			<manaCost>30</manaCost>
+			<manaCost>35</manaCost>
 			<sphere>3</sphere>
 			<item>0</item>
 			<spellTarget>1</spellTarget>
@@ -45547,7 +45547,7 @@
 			<empty>0</empty>
 			<name>Protection from Earth</name>
 			<level>10</level>
-			<manaCost>30</manaCost>
+			<manaCost>35</manaCost>
 			<sphere>4</sphere>
 			<item>0</item>
 			<spellTarget>1</spellTarget>
@@ -45600,7 +45600,7 @@
 		<item>
 			<empty>0</empty>
 			<name>Haste</name>
-			<level>10</level>
+			<level>15</level>
 			<manaCost>10</manaCost>
 			<sphere>5</sphere>
 			<item>0</item>
@@ -45682,7 +45682,7 @@
 			<empty>0</empty>
 			<name>Heal</name>
 			<level>3</level>
-			<manaCost>5</manaCost>
+			<manaCost>7</manaCost>
 			<sphere>2</sphere>
 			<item>0</item>
 			<spellTarget>1</spellTarget>
@@ -45763,7 +45763,7 @@
 			<empty>0</empty>
 			<name>Shield</name>
 			<level>3</level>
-			<manaCost>50</manaCost>
+			<manaCost>125</manaCost>
 			<sphere>5</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
