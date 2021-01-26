@@ -45602,11 +45602,11 @@
 			<name>Haste</name>
 			<level>15</level>
 			<manaCost>10</manaCost>
-			<sphere>5</sphere>
+			<sphere>3</sphere>
 			<item>0</item>
 			<spellTarget>1</spellTarget>
 			<deliverySystem>1</deliverySystem>
-			<maxRange>5</maxRange>
+			<maxRange>0</maxRange>
 			<effectSpeed>-1</effectSpeed>
 			<distribution>1</distribution>
 			<radius>0</radius>
