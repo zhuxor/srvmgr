@@ -1332,7 +1332,7 @@
 			<name>skillAir</name>
 			<manaCost>40</manaCost>
 			<affectMin>1</affectMin>
-			<affectMax>20</affectMax>
+			<affectMax>10</affectMax>
 			<usableBy>2</usableBy>
 			<in_WarriorWeapon>100</in_WarriorWeapon>
 			<in_WarriorShield>220</in_WarriorShield>
