@@ -18871,7 +18871,7 @@
 			<protectionAxe>20</protectionAxe>
 			<protectionBludgeon>20</protectionBludgeon>
 			<protectionPike>0</protectionPike>
-			<protectionShooting>0</protectionShooting>
+			<protectionShooting>100</protectionShooting>
 			<typeId>108</typeId>
 			<face>1</face>
 			<tokenSize>2</tokenSize>
@@ -18939,7 +18939,7 @@
 			<protectionAxe>30</protectionAxe>
 			<protectionBludgeon>30</protectionBludgeon>
 			<protectionPike>0</protectionPike>
-			<protectionShooting>0</protectionShooting>
+			<protectionShooting>100</protectionShooting>
 			<typeId>108</typeId>
 			<face>2</face>
 			<tokenSize>2</tokenSize>
@@ -19007,7 +19007,7 @@
 			<protectionAxe>40</protectionAxe>
 			<protectionBludgeon>40</protectionBludgeon>
 			<protectionPike>0</protectionPike>
-			<protectionShooting>0</protectionShooting>
+			<protectionShooting>100</protectionShooting>
 			<typeId>108</typeId>
 			<face>3</face>
 			<tokenSize>2</tokenSize>
@@ -19075,7 +19075,7 @@
 			<protectionAxe>50</protectionAxe>
 			<protectionBludgeon>50</protectionBludgeon>
 			<protectionPike>0</protectionPike>
-			<protectionShooting>0</protectionShooting>
+			<protectionShooting>100</protectionShooting>
 			<typeId>108</typeId>
 			<face>4</face>
 			<tokenSize>2</tokenSize>
@@ -19143,7 +19143,7 @@
 			<protectionAxe>60</protectionAxe>
 			<protectionBludgeon>60</protectionBludgeon>
 			<protectionPike>0</protectionPike>
-			<protectionShooting>0</protectionShooting>
+			<protectionShooting>100</protectionShooting>
 			<typeId>108</typeId>
 			<face>5</face>
 			<tokenSize>2</tokenSize>
