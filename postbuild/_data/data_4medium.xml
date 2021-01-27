@@ -10371,7 +10371,7 @@
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
 			<protectionBludgeon>100</protectionBludgeon>
-			<protectionPike>70</protectionPike>
+			<protectionPike>65</protectionPike>
 			<protectionShooting>0</protectionShooting>
 			<typeId>71</typeId>
 			<face>1</face>
