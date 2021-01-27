@@ -16596,7 +16596,7 @@
 			<protectionWater>20</protectionWater>
 			<protectionAir>20</protectionAir>
 			<protectionEarth>0</protectionEarth>
-			<protectionAstral>30</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
 			<protectionBludgeon>100</protectionBludgeon>
@@ -16672,7 +16672,7 @@
 			<protectionWater>60</protectionWater>
 			<protectionAir>20</protectionAir>
 			<protectionEarth>0</protectionEarth>
-			<protectionAstral>30</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
 			<protectionBludgeon>100</protectionBludgeon>
@@ -16748,7 +16748,7 @@
 			<protectionWater>20</protectionWater>
 			<protectionAir>70</protectionAir>
 			<protectionEarth>0</protectionEarth>
-			<protectionAstral>30</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
 			<protectionBludgeon>100</protectionBludgeon>
@@ -16825,7 +16825,7 @@
 			<protectionWater>80</protectionWater>
 			<protectionAir>20</protectionAir>
 			<protectionEarth>50</protectionEarth>
-			<protectionAstral>40</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
 			<protectionBludgeon>100</protectionBludgeon>
@@ -16905,7 +16905,7 @@
 			<protectionWater>90</protectionWater>
 			<protectionAir>20</protectionAir>
 			<protectionEarth>70</protectionEarth>
-			<protectionAstral>50</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
 			<protectionBludgeon>100</protectionBludgeon>
