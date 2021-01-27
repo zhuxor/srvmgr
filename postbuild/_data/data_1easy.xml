@@ -10371,7 +10371,7 @@
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
 			<protectionBludgeon>100</protectionBludgeon>
-			<protectionPike>100</protectionPike>
+			<protectionPike>90</protectionPike>
 			<protectionShooting>0</protectionShooting>
 			<typeId>71</typeId>
 			<face>1</face>
@@ -10446,7 +10446,7 @@
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
 			<protectionBludgeon>100</protectionBludgeon>
-			<protectionPike>100</protectionPike>
+			<protectionPike>90</protectionPike>
 			<protectionShooting>5</protectionShooting>
 			<typeId>71</typeId>
 			<face>2</face>
@@ -10521,7 +10521,7 @@
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
 			<protectionBludgeon>100</protectionBludgeon>
-			<protectionPike>100</protectionPike>
+			<protectionPike>90</protectionPike>
 			<protectionShooting>10</protectionShooting>
 			<typeId>71</typeId>
 			<face>3</face>
@@ -10599,7 +10599,7 @@
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
 			<protectionBludgeon>100</protectionBludgeon>
-			<protectionPike>100</protectionPike>
+			<protectionPike>90</protectionPike>
 			<protectionShooting>15</protectionShooting>
 			<typeId>71</typeId>
 			<face>4</face>
@@ -10679,7 +10679,7 @@
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
 			<protectionBludgeon>100</protectionBludgeon>
-			<protectionPike>100</protectionPike>
+			<protectionPike>90</protectionPike>
 			<protectionShooting>0</protectionShooting>
 			<typeId>71</typeId>
 			<face>5</face>
