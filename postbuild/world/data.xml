@@ -1332,7 +1332,7 @@
 			<name>skillAir</name>
 			<manaCost>40</manaCost>
 			<affectMin>1</affectMin>
-			<affectMax>20</affectMax>
+			<affectMax>10</affectMax>
 			<usableBy>2</usableBy>
 			<in_WarriorWeapon>100</in_WarriorWeapon>
 			<in_WarriorShield>220</in_WarriorShield>
@@ -5389,7 +5389,7 @@
 		</item>
 		<item>
 			<name>Potion Medium Healing</name>
-			<price>200000</price>
+			<price>400000</price>
 			<weight>2</weight>
 			<effect>health=+1</effect>
 		</item>
@@ -5407,7 +5407,7 @@
 		</item>
 		<item>
 			<name>Potion Medium Mana</name>
-			<price>200000</price>
+			<price>400000</price>
 			<weight>2</weight>
 			<effect>mana=+1</effect>
 		</item>
@@ -7647,12 +7647,12 @@
 			<protectionWater>30</protectionWater>
 			<protectionAir>50</protectionAir>
 			<protectionEarth>30</protectionEarth>
-			<protectionAstral>30</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>20</protectionBludgeon>
 			<protectionPike>0</protectionPike>
-			<protectionShooting>20</protectionShooting>
+			<protectionShooting>100</protectionShooting>
 			<typeId>66</typeId>
 			<face>1</face>
 			<tokenSize>2</tokenSize>
@@ -7715,12 +7715,12 @@
 			<protectionWater>30</protectionWater>
 			<protectionAir>60</protectionAir>
 			<protectionEarth>30</protectionEarth>
-			<protectionAstral>40</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>30</protectionBludgeon>
 			<protectionPike>0</protectionPike>
-			<protectionShooting>30</protectionShooting>
+			<protectionShooting>100</protectionShooting>
 			<typeId>66</typeId>
 			<face>2</face>
 			<tokenSize>2</tokenSize>
@@ -7783,12 +7783,12 @@
 			<protectionWater>30</protectionWater>
 			<protectionAir>70</protectionAir>
 			<protectionEarth>30</protectionEarth>
-			<protectionAstral>50</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>40</protectionBludgeon>
 			<protectionPike>0</protectionPike>
-			<protectionShooting>40</protectionShooting>
+			<protectionShooting>100</protectionShooting>
 			<typeId>66</typeId>
 			<face>3</face>
 			<tokenSize>2</tokenSize>
@@ -7851,12 +7851,12 @@
 			<protectionWater>30</protectionWater>
 			<protectionAir>80</protectionAir>
 			<protectionEarth>30</protectionEarth>
-			<protectionAstral>60</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>50</protectionBludgeon>
 			<protectionPike>0</protectionPike>
-			<protectionShooting>50</protectionShooting>
+			<protectionShooting>100</protectionShooting>
 			<typeId>66</typeId>
 			<face>4</face>
 			<tokenSize>2</tokenSize>
@@ -7919,12 +7919,12 @@
 			<protectionWater>30</protectionWater>
 			<protectionAir>90</protectionAir>
 			<protectionEarth>90</protectionEarth>
-			<protectionAstral>70</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>60</protectionBludgeon>
 			<protectionPike>0</protectionPike>
-			<protectionShooting>60</protectionShooting>
+			<protectionShooting>100</protectionShooting>
 			<typeId>66</typeId>
 			<face>5</face>
 			<tokenSize>2</tokenSize>
@@ -7987,12 +7987,12 @@
 			<protectionWater>60</protectionWater>
 			<protectionAir>30</protectionAir>
 			<protectionEarth>60</protectionEarth>
-			<protectionAstral>30</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>50</protectionBludgeon>
 			<protectionPike>30</protectionPike>
-			<protectionShooting>30</protectionShooting>
+			<protectionShooting>100</protectionShooting>
 			<typeId>68</typeId>
 			<face>1</face>
 			<tokenSize>2</tokenSize>
@@ -8008,7 +8008,7 @@
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>629669887</treasureItemMask>
+			<treasureItemMask>562561023</treasureItemMask>
 			<notUsed>500</notUsed>
 			<notUsed1>2000</notUsed1>
 			<power>1350</power>
@@ -8055,12 +8055,12 @@
 			<protectionWater>70</protectionWater>
 			<protectionAir>30</protectionAir>
 			<protectionEarth>70</protectionEarth>
-			<protectionAstral>40</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>60</protectionBludgeon>
 			<protectionPike>30</protectionPike>
-			<protectionShooting>30</protectionShooting>
+			<protectionShooting>100</protectionShooting>
 			<typeId>68</typeId>
 			<face>2</face>
 			<tokenSize>2</tokenSize>
@@ -8076,7 +8076,7 @@
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>629669887</treasureItemMask>
+			<treasureItemMask>562561023</treasureItemMask>
 			<notUsed>3500</notUsed>
 			<notUsed1>13400</notUsed1>
 			<power>3456</power>
@@ -8123,12 +8123,12 @@
 			<protectionWater>80</protectionWater>
 			<protectionAir>30</protectionAir>
 			<protectionEarth>80</protectionEarth>
-			<protectionAstral>50</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>70</protectionBludgeon>
 			<protectionPike>30</protectionPike>
-			<protectionShooting>30</protectionShooting>
+			<protectionShooting>100</protectionShooting>
 			<typeId>68</typeId>
 			<face>3</face>
 			<tokenSize>2</tokenSize>
@@ -8144,7 +8144,7 @@
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>629669887</treasureItemMask>
+			<treasureItemMask>562561023</treasureItemMask>
 			<notUsed>24500</notUsed>
 			<notUsed1>89780</notUsed1>
 			<power>8847</power>
@@ -8191,12 +8191,12 @@
 			<protectionWater>90</protectionWater>
 			<protectionAir>30</protectionAir>
 			<protectionEarth>90</protectionEarth>
-			<protectionAstral>60</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>80</protectionBludgeon>
 			<protectionPike>30</protectionPike>
-			<protectionShooting>30</protectionShooting>
+			<protectionShooting>100</protectionShooting>
 			<typeId>68</typeId>
 			<face>4</face>
 			<tokenSize>2</tokenSize>
@@ -8212,7 +8212,7 @@
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>629669887</treasureItemMask>
+			<treasureItemMask>562561023</treasureItemMask>
 			<notUsed>171500</notUsed>
 			<notUsed1>601526</notUsed1>
 			<power>22649</power>
@@ -8259,12 +8259,12 @@
 			<protectionWater>92</protectionWater>
 			<protectionAir>30</protectionAir>
 			<protectionEarth>92</protectionEarth>
-			<protectionAstral>70</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>90</protectionBludgeon>
 			<protectionPike>30</protectionPike>
-			<protectionShooting>30</protectionShooting>
+			<protectionShooting>100</protectionShooting>
 			<typeId>68</typeId>
 			<face>5</face>
 			<tokenSize>2</tokenSize>
@@ -8280,7 +8280,7 @@
 			<treasureItem>0</treasureItem>
 			<treasureItemMin>0</treasureItemMin>
 			<treasureItemMax>0</treasureItemMax>
-			<treasureItemMask>629669887</treasureItemMask>
+			<treasureItemMask>562561023</treasureItemMask>
 			<notUsed>514500</notUsed>
 			<notUsed1>1804578</notUsed1>
 			<power>2281955</power>
@@ -10367,11 +10367,11 @@
 			<protectionWater>25</protectionWater>
 			<protectionAir>30</protectionAir>
 			<protectionEarth>75</protectionEarth>
-			<protectionAstral>30</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
 			<protectionBludgeon>100</protectionBludgeon>
-			<protectionPike>100</protectionPike>
+			<protectionPike>75</protectionPike>
 			<protectionShooting>0</protectionShooting>
 			<typeId>71</typeId>
 			<face>1</face>
@@ -10388,7 +10388,7 @@
 			<treasureItem>100</treasureItem>
 			<treasureItemMin>1500</treasureItemMin>
 			<treasureItemMax>4500</treasureItemMax>
-			<treasureItemMask>739246079</treasureItemMask>
+			<treasureItemMask>672137215</treasureItemMask>
 			<notUsed>1500</notUsed>
 			<notUsed1>2500</notUsed1>
 			<power>3125</power>
@@ -10442,11 +10442,11 @@
 			<protectionWater>30</protectionWater>
 			<protectionAir>40</protectionAir>
 			<protectionEarth>80</protectionEarth>
-			<protectionAstral>40</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
 			<protectionBludgeon>100</protectionBludgeon>
-			<protectionPike>100</protectionPike>
+			<protectionPike>80</protectionPike>
 			<protectionShooting>5</protectionShooting>
 			<typeId>71</typeId>
 			<face>2</face>
@@ -10463,7 +10463,7 @@
 			<treasureItem>100</treasureItem>
 			<treasureItemMin>10500</treasureItemMin>
 			<treasureItemMax>30150</treasureItemMax>
-			<treasureItemMask>739246079</treasureItemMask>
+			<treasureItemMask>672137215</treasureItemMask>
 			<notUsed>10500</notUsed>
 			<notUsed1>17500</notUsed1>
 			<power>8000</power>
@@ -10517,11 +10517,11 @@
 			<protectionWater>35</protectionWater>
 			<protectionAir>50</protectionAir>
 			<protectionEarth>85</protectionEarth>
-			<protectionAstral>50</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
 			<protectionBludgeon>100</protectionBludgeon>
-			<protectionPike>100</protectionPike>
+			<protectionPike>85</protectionPike>
 			<protectionShooting>10</protectionShooting>
 			<typeId>71</typeId>
 			<face>3</face>
@@ -10538,7 +10538,7 @@
 			<treasureItem>100</treasureItem>
 			<treasureItemMin>73500</treasureItemMin>
 			<treasureItemMax>202005</treasureItemMax>
-			<treasureItemMask>739246079</treasureItemMask>
+			<treasureItemMask>672137215</treasureItemMask>
 			<notUsed>73500</notUsed>
 			<notUsed1>122500</notUsed1>
 			<power>20480</power>
@@ -10595,11 +10595,11 @@
 			<protectionWater>40</protectionWater>
 			<protectionAir>65</protectionAir>
 			<protectionEarth>90</protectionEarth>
-			<protectionAstral>65</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
 			<protectionBludgeon>100</protectionBludgeon>
-			<protectionPike>100</protectionPike>
+			<protectionPike>90</protectionPike>
 			<protectionShooting>15</protectionShooting>
 			<typeId>71</typeId>
 			<face>4</face>
@@ -10616,7 +10616,7 @@
 			<treasureItem>100</treasureItem>
 			<treasureItemMin>514500</treasureItemMin>
 			<treasureItemMax>1353434</treasureItemMax>
-			<treasureItemMask>739246079</treasureItemMask>
+			<treasureItemMask>672137215</treasureItemMask>
 			<notUsed>514500</notUsed>
 			<notUsed1>857500</notUsed1>
 			<power>52429</power>
@@ -10675,11 +10675,11 @@
 			<protectionWater>45</protectionWater>
 			<protectionAir>65</protectionAir>
 			<protectionEarth>92</protectionEarth>
-			<protectionAstral>70</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
 			<protectionBludgeon>100</protectionBludgeon>
-			<protectionPike>100</protectionPike>
+			<protectionPike>95</protectionPike>
 			<protectionShooting>0</protectionShooting>
 			<typeId>71</typeId>
 			<face>5</face>
@@ -10696,7 +10696,7 @@
 			<treasureItem>100</treasureItem>
 			<treasureItemMin>1543500</treasureItemMin>
 			<treasureItemMax>4060301</treasureItemMax>
-			<treasureItemMask>739246079</treasureItemMask>
+			<treasureItemMask>672137215</treasureItemMask>
 			<notUsed>1543500</notUsed>
 			<notUsed1>2572500</notUsed1>
 			<power>1258291</power>
@@ -10773,10 +10773,10 @@
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>5000000</treasureGoldMin>
 			<treasureGoldMax>9000000</treasureGoldMax>
-			<treasureItem>100</treasureItem>
-			<treasureItemMin>10000</treasureItemMin>
-			<treasureItemMax>100000</treasureItemMax>
-			<treasureItemMask>0</treasureItemMask>
+			<treasureItem>-1</treasureItem>
+			<treasureItemMin>-1</treasureItemMin>
+			<treasureItemMax>-1</treasureItemMax>
+			<treasureItemMask>-1</treasureItemMask>
 			<notUsed>10000</notUsed>
 			<notUsed1>100000</notUsed1>
 			<power>491520</power>
@@ -10826,7 +10826,7 @@
 			<protectionWater>0</protectionWater>
 			<protectionAir>50</protectionAir>
 			<protectionEarth>0</protectionEarth>
-			<protectionAstral>10</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -10902,7 +10902,7 @@
 			<protectionWater>0</protectionWater>
 			<protectionAir>60</protectionAir>
 			<protectionEarth>0</protectionEarth>
-			<protectionAstral>20</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>50</protectionBlade>
 			<protectionAxe>50</protectionAxe>
 			<protectionBludgeon>50</protectionBludgeon>
@@ -10979,7 +10979,7 @@
 			<protectionWater>0</protectionWater>
 			<protectionAir>70</protectionAir>
 			<protectionEarth>0</protectionEarth>
-			<protectionAstral>30</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>75</protectionBlade>
 			<protectionAxe>75</protectionAxe>
 			<protectionBludgeon>75</protectionBludgeon>
@@ -11057,7 +11057,7 @@
 			<protectionWater>0</protectionWater>
 			<protectionAir>80</protectionAir>
 			<protectionEarth>0</protectionEarth>
-			<protectionAstral>40</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>88</protectionBlade>
 			<protectionAxe>88</protectionAxe>
 			<protectionBludgeon>88</protectionBludgeon>
@@ -11078,7 +11078,7 @@
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>775946239</treasureItemMask>
+			<treasureItemMask>-1</treasureItemMask>
 			<notUsed>68600</notUsed>
 			<notUsed1>120305</notUsed1>
 			<power>2013</power>
@@ -11135,7 +11135,7 @@
 			<protectionWater>0</protectionWater>
 			<protectionAir>90</protectionAir>
 			<protectionEarth>0</protectionEarth>
-			<protectionAstral>50</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>88</protectionBlade>
 			<protectionAxe>88</protectionAxe>
 			<protectionBludgeon>88</protectionBludgeon>
@@ -11153,10 +11153,10 @@
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>517400</treasureGoldMin>
 			<treasureGoldMax>712060</treasureGoldMax>
-			<treasureItem>0</treasureItem>
-			<treasureItemMin>0</treasureItemMin>
-			<treasureItemMax>0</treasureItemMax>
-			<treasureItemMask>775946239</treasureItemMask>
+			<treasureItem>-1</treasureItem>
+			<treasureItemMin>-1</treasureItemMin>
+			<treasureItemMax>-1</treasureItemMax>
+			<treasureItemMask>-1</treasureItemMask>
 			<notUsed>205800</notUsed>
 			<notUsed1>360916</notUsed1>
 			<power>120796</power>
@@ -12526,7 +12526,7 @@
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>29400</treasureItemMin>
 			<treasureItemMax>80802</treasureItemMax>
-			<treasureItemMask>774796280</treasureItemMask>
+			<treasureItemMask>707687416</treasureItemMask>
 			<notUsed>50000</notUsed>
 			<notUsed1>100000</notUsed1>
 			<power>450</power>
@@ -12602,7 +12602,7 @@
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>205800</treasureItemMin>
 			<treasureItemMax>541373</treasureItemMax>
-			<treasureItemMask>774796280</treasureItemMask>
+			<treasureItemMask>707687416</treasureItemMask>
 			<notUsed>350000</notUsed>
 			<notUsed1>670000</notUsed1>
 			<power>1152</power>
@@ -12680,7 +12680,7 @@
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>617400</treasureItemMin>
 			<treasureItemMax>1624120</treasureItemMax>
-			<treasureItemMask>774796280</treasureItemMask>
+			<treasureItemMask>707687416</treasureItemMask>
 			<notUsed>1050000</notUsed>
 			<notUsed1>2010000</notUsed1>
 			<power>69120</power>
@@ -14219,7 +14219,7 @@
 			<protectionWater>10</protectionWater>
 			<protectionAir>5</protectionAir>
 			<protectionEarth>10</protectionEarth>
-			<protectionAstral>50</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -14240,7 +14240,7 @@
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>900</treasureItemMin>
 			<treasureItemMax>3000</treasureItemMax>
-			<treasureItemMask>780140543</treasureItemMask>
+			<treasureItemMask>713031679</treasureItemMask>
 			<notUsed>10</notUsed>
 			<notUsed1>1200</notUsed1>
 			<power>36</power>
@@ -14294,7 +14294,7 @@
 			<protectionWater>10</protectionWater>
 			<protectionAir>5</protectionAir>
 			<protectionEarth>10</protectionEarth>
-			<protectionAstral>50</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -14315,7 +14315,7 @@
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>900</treasureItemMin>
 			<treasureItemMax>3000</treasureItemMax>
-			<treasureItemMask>780140543</treasureItemMask>
+			<treasureItemMask>713031679</treasureItemMask>
 			<notUsed>10</notUsed>
 			<notUsed1>1200</notUsed1>
 			<power>30</power>
@@ -14369,7 +14369,7 @@
 			<protectionWater>10</protectionWater>
 			<protectionAir>5</protectionAir>
 			<protectionEarth>10</protectionEarth>
-			<protectionAstral>50</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -14390,7 +14390,7 @@
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>2700</treasureItemMin>
 			<treasureItemMax>9000</treasureItemMax>
-			<treasureItemMask>780140543</treasureItemMask>
+			<treasureItemMask>713031679</treasureItemMask>
 			<notUsed>20</notUsed>
 			<notUsed1>2400</notUsed1>
 			<power>48</power>
@@ -14445,7 +14445,7 @@
 			<protectionWater>20</protectionWater>
 			<protectionAir>10</protectionAir>
 			<protectionEarth>20</protectionEarth>
-			<protectionAstral>60</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -14466,7 +14466,7 @@
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>6300</treasureItemMin>
 			<treasureItemMax>21000</treasureItemMax>
-			<treasureItemMask>780140543</treasureItemMask>
+			<treasureItemMask>713031679</treasureItemMask>
 			<notUsed>70</notUsed>
 			<notUsed1>8040</notUsed1>
 			<power>92</power>
@@ -14521,7 +14521,7 @@
 			<protectionWater>20</protectionWater>
 			<protectionAir>10</protectionAir>
 			<protectionEarth>20</protectionEarth>
-			<protectionAstral>60</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -14542,7 +14542,7 @@
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>6300</treasureItemMin>
 			<treasureItemMax>21000</treasureItemMax>
-			<treasureItemMask>780140543</treasureItemMask>
+			<treasureItemMask>713031679</treasureItemMask>
 			<notUsed>70</notUsed>
 			<notUsed1>8040</notUsed1>
 			<power>77</power>
@@ -14597,7 +14597,7 @@
 			<protectionWater>20</protectionWater>
 			<protectionAir>10</protectionAir>
 			<protectionEarth>20</protectionEarth>
-			<protectionAstral>60</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -14618,7 +14618,7 @@
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>18900</treasureItemMin>
 			<treasureItemMax>63000</treasureItemMax>
-			<treasureItemMask>780140543</treasureItemMask>
+			<treasureItemMask>713031679</treasureItemMask>
 			<notUsed>140</notUsed>
 			<notUsed1>16080</notUsed1>
 			<power>123</power>
@@ -14674,7 +14674,7 @@
 			<protectionWater>30</protectionWater>
 			<protectionAir>15</protectionAir>
 			<protectionEarth>30</protectionEarth>
-			<protectionAstral>70</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -14695,7 +14695,7 @@
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>44100</treasureItemMin>
 			<treasureItemMax>147000</treasureItemMax>
-			<treasureItemMask>780140543</treasureItemMask>
+			<treasureItemMask>713031679</treasureItemMask>
 			<notUsed>490</notUsed>
 			<notUsed1>53868</notUsed1>
 			<power>236</power>
@@ -14751,7 +14751,7 @@
 			<protectionWater>30</protectionWater>
 			<protectionAir>15</protectionAir>
 			<protectionEarth>30</protectionEarth>
-			<protectionAstral>70</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -14772,7 +14772,7 @@
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>44100</treasureItemMin>
 			<treasureItemMax>147000</treasureItemMax>
-			<treasureItemMask>780140543</treasureItemMask>
+			<treasureItemMask>713031679</treasureItemMask>
 			<notUsed>490</notUsed>
 			<notUsed1>53868</notUsed1>
 			<power>197</power>
@@ -14828,7 +14828,7 @@
 			<protectionWater>30</protectionWater>
 			<protectionAir>15</protectionAir>
 			<protectionEarth>30</protectionEarth>
-			<protectionAstral>70</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -14849,7 +14849,7 @@
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>132300</treasureItemMin>
 			<treasureItemMax>441000</treasureItemMax>
-			<treasureItemMask>780140543</treasureItemMask>
+			<treasureItemMask>713031679</treasureItemMask>
 			<notUsed>980</notUsed>
 			<notUsed1>107736</notUsed1>
 			<power>315</power>
@@ -14906,7 +14906,7 @@
 			<protectionWater>50</protectionWater>
 			<protectionAir>40</protectionAir>
 			<protectionEarth>50</protectionEarth>
-			<protectionAstral>80</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -14927,7 +14927,7 @@
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>308700</treasureItemMin>
 			<treasureItemMax>1029000</treasureItemMax>
-			<treasureItemMask>780140543</treasureItemMask>
+			<treasureItemMask>713031679</treasureItemMask>
 			<notUsed>3430</notUsed>
 			<notUsed1>360916</notUsed1>
 			<power>604</power>
@@ -14985,7 +14985,7 @@
 			<protectionWater>50</protectionWater>
 			<protectionAir>30</protectionAir>
 			<protectionEarth>50</protectionEarth>
-			<protectionAstral>80</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -15006,7 +15006,7 @@
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>308700</treasureItemMin>
 			<treasureItemMax>1029000</treasureItemMax>
-			<treasureItemMask>780140543</treasureItemMask>
+			<treasureItemMask>713031679</treasureItemMask>
 			<notUsed>3430</notUsed>
 			<notUsed1>360916</notUsed1>
 			<power>503</power>
@@ -15064,7 +15064,7 @@
 			<protectionWater>50</protectionWater>
 			<protectionAir>30</protectionAir>
 			<protectionEarth>50</protectionEarth>
-			<protectionAstral>80</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -15085,7 +15085,7 @@
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>926100</treasureItemMin>
 			<treasureItemMax>3087000</treasureItemMax>
-			<treasureItemMask>780140543</treasureItemMask>
+			<treasureItemMask>713031679</treasureItemMask>
 			<notUsed>6860</notUsed>
 			<notUsed1>721831</notUsed1>
 			<power>805</power>
@@ -15144,7 +15144,7 @@
 			<protectionWater>50</protectionWater>
 			<protectionAir>40</protectionAir>
 			<protectionEarth>50</protectionEarth>
-			<protectionAstral>90</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -15165,7 +15165,7 @@
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>926100</treasureItemMin>
 			<treasureItemMax>3087000</treasureItemMax>
-			<treasureItemMask>780140543</treasureItemMask>
+			<treasureItemMask>713031679</treasureItemMask>
 			<notUsed>10290</notUsed>
 			<notUsed1>1082747</notUsed1>
 			<power>4530</power>
@@ -15223,7 +15223,7 @@
 			<protectionWater>50</protectionWater>
 			<protectionAir>40</protectionAir>
 			<protectionEarth>50</protectionEarth>
-			<protectionAstral>90</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -15244,7 +15244,7 @@
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>926100</treasureItemMin>
 			<treasureItemMax>3087000</treasureItemMax>
-			<treasureItemMask>780140543</treasureItemMask>
+			<treasureItemMask>713031679</treasureItemMask>
 			<notUsed>10290</notUsed>
 			<notUsed1>1082747</notUsed1>
 			<power>3775</power>
@@ -15302,7 +15302,7 @@
 			<protectionWater>50</protectionWater>
 			<protectionAir>40</protectionAir>
 			<protectionEarth>50</protectionEarth>
-			<protectionAstral>90</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -15323,7 +15323,7 @@
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>2778300</treasureItemMin>
 			<treasureItemMax>9261000</treasureItemMax>
-			<treasureItemMask>780140543</treasureItemMask>
+			<treasureItemMask>713031679</treasureItemMask>
 			<notUsed>20580</notUsed>
 			<notUsed1>2165494</notUsed1>
 			<power>6040</power>
@@ -15382,7 +15382,7 @@
 			<protectionWater>0</protectionWater>
 			<protectionAir>0</protectionAir>
 			<protectionEarth>0</protectionEarth>
-			<protectionAstral>50</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -15457,7 +15457,7 @@
 			<protectionWater>0</protectionWater>
 			<protectionAir>100</protectionAir>
 			<protectionEarth>0</protectionEarth>
-			<protectionAstral>50</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -15532,7 +15532,7 @@
 			<protectionWater>0</protectionWater>
 			<protectionAir>0</protectionAir>
 			<protectionEarth>100</protectionEarth>
-			<protectionAstral>50</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -15608,7 +15608,7 @@
 			<protectionWater>100</protectionWater>
 			<protectionAir>0</protectionAir>
 			<protectionEarth>0</protectionEarth>
-			<protectionAstral>50</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -15759,7 +15759,7 @@
 			<protectionWater>0</protectionWater>
 			<protectionAir>0</protectionAir>
 			<protectionEarth>0</protectionEarth>
-			<protectionAstral>50</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -15780,7 +15780,7 @@
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>132300</treasureItemMin>
 			<treasureItemMax>441000</treasureItemMax>
-			<treasureItemMask>780140543</treasureItemMask>
+			<treasureItemMask>713031679</treasureItemMask>
 			<notUsed>2420</notUsed>
 			<notUsed1>290400</notUsed1>
 			<power>315</power>
@@ -15838,7 +15838,7 @@
 			<protectionWater>0</protectionWater>
 			<protectionAir>0</protectionAir>
 			<protectionEarth>0</protectionEarth>
-			<protectionAstral>50</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>0</protectionBlade>
 			<protectionAxe>0</protectionAxe>
 			<protectionBludgeon>0</protectionBludgeon>
@@ -15859,7 +15859,7 @@
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>308700</treasureItemMin>
 			<treasureItemMax>1029000</treasureItemMax>
-			<treasureItemMask>780140543</treasureItemMask>
+			<treasureItemMask>713031679</treasureItemMask>
 			<notUsed>1210</notUsed>
 			<notUsed1>145200</notUsed1>
 			<power>236</power>
@@ -16596,7 +16596,7 @@
 			<protectionWater>20</protectionWater>
 			<protectionAir>20</protectionAir>
 			<protectionEarth>0</protectionEarth>
-			<protectionAstral>30</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
 			<protectionBludgeon>100</protectionBludgeon>
@@ -16617,7 +16617,7 @@
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>775946239</treasureItemMask>
+			<treasureItemMask>708837375</treasureItemMask>
 			<notUsed>10</notUsed>
 			<notUsed1>2500</notUsed1>
 			<power>550</power>
@@ -16672,7 +16672,7 @@
 			<protectionWater>60</protectionWater>
 			<protectionAir>20</protectionAir>
 			<protectionEarth>0</protectionEarth>
-			<protectionAstral>30</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
 			<protectionBludgeon>100</protectionBludgeon>
@@ -16693,7 +16693,7 @@
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>775946239</treasureItemMask>
+			<treasureItemMask>708837375</treasureItemMask>
 			<notUsed>70</notUsed>
 			<notUsed1>17500</notUsed1>
 			<power>1408</power>
@@ -16748,7 +16748,7 @@
 			<protectionWater>20</protectionWater>
 			<protectionAir>70</protectionAir>
 			<protectionEarth>0</protectionEarth>
-			<protectionAstral>30</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
 			<protectionBludgeon>100</protectionBludgeon>
@@ -16769,7 +16769,7 @@
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>775946239</treasureItemMask>
+			<treasureItemMask>708837375</treasureItemMask>
 			<notUsed>490</notUsed>
 			<notUsed1>122500</notUsed1>
 			<power>3604</power>
@@ -16825,7 +16825,7 @@
 			<protectionWater>80</protectionWater>
 			<protectionAir>20</protectionAir>
 			<protectionEarth>50</protectionEarth>
-			<protectionAstral>40</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
 			<protectionBludgeon>100</protectionBludgeon>
@@ -16846,7 +16846,7 @@
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>775946239</treasureItemMask>
+			<treasureItemMask>708837375</treasureItemMask>
 			<notUsed>3430</notUsed>
 			<notUsed1>857500</notUsed1>
 			<power>9227</power>
@@ -16905,7 +16905,7 @@
 			<protectionWater>90</protectionWater>
 			<protectionAir>20</protectionAir>
 			<protectionEarth>70</protectionEarth>
-			<protectionAstral>50</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
 			<protectionBludgeon>100</protectionBludgeon>
@@ -16926,7 +16926,7 @@
 			<treasureItem>0</treasureItem>
 			<treasureItemMin>0</treasureItemMin>
 			<treasureItemMax>0</treasureItemMax>
-			<treasureItemMask>775946239</treasureItemMask>
+			<treasureItemMask>708837375</treasureItemMask>
 			<notUsed>10290</notUsed>
 			<notUsed1>2572500</notUsed1>
 			<power>196937</power>
@@ -18866,12 +18866,12 @@
 			<protectionWater>10</protectionWater>
 			<protectionAir>10</protectionAir>
 			<protectionEarth>50</protectionEarth>
-			<protectionAstral>30</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>20</protectionBlade>
 			<protectionAxe>20</protectionAxe>
 			<protectionBludgeon>20</protectionBludgeon>
 			<protectionPike>0</protectionPike>
-			<protectionShooting>0</protectionShooting>
+			<protectionShooting>100</protectionShooting>
 			<typeId>108</typeId>
 			<face>1</face>
 			<tokenSize>2</tokenSize>
@@ -18887,7 +18887,7 @@
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>629669887</treasureItemMask>
+			<treasureItemMask>562561023</treasureItemMask>
 			<notUsed>500</notUsed>
 			<notUsed1>2000</notUsed1>
 			<power>1350</power>
@@ -18934,12 +18934,12 @@
 			<protectionWater>20</protectionWater>
 			<protectionAir>20</protectionAir>
 			<protectionEarth>65</protectionEarth>
-			<protectionAstral>40</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>30</protectionBlade>
 			<protectionAxe>30</protectionAxe>
 			<protectionBludgeon>30</protectionBludgeon>
 			<protectionPike>0</protectionPike>
-			<protectionShooting>0</protectionShooting>
+			<protectionShooting>100</protectionShooting>
 			<typeId>108</typeId>
 			<face>2</face>
 			<tokenSize>2</tokenSize>
@@ -18955,7 +18955,7 @@
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>629669887</treasureItemMask>
+			<treasureItemMask>562561023</treasureItemMask>
 			<notUsed>500</notUsed>
 			<notUsed1>2000</notUsed1>
 			<power>1350</power>
@@ -18993,7 +18993,7 @@
 			<physicalMin>62</physicalMin>
 			<physicalMax>105</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>245</toHit>
+			<toHit>215</toHit>
 			<defence>240</defence>
 			<absorbtion>22</absorbtion>
 			<charge>12</charge>
@@ -19002,12 +19002,12 @@
 			<protectionWater>30</protectionWater>
 			<protectionAir>30</protectionAir>
 			<protectionEarth>80</protectionEarth>
-			<protectionAstral>50</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>40</protectionBlade>
 			<protectionAxe>40</protectionAxe>
 			<protectionBludgeon>40</protectionBludgeon>
 			<protectionPike>0</protectionPike>
-			<protectionShooting>0</protectionShooting>
+			<protectionShooting>100</protectionShooting>
 			<typeId>108</typeId>
 			<face>3</face>
 			<tokenSize>2</tokenSize>
@@ -19016,14 +19016,14 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>55000</experience>
+			<experience>90000</experience>
 			<treasureGold>95</treasureGold>
 			<treasureGoldMin>80000</treasureGoldMin>
 			<treasureGoldMax>120000</treasureGoldMax>
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>629669887</treasureItemMask>
+			<treasureItemMask>562561023</treasureItemMask>
 			<notUsed>500</notUsed>
 			<notUsed1>2000</notUsed1>
 			<power>1350</power>
@@ -19061,7 +19061,7 @@
 			<physicalMin>82</physicalMin>
 			<physicalMax>164</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>275</toHit>
+			<toHit>265</toHit>
 			<defence>310</defence>
 			<absorbtion>39</absorbtion>
 			<charge>12</charge>
@@ -19070,12 +19070,12 @@
 			<protectionWater>50</protectionWater>
 			<protectionAir>50</protectionAir>
 			<protectionEarth>85</protectionEarth>
-			<protectionAstral>60</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>50</protectionBlade>
 			<protectionAxe>50</protectionAxe>
 			<protectionBludgeon>50</protectionBludgeon>
 			<protectionPike>0</protectionPike>
-			<protectionShooting>0</protectionShooting>
+			<protectionShooting>100</protectionShooting>
 			<typeId>108</typeId>
 			<face>4</face>
 			<tokenSize>2</tokenSize>
@@ -19084,14 +19084,14 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>210000</experience>
+			<experience>400000</experience>
 			<treasureGold>95</treasureGold>
 			<treasureGoldMin>400000</treasureGoldMin>
 			<treasureGoldMax>800000</treasureGoldMax>
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>629669887</treasureItemMask>
+			<treasureItemMask>562561023</treasureItemMask>
 			<notUsed>500</notUsed>
 			<notUsed1>2000</notUsed1>
 			<power>1350</power>
@@ -19138,12 +19138,12 @@
 			<protectionWater>75</protectionWater>
 			<protectionAir>66</protectionAir>
 			<protectionEarth>90</protectionEarth>
-			<protectionAstral>70</protectionAstral>
+			<protectionAstral>100</protectionAstral>
 			<protectionBlade>60</protectionBlade>
 			<protectionAxe>60</protectionAxe>
 			<protectionBludgeon>60</protectionBludgeon>
 			<protectionPike>0</protectionPike>
-			<protectionShooting>0</protectionShooting>
+			<protectionShooting>100</protectionShooting>
 			<typeId>108</typeId>
 			<face>5</face>
 			<tokenSize>2</tokenSize>
@@ -19159,7 +19159,7 @@
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>629669887</treasureItemMask>
+			<treasureItemMask>562561023</treasureItemMask>
 			<notUsed>500</notUsed>
 			<notUsed1>2000</notUsed1>
 			<power>1350</power>
@@ -45351,7 +45351,7 @@
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>5000</scrollCost>
-			<bookCost>2500000</bookCost>
+			<bookCost>5000000</bookCost>
 			<effect></effect>
 		</item>
 		<item>
@@ -45405,7 +45405,7 @@
 			<defensive>1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>1000</scrollCost>
-			<bookCost>2000000</bookCost>
+			<bookCost>3000000</bookCost>
 			<effect>protectionAir=+30: duration 30</effect>
 		</item>
 		<item>
@@ -45602,11 +45602,11 @@
 			<name>Haste</name>
 			<level>10</level>
 			<manaCost>10</manaCost>
-			<sphere>5</sphere>
+			<sphere>3</sphere>
 			<item>0</item>
 			<spellTarget>1</spellTarget>
 			<deliverySystem>1</deliverySystem>
-			<maxRange>5</maxRange>
+			<maxRange>0</maxRange>
 			<effectSpeed>-1</effectSpeed>
 			<distribution>1</distribution>
 			<radius>0</radius>
@@ -45621,7 +45621,7 @@
 			<defensive>1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>50</scrollCost>
-			<bookCost>1500000</bookCost>
+			<bookCost>2500000</bookCost>
 			<effect>speed=+2: duration 30</effect>
 		</item>
 		<item>
