@@ -45763,7 +45763,7 @@
 			<empty>0</empty>
 			<name>Shield</name>
 			<level>3</level>
-			<manaCost>100</manaCost>
+			<manaCost>75</manaCost>
 			<sphere>5</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
@@ -45776,7 +45776,7 @@
 			<areaDuration>0</areaDuration>
 			<areaFrequency>0</areaFrequency>
 			<unitApplyMethod>2</unitApplyMethod>
-			<duration>7</duration>
+			<duration>6</duration>
 			<frequency>0</frequency>
 			<damageMin>-1</damageMin>
 			<damageMax>-1</damageMax>
