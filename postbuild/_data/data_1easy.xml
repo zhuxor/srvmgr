@@ -8753,10 +8753,10 @@
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
-			<treasureItem>-1</treasureItem>
-			<treasureItemMin>-1</treasureItemMin>
-			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>-1</treasureItemMask>
+			<treasureItem>60</treasureItem>
+			<treasureItemMin>0</treasureItemMin>
+			<treasureItemMax>1000</treasureItemMax>
+			<treasureItemMask>17874944</treasureItemMask>
 			<notUsed>-1</notUsed>
 			<notUsed1>-1</notUsed1>
 			<power>115</power>
@@ -9359,7 +9359,7 @@
 			<movementType>1</movementType>
 			<dyingTime>10</dyingTime>
 			<withdraw>0</withdraw>
-			<wimpy>5</wimpy>
+			<wimpy>4</wimpy>
 			<seeInvisible>1</seeInvisible>
 			<experience>54</experience>
 			<treasureGold>-1</treasureGold>
@@ -9427,7 +9427,7 @@
 			<movementType>1</movementType>
 			<dyingTime>10</dyingTime>
 			<withdraw>0</withdraw>
-			<wimpy>5</wimpy>
+			<wimpy>4</wimpy>
 			<seeInvisible>2</seeInvisible>
 			<experience>283</experience>
 			<treasureGold>-1</treasureGold>
@@ -15928,7 +15928,7 @@
 			<movementType>1</movementType>
 			<dyingTime>12</dyingTime>
 			<withdraw>0</withdraw>
-			<wimpy>20</wimpy>
+			<wimpy>7</wimpy>
 			<seeInvisible>1</seeInvisible>
 			<experience>90</experience>
 			<treasureGold>-1</treasureGold>
@@ -15996,7 +15996,7 @@
 			<movementType>1</movementType>
 			<dyingTime>12</dyingTime>
 			<withdraw>0</withdraw>
-			<wimpy>32</wimpy>
+			<wimpy>14</wimpy>
 			<seeInvisible>2</seeInvisible>
 			<experience>472</experience>
 			<treasureGold>-1</treasureGold>
