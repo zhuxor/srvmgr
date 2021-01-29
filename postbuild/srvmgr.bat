@@ -28,8 +28,7 @@ DLLInject server.dis
 
 del /Q /F release
 mkdir release
-ren a2server.exe a2serv.exe
-move /Y a2serv.exe release >nul
+move /Y a2server.exe release >nul
 move /Y srvmgr.dll release >nul
 
 call log building world.res...
