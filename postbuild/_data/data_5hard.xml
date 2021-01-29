@@ -45763,7 +45763,7 @@
 			<empty>0</empty>
 			<name>Shield</name>
 			<level>3</level>
-			<manaCost>100</manaCost>
+			<manaCost>125</manaCost>
 			<sphere>5</sphere>
 			<item>0</item>
 			<spellTarget>2</spellTarget>
