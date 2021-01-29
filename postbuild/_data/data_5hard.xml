@@ -5007,13 +5007,13 @@
 			<name>Scroll Fire Arrow</name>
 			<price>150</price>
 			<weight>1</weight>
-			<effect>castSpell=Fire_Arrow:30</effect>
+			<effect>castSpell=Fire_Arrow:35</effect>
 		</item>
 		<item>
 			<name>Scroll Fire Ball</name>
 			<price>3000</price>
 			<weight>1</weight>
-			<effect>castSpell=Fire_Ball:30</effect>
+			<effect>castSpell=Fire_Ball:35</effect>
 		</item>
 		<item>
 			<name>Scroll Fire Wall</name>
@@ -5031,19 +5031,19 @@
 			<name>Scroll Ice Missile</name>
 			<price>150</price>
 			<weight>1</weight>
-			<effect>castSpell=Ice_Missile:30</effect>
+			<effect>castSpell=Ice_Missile:35</effect>
 		</item>
 		<item>
 			<name>Scroll Poison Cloud</name>
 			<price>20000</price>
 			<weight>1</weight>
-			<effect>castSpell=Poison_Cloud:1</effect>
+			<effect>castSpell=Poison_Cloud:10</effect>
 		</item>
 		<item>
 			<name>Scroll Blizzard</name>
 			<price>30000</price>
 			<weight>1</weight>
-			<effect>castSpell=Blizzard:1</effect>
+			<effect>castSpell=Blizzard:10</effect>
 		</item>
 		<item>
 			<name>Scroll Protection from Water</name>
@@ -5061,19 +5061,19 @@
 			<name>Scroll Lightning</name>
 			<price>150</price>
 			<weight>1</weight>
-			<effect>castSpell=Lightning:30</effect>
+			<effect>castSpell=Lightning:35</effect>
 		</item>
 		<item>
 			<name>Scroll Prismatic Spray</name>
 			<price>7000</price>
 			<weight>1</weight>
-			<effect>castSpell=Prismatic_Spray:1</effect>
+			<effect>castSpell=Prismatic_Spray:10</effect>
 		</item>
 		<item>
 			<name>Scroll Invisibility</name>
 			<price>150000</price>
 			<weight>1</weight>
-			<effect>castSpell=Invisibility:1</effect>
+			<effect>castSpell=Invisibility:35</effect>
 		</item>
 		<item>
 			<name>Scroll Protection from Air</name>
@@ -5097,19 +5097,19 @@
 			<name>Scroll Diamond Dust</name>
 			<price>150</price>
 			<weight>1</weight>
-			<effect>castSpell=Diamond_Dust:30</effect>
+			<effect>castSpell=Diamond_Dust:35</effect>
 		</item>
 		<item>
 			<name>Scroll Wall of Earth</name>
 			<price>500000</price>
 			<weight>1</weight>
-			<effect>castSpell=Wall_of_Earth:1</effect>
+			<effect>castSpell=Wall_of_Earth:10</effect>
 		</item>
 		<item>
 			<name>Scroll Stone Curse</name>
 			<price>300000</price>
 			<weight>1</weight>
-			<effect>castSpell=Stone_Curse:1</effect>
+			<effect>castSpell=Stone_Curse:10</effect>
 		</item>
 		<item>
 			<name>Scroll Protection from Earth</name>
@@ -5133,13 +5133,13 @@
 			<name>Scroll Control Spirit</name>
 			<price>1500000</price>
 			<weight>1</weight>
-			<effect>castSpell=Control_Spirit:1</effect>
+			<effect>castSpell=Control_Spirit:10</effect>
 		</item>
 		<item>
 			<name>Scroll Teleport</name>
 			<price>50000</price>
 			<weight>1</weight>
-			<effect>castSpell=Teleport:1</effect>
+			<effect>castSpell=Teleport:55</effect>
 		</item>
 		<item>
 			<name>Scroll Heal</name>
@@ -5151,19 +5151,19 @@
 			<name>Scroll Summon</name>
 			<price>1000000</price>
 			<weight>1</weight>
-			<effect>castSpell=Summon:1</effect>
+			<effect>castSpell=Summon:10</effect>
 		</item>
 		<item>
 			<name>Scroll Drain Life</name>
 			<price>500</price>
 			<weight>1</weight>
-			<effect>castSpell=Drain_Life:30</effect>
+			<effect>castSpell=Drain_Life:35</effect>
 		</item>
 		<item>
 			<name>Scroll Shield</name>
 			<price>20000</price>
 			<weight>1</weight>
-			<effect>castSpell=Shield:30</effect>
+			<effect>castSpell=Shield:35</effect>
 		</item>
 		<item>
 			<name>Scroll Curse</name>
@@ -5187,13 +5187,13 @@
 			<name>SuperScroll Fire Ball</name>
 			<price>50000</price>
 			<weight>1</weight>
-			<effect>castSpell=Fire_Ball:40</effect>
+			<effect>castSpell=Fire_Ball:50</effect>
 		</item>
 		<item>
 			<name>SuperScroll Fire Wall</name>
 			<price>400000</price>
 			<weight>1</weight>
-			<effect>castSpell=Wall_of_Fire:1</effect>
+			<effect>castSpell=Wall_of_Fire:30</effect>
 		</item>
 		<item>
 			<name>SuperScroll Protection from Fire</name>
@@ -5211,13 +5211,13 @@
 			<name>SuperScroll Poison Cloud</name>
 			<price>300000</price>
 			<weight>1</weight>
-			<effect>castSpell=Poison_Cloud:1</effect>
+			<effect>castSpell=Poison_Cloud:30</effect>
 		</item>
 		<item>
 			<name>SuperScroll Blizzard</name>
 			<price>2500000</price>
 			<weight>1</weight>
-			<effect>castSpell=Blizzard:1</effect>
+			<effect>castSpell=Blizzard:30</effect>
 		</item>
 		<item>
 			<name>SuperScroll Protection from Water</name>
@@ -5241,13 +5241,13 @@
 			<name>SuperScroll Prismatic Spray</name>
 			<price>100000</price>
 			<weight>1</weight>
-			<effect>castSpell=Prismatic_Spray:1</effect>
+			<effect>castSpell=Prismatic_Spray:40</effect>
 		</item>
 		<item>
 			<name>SuperScroll Invisibility</name>
 			<price>800000</price>
 			<weight>1</weight>
-			<effect>castSpell=Invisibility:10</effect>
+			<effect>castSpell=Invisibility:80</effect>
 		</item>
 		<item>
 			<name>SuperScroll Protection from Air</name>
@@ -5277,13 +5277,13 @@
 			<name>SuperScroll Wall of Earth</name>
 			<price>1500000</price>
 			<weight>1</weight>
-			<effect>castSpell=Wall_of_Earth:1</effect>
+			<effect>castSpell=Wall_of_Earth:30</effect>
 		</item>
 		<item>
 			<name>SuperScroll Stone Curse</name>
 			<price>1000000</price>
 			<weight>1</weight>
-			<effect>castSpell=Stone_Curse:1</effect>
+			<effect>castSpell=Stone_Curse:30</effect>
 		</item>
 		<item>
 			<name>SuperScroll Protection from Earth</name>
@@ -5307,13 +5307,13 @@
 			<name>SuperScroll Control Spirit</name>
 			<price>3000000</price>
 			<weight>1</weight>
-			<effect>castSpell=Control_Spirit:1</effect>
+			<effect>castSpell=Control_Spirit:30</effect>
 		</item>
 		<item>
 			<name>SuperScroll Teleport</name>
 			<price>500000</price>
 			<weight>1</weight>
-			<effect>castSpell=Teleport:1</effect>
+			<effect>castSpell=Teleport:80</effect>
 		</item>
 		<item>
 			<name>SuperScroll Heal</name>
@@ -5325,25 +5325,25 @@
 			<name>SuperScroll Summon</name>
 			<price>2000000</price>
 			<weight>1</weight>
-			<effect>castSpell=Summon:1</effect>
+			<effect>castSpell=Summon:30</effect>
 		</item>
 		<item>
 			<name>SuperScroll Drain Life</name>
 			<price>1500</price>
 			<weight>1</weight>
-			<effect>castSpell=Drain_Life:40</effect>
+			<effect>castSpell=Drain_Life:50</effect>
 		</item>
 		<item>
 			<name>SuperScroll Shield</name>
 			<price>100000</price>
 			<weight>1</weight>
-			<effect>castSpell=Shield:60</effect>
+			<effect>castSpell=Shield:80</effect>
 		</item>
 		<item>
 			<name>SuperScroll Curse</name>
 			<price>100000</price>
 			<weight>1</weight>
-			<effect>castSpell=Curse:80</effect>
+			<effect>castSpell=Curse:100</effect>
 		</item>
 		<item>
 			<name>SuperScroll Slow</name>
