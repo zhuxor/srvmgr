@@ -10533,12 +10533,12 @@
 			<seeInvisible>5</seeInvisible>
 			<experience>151948</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>68200</treasureGoldMin>
-			<treasureGoldMax>141604</treasureGoldMax>
-			<treasureItem>30</treasureItem>
-			<treasureItemMin>100500</treasureItemMin>
-			<treasureItemMax>440000</treasureItemMax>
-			<treasureItemMask>554635264</treasureItemMask>
+			<treasureGoldMin>147000</treasureGoldMin>
+			<treasureGoldMax>269340</treasureGoldMax>
+			<treasureItem>100</treasureItem>
+			<treasureItemMin>73500</treasureItemMin>
+			<treasureItemMax>202005</treasureItemMax>
+			<treasureItemMask>672137215</treasureItemMask>
 			<notUsed>73500</notUsed>
 			<notUsed1>122500</notUsed1>
 			<power>20480</power>
