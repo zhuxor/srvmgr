@@ -5397,7 +5397,7 @@
 			<name>Potion Big Healing</name>
 			<price>5000000</price>
 			<weight>3</weight>
-			<effect>body=+1, reaction=+1</effect>
+			<effect>health=+3</effect>
 		</item>
 		<item>
 			<name>Potion Mana Regeneration</name>
@@ -5415,7 +5415,7 @@
 			<name>Potion Big Mana</name>
 			<price>5000000</price>
 			<weight>3</weight>
-			<effect>mind=+1, spirit=+1</effect>
+			<effect>mana=+3</effect>
 		</item>
 		<item>
 			<name>Potion Fighter Bonus</name>
