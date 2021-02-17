@@ -5019,7 +5019,7 @@
 			<name>Scroll Fire Wall</name>
 			<price>30000</price>
 			<weight>1</weight>
-			<effect>castSpell=Wall_of_Fire:1</effect>
+			<effect>castSpell=Wall_of_Fire:10</effect>
 		</item>
 		<item>
 			<name>Scroll Protection from Fire</name>
