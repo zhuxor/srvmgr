@@ -5361,25 +5361,25 @@
 			<name>Potion Body</name>
 			<price>1000000</price>
 			<weight>5</weight>
-			<effect>body=+1</effect>
+			<effect>mana=+1</effect>
 		</item>
 		<item>
 			<name>Potion Reaction</name>
 			<price>1000000</price>
 			<weight>5</weight>
-			<effect>reaction=+1</effect>
+			<effect>mana=+1</effect>
 		</item>
 		<item>
 			<name>Potion Mind</name>
 			<price>1000000</price>
 			<weight>5</weight>
-			<effect>mind=+1</effect>
+			<effect>mana=+1</effect>
 		</item>
 		<item>
 			<name>Potion Spirit</name>
 			<price>1000000</price>
 			<weight>5</weight>
-			<effect>spirit=+1</effect>
+			<effect>mana=+1</effect>
 		</item>
 		<item>
 			<name>Potion Health Regeneration</name>
@@ -5395,9 +5395,9 @@
 		</item>
 		<item>
 			<name>Potion Big Healing</name>
-			<price>30000000</price>
+			<price>20000000</price>
 			<weight>3</weight>
-			<effect>health=+3</effect>
+			<effect>body=+1, reaction=+1, mind=+1, spirit=+1</effect>
 		</item>
 		<item>
 			<name>Potion Mana Regeneration</name>
