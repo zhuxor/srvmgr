@@ -5395,7 +5395,7 @@
 		</item>
 		<item>
 			<name>Potion Big Healing</name>
-			<price>20000000</price>
+			<price>10000000</price>
 			<weight>3</weight>
 			<effect>mana=+3</effect>
 		</item>
