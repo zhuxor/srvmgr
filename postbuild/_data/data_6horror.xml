@@ -5361,7 +5361,7 @@
 			<name>Potion Body</name>
 			<price>1000000</price>
 			<weight>5</weight>
-			<effect>body=+1</effect>
+			<effect>mana=+1</effect>
 		</item>
 		<item>
 			<name>Potion Reaction</name>
@@ -5421,7 +5421,7 @@
 			<name>Potion Fighter Bonus</name>
 			<price>100</price>
 			<weight>3</weight>
-			<effect>healthRegeneration=100: duration 60</effect>
+			<effect>body=+1</effect>
 		</item>
 		<item>
 			<name>Potion Mage Bonus</name>
