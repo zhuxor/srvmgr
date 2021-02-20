@@ -5403,7 +5403,7 @@
 			<name>Potion Mana Regeneration</name>
 			<price>20000</price>
 			<weight>1</weight>
-			<effect>mana=+1</effect>
+			<effect>manaRegeneration=100: duration 60</effect>
 		</item>
 		<item>
 			<name>Potion Medium Mana</name>
