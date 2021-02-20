@@ -5383,9 +5383,9 @@
 		</item>
 		<item>
 			<name>Potion Health Regeneration</name>
-			<price>20000</price>
+			<price>999999999</price>
 			<weight>1</weight>
-			<effect>health=+1</effect>
+			<effect>mana=+1</effect>
 		</item>
 		<item>
 			<name>Potion Medium Healing</name>
@@ -5401,7 +5401,7 @@
 		</item>
 		<item>
 			<name>Potion Mana Regeneration</name>
-			<price>20000</price>
+			<price>40000</price>
 			<weight>1</weight>
 			<effect>manaRegeneration=100: duration 60</effect>
 		</item>

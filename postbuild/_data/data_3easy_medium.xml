@@ -5383,9 +5383,9 @@
 		</item>
 		<item>
 			<name>Potion Health Regeneration</name>
-			<price>20000</price>
+			<price>999999999</price>
 			<weight>1</weight>
-			<effect>body=+1, reaction=+1</effect>
+			<effect>mana=+1</effect>
 		</item>
 		<item>
 			<name>Potion Medium Healing</name>
@@ -5401,9 +5401,9 @@
 		</item>
 		<item>
 			<name>Potion Mana Regeneration</name>
-			<price>20000</price>
+			<price>40000</price>
 			<weight>1</weight>
-			<effect>mind=+1, spirit=+1</effect>
+			<effect>body=+1, reaction=+1, mind=+1, spirit=+1</effect>
 		</item>
 		<item>
 			<name>Potion Medium Mana</name>
