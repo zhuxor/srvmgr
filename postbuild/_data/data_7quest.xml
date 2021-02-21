@@ -6482,7 +6482,7 @@
 			<physicalMin>16</physicalMin>
 			<physicalMax>33</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>240</toHit>
+			<toHit>260</toHit>
 			<defence>240</defence>
 			<absorbtion>5</absorbtion>
 			<charge>7</charge>
@@ -6550,7 +6550,7 @@
 			<physicalMin>33</physicalMin>
 			<physicalMax>99</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>300</toHit>
+			<toHit>320</toHit>
 			<defence>300</defence>
 			<absorbtion>5</absorbtion>
 			<charge>7</charge>
@@ -6822,7 +6822,7 @@
 			<physicalMin>12</physicalMin>
 			<physicalMax>25</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>255</toHit>
+			<toHit>265</toHit>
 			<defence>235</defence>
 			<absorbtion>5</absorbtion>
 			<charge>21</charge>
@@ -6890,7 +6890,7 @@
 			<physicalMin>25</physicalMin>
 			<physicalMax>75</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>320</toHit>
+			<toHit>330</toHit>
 			<defence>275</defence>
 			<absorbtion>5</absorbtion>
 			<charge>21</charge>
@@ -7162,7 +7162,7 @@
 			<physicalMin>33</physicalMin>
 			<physicalMax>66</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>265</toHit>
+			<toHit>275</toHit>
 			<defence>260</defence>
 			<absorbtion>12</absorbtion>
 			<charge>11</charge>
@@ -7230,7 +7230,7 @@
 			<physicalMin>66</physicalMin>
 			<physicalMax>198</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>310</toHit>
+			<toHit>330</toHit>
 			<defence>310</defence>
 			<absorbtion>12</absorbtion>
 			<charge>11</charge>
@@ -7502,7 +7502,7 @@
 			<physicalMin>25</physicalMin>
 			<physicalMax>49</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>280</toHit>
+			<toHit>290</toHit>
 			<defence>255</defence>
 			<absorbtion>12</absorbtion>
 			<charge>21</charge>
@@ -7570,7 +7570,7 @@
 			<physicalMin>49</physicalMin>
 			<physicalMax>147</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>315</toHit>
+			<toHit>325</toHit>
 			<defence>295</defence>
 			<absorbtion>12</absorbtion>
 			<charge>21</charge>
@@ -7842,7 +7842,7 @@
 			<physicalMin>82</physicalMin>
 			<physicalMax>164</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>255</toHit>
+			<toHit>265</toHit>
 			<defence>280</defence>
 			<absorbtion>22</absorbtion>
 			<charge>12</charge>
@@ -7910,7 +7910,7 @@
 			<physicalMin>164</physicalMin>
 			<physicalMax>320</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>300</toHit>
+			<toHit>310</toHit>
 			<defence>310</defence>
 			<absorbtion>22</absorbtion>
 			<charge>12</charge>
@@ -8183,7 +8183,7 @@
 			<physicalMax>123</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>265</toHit>
-			<defence>310</defence>
+			<defence>320</defence>
 			<absorbtion>39</absorbtion>
 			<charge>10</charge>
 			<relax>6</relax>
@@ -8250,7 +8250,7 @@
 			<physicalMin>123</physicalMin>
 			<physicalMax>246</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>310</toHit>
+			<toHit>320</toHit>
 			<defence>330</defence>
 			<absorbtion>39</absorbtion>
 			<charge>10</charge>
@@ -10586,7 +10586,7 @@
 			<physicalMin>41</physicalMin>
 			<physicalMax>61</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>370</toHit>
+			<toHit>380</toHit>
 			<defence>270</defence>
 			<absorbtion>18</absorbtion>
 			<charge>10</charge>
@@ -11408,7 +11408,7 @@
 			<physicalMin>25</physicalMin>
 			<physicalMax>49</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>270</toHit>
+			<toHit>280</toHit>
 			<defence>270</defence>
 			<absorbtion>18</absorbtion>
 			<charge>8</charge>
@@ -11476,7 +11476,7 @@
 			<physicalMin>49</physicalMin>
 			<physicalMax>147</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>290</toHit>
+			<toHit>320</toHit>
 			<defence>290</defence>
 			<absorbtion>18</absorbtion>
 			<charge>8</charge>
@@ -11680,7 +11680,7 @@
 			<physicalMin>13</physicalMin>
 			<physicalMax>26</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>240</toHit>
+			<toHit>250</toHit>
 			<defence>190</defence>
 			<absorbtion>12</absorbtion>
 			<charge>8</charge>
@@ -11748,7 +11748,7 @@
 			<physicalMin>26</physicalMin>
 			<physicalMax>78</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>290</toHit>
+			<toHit>320</toHit>
 			<defence>225</defence>
 			<absorbtion>12</absorbtion>
 			<charge>8</charge>
@@ -12020,7 +12020,7 @@
 			<physicalMin>33</physicalMin>
 			<physicalMax>66</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>265</toHit>
+			<toHit>275</toHit>
 			<defence>254</defence>
 			<absorbtion>12</absorbtion>
 			<charge>8</charge>
@@ -12088,7 +12088,7 @@
 			<physicalMin>66</physicalMin>
 			<physicalMax>198</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>295</toHit>
+			<toHit>320</toHit>
 			<defence>295</defence>
 			<absorbtion>12</absorbtion>
 			<charge>8</charge>
@@ -12360,7 +12360,7 @@
 			<physicalMin>25</physicalMin>
 			<physicalMax>49</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>280</toHit>
+			<toHit>290</toHit>
 			<defence>250</defence>
 			<absorbtion>12</absorbtion>
 			<charge>20</charge>
@@ -12428,7 +12428,7 @@
 			<physicalMin>49</physicalMin>
 			<physicalMax>147</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>310</toHit>
+			<toHit>330</toHit>
 			<defence>275</defence>
 			<absorbtion>12</absorbtion>
 			<charge>20</charge>
@@ -19061,7 +19061,7 @@
 			<physicalMin>82</physicalMin>
 			<physicalMax>164</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>265</toHit>
+			<toHit>275</toHit>
 			<defence>310</defence>
 			<absorbtion>39</absorbtion>
 			<charge>12</charge>
@@ -19129,7 +19129,7 @@
 			<physicalMin>164</physicalMin>
 			<physicalMax>302</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>290</toHit>
+			<toHit>300</toHit>
 			<defence>333</defence>
 			<absorbtion>43</absorbtion>
 			<charge>12</charge>
