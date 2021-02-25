@@ -18925,7 +18925,7 @@
 			<physicalMin>40</physicalMin>
 			<physicalMax>66</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>140</toHit>
+			<toHit>150</toHit>
 			<defence>150</defence>
 			<absorbtion>15</absorbtion>
 			<charge>12</charge>
