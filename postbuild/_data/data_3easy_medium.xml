@@ -7026,7 +7026,7 @@
 			<physicalMin>13</physicalMin>
 			<physicalMax>26</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>140</toHit>
+			<toHit>120</toHit>
 			<defence>120</defence>
 			<absorbtion>4</absorbtion>
 			<charge>11</charge>
@@ -7366,7 +7366,7 @@
 			<physicalMin>10</physicalMin>
 			<physicalMax>19</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>145</toHit>
+			<toHit>125</toHit>
 			<defence>115</defence>
 			<absorbtion>4</absorbtion>
 			<charge>21</charge>
@@ -7706,7 +7706,7 @@
 			<physicalMin>32</physicalMin>
 			<physicalMax>64</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>170</toHit>
+			<toHit>120</toHit>
 			<defence>140</defence>
 			<absorbtion>9</absorbtion>
 			<charge>12</charge>
@@ -8046,7 +8046,7 @@
 			<physicalMin>24</physicalMin>
 			<physicalMax>48</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>150</toHit>
+			<toHit>120</toHit>
 			<defence>170</defence>
 			<absorbtion>16</absorbtion>
 			<charge>10</charge>
@@ -11272,7 +11272,7 @@
 			<physicalMin>10</physicalMin>
 			<physicalMax>19</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>130</toHit>
+			<toHit>120</toHit>
 			<defence>130</defence>
 			<absorbtion>7</absorbtion>
 			<charge>6</charge>
@@ -11884,7 +11884,7 @@
 			<physicalMin>13</physicalMin>
 			<physicalMax>26</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>140</toHit>
+			<toHit>120</toHit>
 			<defence>115</defence>
 			<absorbtion>4</absorbtion>
 			<charge>8</charge>
@@ -12224,7 +12224,7 @@
 			<physicalMin>10</physicalMin>
 			<physicalMax>19</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>145</toHit>
+			<toHit>125</toHit>
 			<defence>110</defence>
 			<absorbtion>4</absorbtion>
 			<charge>20</charge>
@@ -18857,7 +18857,7 @@
 			<physicalMin>25</physicalMin>
 			<physicalMax>45</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>110</toHit>
+			<toHit>100</toHit>
 			<defence>90</defence>
 			<absorbtion>9</absorbtion>
 			<charge>12</charge>
@@ -18925,7 +18925,7 @@
 			<physicalMin>40</physicalMin>
 			<physicalMax>66</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>180</toHit>
+			<toHit>140</toHit>
 			<defence>150</defence>
 			<absorbtion>15</absorbtion>
 			<charge>12</charge>
