@@ -5391,7 +5391,7 @@
 			<name>Potion Medium Healing</name>
 			<price>150</price>
 			<weight>2</weight>
-			<effect>health=+1, mana=+1</effect>
+			<effect>health=+2, mana=+2</effect>
 		</item>
 		<item>
 			<name>Potion Big Healing</name>
