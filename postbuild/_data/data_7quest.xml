@@ -6541,7 +6541,7 @@
 			<mind>52</mind>
 			<spirit>52</spirit>
 			<healthMax>2458</healthMax>
-			<healthRegeneration>36</healthRegeneration>
+			<healthRegeneration>0</healthRegeneration>
 			<manaMax>0</manaMax>
 			<manaRegeneration>0</manaRegeneration>
 			<speed>27</speed>
@@ -6881,7 +6881,7 @@
 			<mind>52</mind>
 			<spirit>52</spirit>
 			<healthMax>1843</healthMax>
-			<healthRegeneration>36</healthRegeneration>
+			<healthRegeneration>0</healthRegeneration>
 			<manaMax>0</manaMax>
 			<manaRegeneration>0</manaRegeneration>
 			<speed>27</speed>
@@ -7221,7 +7221,7 @@
 			<mind>58</mind>
 			<spirit>52</spirit>
 			<healthMax>3333</healthMax>
-			<healthRegeneration>73</healthRegeneration>
+			<healthRegeneration>0</healthRegeneration>
 			<manaMax>0</manaMax>
 			<manaRegeneration>0</manaRegeneration>
 			<speed>19</speed>
@@ -7561,7 +7561,7 @@
 			<mind>58</mind>
 			<spirit>52</spirit>
 			<healthMax>2555</healthMax>
-			<healthRegeneration>73</healthRegeneration>
+			<healthRegeneration>0</healthRegeneration>
 			<manaMax>0</manaMax>
 			<manaRegeneration>0</manaRegeneration>
 			<speed>21</speed>
@@ -7901,7 +7901,7 @@
 			<mind>52</mind>
 			<spirit>58</spirit>
 			<healthMax>4444</healthMax>
-			<healthRegeneration>109</healthRegeneration>
+			<healthRegeneration>0</healthRegeneration>
 			<manaMax>0</manaMax>
 			<manaRegeneration>0</manaRegeneration>
 			<speed>18</speed>
@@ -8241,7 +8241,7 @@
 			<mind>50</mind>
 			<spirit>64</spirit>
 			<healthMax>5555</healthMax>
-			<healthRegeneration>73</healthRegeneration>
+			<healthRegeneration>0</healthRegeneration>
 			<manaMax>0</manaMax>
 			<manaRegeneration>0</manaRegeneration>
 			<speed>11</speed>
@@ -10657,7 +10657,7 @@
 			<mind>127</mind>
 			<spirit>110</spirit>
 			<healthMax>5555</healthMax>
-			<healthRegeneration>360</healthRegeneration>
+			<healthRegeneration>0</healthRegeneration>
 			<manaMax>15000</manaMax>
 			<manaRegeneration>109</manaRegeneration>
 			<speed>27</speed>
@@ -10737,7 +10737,7 @@
 			<mind>99</mind>
 			<spirit>90</spirit>
 			<healthMax>10000</healthMax>
-			<healthRegeneration>200</healthRegeneration>
+			<healthRegeneration>0</healthRegeneration>
 			<manaMax>10000</manaMax>
 			<manaRegeneration>100</manaRegeneration>
 			<speed>30</speed>
@@ -11117,7 +11117,7 @@
 			<mind>64</mind>
 			<spirit>75</spirit>
 			<healthMax>3072</healthMax>
-			<healthRegeneration>73</healthRegeneration>
+			<healthRegeneration>0</healthRegeneration>
 			<manaMax>7594</manaMax>
 			<manaRegeneration>73</manaRegeneration>
 			<speed>17</speed>
@@ -11467,7 +11467,7 @@
 			<mind>46</mind>
 			<spirit>52</spirit>
 			<healthMax>4444</healthMax>
-			<healthRegeneration>73</healthRegeneration>
+			<healthRegeneration>0</healthRegeneration>
 			<manaMax>0</manaMax>
 			<manaRegeneration>0</manaRegeneration>
 			<speed>19</speed>
@@ -11739,7 +11739,7 @@
 			<mind>42</mind>
 			<spirit>47</spirit>
 			<healthMax>3072</healthMax>
-			<healthRegeneration>81</healthRegeneration>
+			<healthRegeneration>0</healthRegeneration>
 			<manaMax>0</manaMax>
 			<manaRegeneration>0</manaRegeneration>
 			<speed>18</speed>
@@ -12079,7 +12079,7 @@
 			<mind>46</mind>
 			<spirit>52</spirit>
 			<healthMax>3777</healthMax>
-			<healthRegeneration>73</healthRegeneration>
+			<healthRegeneration>0</healthRegeneration>
 			<manaMax>0</manaMax>
 			<manaRegeneration>0</manaRegeneration>
 			<speed>23</speed>
@@ -12419,7 +12419,7 @@
 			<mind>46</mind>
 			<spirit>52</spirit>
 			<healthMax>3686</healthMax>
-			<healthRegeneration>73</healthRegeneration>
+			<healthRegeneration>0</healthRegeneration>
 			<manaMax>0</manaMax>
 			<manaRegeneration>0</manaRegeneration>
 			<speed>23</speed>
@@ -12641,7 +12641,7 @@
 			<mind>85</mind>
 			<spirit>95</spirit>
 			<healthMax>3600</healthMax>
-			<healthRegeneration>73</healthRegeneration>
+			<healthRegeneration>0</healthRegeneration>
 			<manaMax>22500</manaMax>
 			<manaRegeneration>73</manaRegeneration>
 			<speed>17</speed>
@@ -15126,7 +15126,7 @@
 			<mind>98</mind>
 			<spirit>87</spirit>
 			<healthMax>3686</healthMax>
-			<healthRegeneration>73</healthRegeneration>
+			<healthRegeneration>0</healthRegeneration>
 			<manaMax>15000</manaMax>
 			<manaRegeneration>73</manaRegeneration>
 			<speed>19</speed>
@@ -15205,7 +15205,7 @@
 			<mind>93</mind>
 			<spirit>93</spirit>
 			<healthMax>3072</healthMax>
-			<healthRegeneration>73</healthRegeneration>
+			<healthRegeneration>0</healthRegeneration>
 			<manaMax>15000</manaMax>
 			<manaRegeneration>73</manaRegeneration>
 			<speed>19</speed>
@@ -15284,7 +15284,7 @@
 			<mind>104</mind>
 			<spirit>93</spirit>
 			<healthMax>4915</healthMax>
-			<healthRegeneration>73</healthRegeneration>
+			<healthRegeneration>0</healthRegeneration>
 			<manaMax>15000</manaMax>
 			<manaRegeneration>73</manaRegeneration>
 			<speed>19</speed>
@@ -16887,7 +16887,7 @@
 			<mind>116</mind>
 			<spirit>98</spirit>
 			<healthMax>4444</healthMax>
-			<healthRegeneration>360</healthRegeneration>
+			<healthRegeneration>0</healthRegeneration>
 			<manaMax>15000</manaMax>
 			<manaRegeneration>109</manaRegeneration>
 			<speed>23</speed>
@@ -19120,7 +19120,7 @@
 			<mind>150</mind>
 			<spirit>130</spirit>
 			<healthMax>6666</healthMax>
-			<healthRegeneration>50</healthRegeneration>
+			<healthRegeneration>0</healthRegeneration>
 			<manaMax>20000</manaMax>
 			<manaRegeneration>50</manaRegeneration>
 			<speed>20</speed>
