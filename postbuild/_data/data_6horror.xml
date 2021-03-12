@@ -6522,7 +6522,7 @@
 			<spellProbability2>-1</spellProbability2>
 			<spell3></spell3>
 			<spellProbability3>-1</spellProbability3>
-			<spellPower>30</spellPower>
+			<spellPower>50</spellPower>
 			<serverId>603</serverId>
 			<knownSpellsAreEmpty>1</knownSpellsAreEmpty>
 			<skillFire>-1</skillFire>
@@ -6590,7 +6590,7 @@
 			<spellProbability2>-1</spellProbability2>
 			<spell3></spell3>
 			<spellProbability3>-1</spellProbability3>
-			<spellPower>255</spellPower>
+			<spellPower>100</spellPower>
 			<serverId>801</serverId>
 			<knownSpellsAreEmpty>1</knownSpellsAreEmpty>
 			<skillFire>-1</skillFire>
