@@ -2590,8 +2590,8 @@
 			<shape>0</shape>
 			<material>0</material>
 			<price>170</price>
-			<weight>30</weight>
-			<slot>5</slot>
+			<weight>15</weight>
+			<slot>7</slot>
 			<attackType>-1</attackType>
 			<physicalMin>0</physicalMin>
 			<physicalMax>0</physicalMax>
