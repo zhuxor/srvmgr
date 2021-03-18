@@ -2086,7 +2086,7 @@
 			<shape>0</shape>
 			<material>0</material>
 			<price>170</price>
-			<weight>10</weight>
+			<weight>20</weight>
 			<slot>6</slot>
 			<attackType>-1</attackType>
 			<physicalMin>0</physicalMin>
@@ -2202,7 +2202,7 @@
 			<shape>0</shape>
 			<material>0</material>
 			<price>140</price>
-			<weight>1</weight>
+			<weight>7</weight>
 			<slot>6</slot>
 			<attackType>-1</attackType>
 			<physicalMin>0</physicalMin>
@@ -2591,7 +2591,7 @@
 			<material>0</material>
 			<price>170</price>
 			<weight>30</weight>
-			<slot>5</slot>
+			<slot>7</slot>
 			<attackType>-1</attackType>
 			<physicalMin>0</physicalMin>
 			<physicalMax>0</physicalMax>
@@ -2686,7 +2686,7 @@
 			<shape>0</shape>
 			<material>0</material>
 			<price>250</price>
-			<weight>10</weight>
+			<weight>30</weight>
 			<slot>8</slot>
 			<attackType>-1</attackType>
 			<physicalMin>0</physicalMin>
@@ -2814,7 +2814,7 @@
 			<shape>0</shape>
 			<material>0</material>
 			<price>100</price>
-			<weight>1</weight>
+			<weight>3</weight>
 			<slot>9</slot>
 			<attackType>-1</attackType>
 			<physicalMin>0</physicalMin>
@@ -3054,7 +3054,7 @@
 			<shape>0</shape>
 			<material>0</material>
 			<price>125</price>
-			<weight>1</weight>
+			<weight>2</weight>
 			<slot>10</slot>
 			<attackType>-1</attackType>
 			<physicalMin>0</physicalMin>
@@ -3242,7 +3242,7 @@
 			<shape>0</shape>
 			<material>0</material>
 			<price>140</price>
-			<weight>1</weight>
+			<weight>5</weight>
 			<slot>12</slot>
 			<attackType>-1</attackType>
 			<physicalMin>0</physicalMin>
