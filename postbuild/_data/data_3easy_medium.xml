@@ -153,10 +153,10 @@
 			<name>Meteoric</name>
 			<price>100</price>
 			<weight>10</weight>
-			<damage>1</damage>
-			<toHit>1</toHit>
-			<defence>1</defence>
-			<absorbtion>1</absorbtion>
+			<damage>0.1</damage>
+			<toHit>0.1</toHit>
+			<defence>0.1</defence>
+			<absorbtion>0.1</absorbtion>
 			<magicVolume>100</magicVolume>
 		</item>
 		<item>
@@ -204,9 +204,9 @@
 			<price>300</price>
 			<weight>10</weight>
 			<damage>1.4400010000000001</damage>
-			<toHit>1</toHit>
-			<defence>1</defence>
-			<absorbtion>1</absorbtion>
+			<toHit>0.1</toHit>
+			<defence>0.1</defence>
+			<absorbtion>0.1</absorbtion>
 			<magicVolume>150</magicVolume>
 		</item>
 		<item>
@@ -223,10 +223,10 @@
 			<name>Crystal</name>
 			<price>900</price>
 			<weight>10</weight>
-			<damage>1</damage>
-			<toHit>1</toHit>
-			<defence>1</defence>
-			<absorbtion>1</absorbtion>
+			<damage>0.1</damage>
+			<toHit>0.1</toHit>
+			<defence>0.1</defence>
+			<absorbtion>0.1</absorbtion>
 			<magicVolume>150</magicVolume>
 		</item>
 		<item>
