@@ -152,8 +152,8 @@
 		<item>
 			<name>Meteoric</name>
 			<price>100</price>
-			<weight>5</weight>
-			<damage>10</damage>
+			<weight>10</weight>
+			<damage>1</damage>
 			<toHit>1</toHit>
 			<defence>1</defence>
 			<absorbtion>1</absorbtion>
