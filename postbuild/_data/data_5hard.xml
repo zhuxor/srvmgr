@@ -202,7 +202,7 @@
 		<item>
 			<name>Dragon Leather</name>
 			<price>300</price>
-			<weight>1</weight>
+			<weight>5</weight>
 			<damage>1.4400010000000001</damage>
 			<toHit>1</toHit>
 			<defence>2.875120388</defence>
@@ -222,7 +222,7 @@
 		<item>
 			<name>Crystal</name>
 			<price>900</price>
-			<weight>2</weight>
+			<weight>6</weight>
 			<damage>2.9859849999999999</damage>
 			<toHit>3</toHit>
 			<defence>2.9859849999999999</defence>

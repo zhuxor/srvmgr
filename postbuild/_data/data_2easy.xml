@@ -132,7 +132,7 @@
 		<item>
 			<name>Mithrill</name>
 			<price>8</price>
-			<weight>0.5</weight>
+			<weight>3</weight>
 			<damage>1.7280009999999999</damage>
 			<toHit>1.5</toHit>
 			<defence>1.7280009999999999</defence>
@@ -142,21 +142,21 @@
 		<item>
 			<name>Adamantium</name>
 			<price>30</price>
-			<weight>1</weight>
-			<damage>2.1989529999999999</damage>
-			<toHit>2</toHit>
-			<defence>2.1989529999999999</defence>
-			<absorbtion>1.509719</absorbtion>
+			<weight>5</weight>
+			<damage>1</damage>
+			<toHit>1</toHit>
+			<defence>1</defence>
+			<absorbtion>1</absorbtion>
 			<magicVolume>50</magicVolume>
 		</item>
 		<item>
 			<name>Meteoric</name>
 			<price>100</price>
-			<weight>1.5</weight>
-			<damage>2.7683719999999998</damage>
-			<toHit>2.5</toHit>
-			<defence>2.7683719999999998</defence>
-			<absorbtion>1.7028509999999999</absorbtion>
+			<weight>10</weight>
+			<damage>1</damage>
+			<toHit>1</toHit>
+			<defence>1</defence>
+			<absorbtion>1</absorbtion>
 			<magicVolume>100</magicVolume>
 		</item>
 		<item>
@@ -202,11 +202,11 @@
 		<item>
 			<name>Dragon Leather</name>
 			<price>300</price>
-			<weight>1</weight>
+			<weight>10</weight>
 			<damage>1.4400010000000001</damage>
 			<toHit>1</toHit>
-			<defence>2.875120388</defence>
-			<absorbtion>1.509719</absorbtion>
+			<defence>1</defence>
+			<absorbtion>1</absorbtion>
 			<magicVolume>150</magicVolume>
 		</item>
 		<item>
@@ -222,11 +222,11 @@
 		<item>
 			<name>Crystal</name>
 			<price>900</price>
-			<weight>2</weight>
-			<damage>2.9859849999999999</damage>
-			<toHit>3</toHit>
-			<defence>2.9859849999999999</defence>
-			<absorbtion>1.7715609999999999</absorbtion>
+			<weight>10</weight>
+			<damage>1</damage>
+			<toHit>1</toHit>
+			<defence>1</defence>
+			<absorbtion>1</absorbtion>
 			<magicVolume>150</magicVolume>
 		</item>
 		<item>
