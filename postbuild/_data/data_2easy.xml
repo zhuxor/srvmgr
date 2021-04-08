@@ -5101,7 +5101,7 @@
 		</item>
 		<item>
 			<name>Scroll Wall of Earth</name>
-			<price>500000</price>
+			<price>250000</price>
 			<weight>1</weight>
 			<effect>castSpell=Wall_of_Earth:1</effect>
 		</item>
@@ -5275,7 +5275,7 @@
 		</item>
 		<item>
 			<name>SuperScroll Wall of Earth</name>
-			<price>1500000</price>
+			<price>1000000</price>
 			<weight>1</weight>
 			<effect>castSpell=Wall_of_Earth:1</effect>
 		</item>
