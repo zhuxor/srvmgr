@@ -5383,7 +5383,7 @@
 		</item>
 		<item>
 			<name>Potion Health Regeneration</name>
-			<price>999999999</price>
+			<price>5000</price>
 			<weight>1</weight>
 			<effect>mana=+1</effect>
 		</item>
