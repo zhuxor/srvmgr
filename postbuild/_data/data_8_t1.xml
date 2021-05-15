@@ -6482,7 +6482,7 @@
 			<physicalMin>16</physicalMin>
 			<physicalMax>33</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>260</toHit>
+			<toHit>285</toHit>
 			<defence>240</defence>
 			<absorbtion>5</absorbtion>
 			<charge>7</charge>
@@ -6547,8 +6547,8 @@
 			<speed>27</speed>
 			<rotationSpeed>27</rotationSpeed>
 			<scanRange>8</scanRange>
-			<physicalMin>33</physicalMin>
-			<physicalMax>99</physicalMax>
+			<physicalMin>43</physicalMin>
+			<physicalMax>131</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>320</toHit>
 			<defence>300</defence>
@@ -6822,7 +6822,7 @@
 			<physicalMin>12</physicalMin>
 			<physicalMax>25</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>265</toHit>
+			<toHit>290</toHit>
 			<defence>235</defence>
 			<absorbtion>5</absorbtion>
 			<charge>21</charge>
@@ -6887,8 +6887,8 @@
 			<speed>27</speed>
 			<rotationSpeed>27</rotationSpeed>
 			<scanRange>8</scanRange>
-			<physicalMin>25</physicalMin>
-			<physicalMax>75</physicalMax>
+			<physicalMin>35</physicalMin>
+			<physicalMax>98</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>330</toHit>
 			<defence>275</defence>
@@ -7162,7 +7162,7 @@
 			<physicalMin>33</physicalMin>
 			<physicalMax>66</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>275</toHit>
+			<toHit>320</toHit>
 			<defence>260</defence>
 			<absorbtion>12</absorbtion>
 			<charge>11</charge>
@@ -7227,8 +7227,8 @@
 			<speed>19</speed>
 			<rotationSpeed>19</rotationSpeed>
 			<scanRange>8</scanRange>
-			<physicalMin>66</physicalMin>
-			<physicalMax>198</physicalMax>
+			<physicalMin>76</physicalMin>
+			<physicalMax>262</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>330</toHit>
 			<defence>310</defence>
@@ -7502,7 +7502,7 @@
 			<physicalMin>25</physicalMin>
 			<physicalMax>49</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>290</toHit>
+			<toHit>325</toHit>
 			<defence>255</defence>
 			<absorbtion>12</absorbtion>
 			<charge>21</charge>
@@ -7567,8 +7567,8 @@
 			<speed>21</speed>
 			<rotationSpeed>21</rotationSpeed>
 			<scanRange>8</scanRange>
-			<physicalMin>49</physicalMin>
-			<physicalMax>147</physicalMax>
+			<physicalMin>59</physicalMin>
+			<physicalMax>197</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>325</toHit>
 			<defence>295</defence>
@@ -7842,7 +7842,7 @@
 			<physicalMin>82</physicalMin>
 			<physicalMax>164</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>265</toHit>
+			<toHit>350</toHit>
 			<defence>280</defence>
 			<absorbtion>22</absorbtion>
 			<charge>12</charge>
@@ -7907,8 +7907,8 @@
 			<speed>18</speed>
 			<rotationSpeed>18</rotationSpeed>
 			<scanRange>7</scanRange>
-			<physicalMin>164</physicalMin>
-			<physicalMax>320</physicalMax>
+			<physicalMin>184</physicalMin>
+			<physicalMax>420</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>310</toHit>
 			<defence>310</defence>
@@ -8182,7 +8182,7 @@
 			<physicalMin>61</physicalMin>
 			<physicalMax>123</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>265</toHit>
+			<toHit>330</toHit>
 			<defence>320</defence>
 			<absorbtion>39</absorbtion>
 			<charge>10</charge>
@@ -8247,8 +8247,8 @@
 			<speed>11</speed>
 			<rotationSpeed>11</rotationSpeed>
 			<scanRange>6</scanRange>
-			<physicalMin>123</physicalMin>
-			<physicalMax>246</physicalMax>
+			<physicalMin>143</physicalMin>
+			<physicalMax>346</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>320</toHit>
 			<defence>330</defence>
@@ -8523,7 +8523,7 @@
 			<physicalMax>16</physicalMax>
 			<attackType>3</attackType>
 			<toHit>320</toHit>
-			<defence>254</defence>
+			<defence>255</defence>
 			<absorbtion>5</absorbtion>
 			<charge>8</charge>
 			<relax>2</relax>
@@ -8587,11 +8587,11 @@
 			<speed>32</speed>
 			<rotationSpeed>32</rotationSpeed>
 			<scanRange>8</scanRange>
-			<physicalMin>16</physicalMin>
-			<physicalMax>48</physicalMax>
+			<physicalMin>22</physicalMin>
+			<physicalMax>58</physicalMax>
 			<attackType>3</attackType>
 			<toHit>420</toHit>
-			<defence>285</defence>
+			<defence>355</defence>
 			<absorbtion>5</absorbtion>
 			<charge>8</charge>
 			<relax>2</relax>
@@ -8928,10 +8928,10 @@
 			<rotationSpeed>13</rotationSpeed>
 			<scanRange>8</scanRange>
 			<physicalMin>33</physicalMin>
-			<physicalMax>99</physicalMax>
+			<physicalMax>122</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>410</toHit>
-			<defence>280</defence>
+			<defence>300</defence>
 			<absorbtion>12</absorbtion>
 			<charge>8</charge>
 			<relax>4</relax>
@@ -9267,11 +9267,11 @@
 			<speed>27</speed>
 			<rotationSpeed>27</rotationSpeed>
 			<scanRange>8</scanRange>
-			<physicalMin>20</physicalMin>
-			<physicalMax>60</physicalMax>
+			<physicalMin>25</physicalMin>
+			<physicalMax>98</physicalMax>
 			<attackType>3</attackType>
 			<toHit>400</toHit>
-			<defence>250</defence>
+			<defence>280</defence>
 			<absorbtion>5</absorbtion>
 			<charge>6</charge>
 			<relax>2</relax>
@@ -9607,11 +9607,11 @@
 			<speed>27</speed>
 			<rotationSpeed>27</rotationSpeed>
 			<scanRange>10</scanRange>
-			<physicalMin>25</physicalMin>
-			<physicalMax>75</physicalMax>
+			<physicalMin>30</physicalMin>
+			<physicalMax>98</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>410</toHit>
-			<defence>225</defence>
+			<defence>270</defence>
 			<absorbtion>5</absorbtion>
 			<charge>8</charge>
 			<relax>4</relax>
@@ -9947,11 +9947,11 @@
 			<speed>21</speed>
 			<rotationSpeed>21</rotationSpeed>
 			<scanRange>6</scanRange>
-			<physicalMin>20</physicalMin>
-			<physicalMax>60</physicalMax>
+			<physicalMin>33</physicalMin>
+			<physicalMax>90</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>370</toHit>
-			<defence>260</defence>
+			<defence>290</defence>
 			<absorbtion>5</absorbtion>
 			<charge>10</charge>
 			<relax>4</relax>
@@ -10223,7 +10223,7 @@
 			<physicalMax>49</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>300</toHit>
-			<defence>230</defence>
+			<defence>290</defence>
 			<absorbtion>18</absorbtion>
 			<charge>8</charge>
 			<relax>4</relax>
@@ -10287,11 +10287,11 @@
 			<speed>11</speed>
 			<rotationSpeed>11</rotationSpeed>
 			<scanRange>7</scanRange>
-			<physicalMin>49</physicalMin>
-			<physicalMax>147</physicalMax>
+			<physicalMin>59</physicalMin>
+			<physicalMax>177</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>400</toHit>
-			<defence>300</defence>
+			<defence>390</defence>
 			<absorbtion>18</absorbtion>
 			<charge>8</charge>
 			<relax>4</relax>
@@ -10663,11 +10663,11 @@
 			<speed>27</speed>
 			<rotationSpeed>27</rotationSpeed>
 			<scanRange>12</scanRange>
-			<physicalMin>61</physicalMin>
-			<physicalMax>183</physicalMax>
+			<physicalMin>81</physicalMin>
+			<physicalMax>223</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>470</toHit>
-			<defence>300</defence>
+			<defence>340</defence>
 			<absorbtion>18</absorbtion>
 			<charge>10</charge>
 			<relax>4</relax>
@@ -10743,11 +10743,11 @@
 			<speed>30</speed>
 			<rotationSpeed>30</rotationSpeed>
 			<scanRange>12</scanRange>
-			<physicalMin>27</physicalMin>
-			<physicalMax>81</physicalMax>
+			<physicalMin>37</physicalMin>
+			<physicalMax>91</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>370</toHit>
-			<defence>210</defence>
+			<defence>290</defence>
 			<absorbtion>39</absorbtion>
 			<charge>8</charge>
 			<relax>6</relax>
@@ -11123,11 +11123,11 @@
 			<speed>17</speed>
 			<rotationSpeed>17</rotationSpeed>
 			<scanRange>9</scanRange>
-			<physicalMin>33</physicalMin>
-			<physicalMax>99</physicalMax>
+			<physicalMin>43</physicalMin>
+			<physicalMax>131</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>410</toHit>
-			<defence>275</defence>
+			<defence>300</defence>
 			<absorbtion>12</absorbtion>
 			<charge>9</charge>
 			<relax>15</relax>
@@ -11408,7 +11408,7 @@
 			<physicalMin>25</physicalMin>
 			<physicalMax>49</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>280</toHit>
+			<toHit>310</toHit>
 			<defence>270</defence>
 			<absorbtion>18</absorbtion>
 			<charge>8</charge>
@@ -11473,11 +11473,11 @@
 			<speed>19</speed>
 			<rotationSpeed>19</rotationSpeed>
 			<scanRange>7</scanRange>
-			<physicalMin>49</physicalMin>
-			<physicalMax>147</physicalMax>
+			<physicalMin>59</physicalMin>
+			<physicalMax>197</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>320</toHit>
-			<defence>290</defence>
+			<defence>310</defence>
 			<absorbtion>18</absorbtion>
 			<charge>8</charge>
 			<relax>6</relax>
@@ -11680,7 +11680,7 @@
 			<physicalMin>13</physicalMin>
 			<physicalMax>26</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>250</toHit>
+			<toHit>280</toHit>
 			<defence>190</defence>
 			<absorbtion>12</absorbtion>
 			<charge>8</charge>
@@ -11745,11 +11745,11 @@
 			<speed>18</speed>
 			<rotationSpeed>18</rotationSpeed>
 			<scanRange>6</scanRange>
-			<physicalMin>26</physicalMin>
-			<physicalMax>78</physicalMax>
+			<physicalMin>39</physicalMin>
+			<physicalMax>102</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>320</toHit>
-			<defence>225</defence>
+			<toHit>325</toHit>
+			<defence>250</defence>
 			<absorbtion>12</absorbtion>
 			<charge>8</charge>
 			<relax>16</relax>
@@ -12020,8 +12020,8 @@
 			<physicalMin>33</physicalMin>
 			<physicalMax>66</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>275</toHit>
-			<defence>254</defence>
+			<toHit>320</toHit>
+			<defence>255</defence>
 			<absorbtion>12</absorbtion>
 			<charge>8</charge>
 			<relax>6</relax>
@@ -12085,8 +12085,8 @@
 			<speed>23</speed>
 			<rotationSpeed>23</rotationSpeed>
 			<scanRange>8</scanRange>
-			<physicalMin>66</physicalMin>
-			<physicalMax>198</physicalMax>
+			<physicalMin>76</physicalMin>
+			<physicalMax>238</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>320</toHit>
 			<defence>295</defence>
@@ -12360,7 +12360,7 @@
 			<physicalMin>25</physicalMin>
 			<physicalMax>49</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>290</toHit>
+			<toHit>325</toHit>
 			<defence>250</defence>
 			<absorbtion>12</absorbtion>
 			<charge>20</charge>
@@ -12425,8 +12425,8 @@
 			<speed>23</speed>
 			<rotationSpeed>23</rotationSpeed>
 			<scanRange>8</scanRange>
-			<physicalMin>49</physicalMin>
-			<physicalMax>147</physicalMax>
+			<physicalMin>59</physicalMin>
+			<physicalMax>197</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>330</toHit>
 			<defence>275</defence>
@@ -12647,11 +12647,11 @@
 			<speed>17</speed>
 			<rotationSpeed>17</rotationSpeed>
 			<scanRange>10</scanRange>
-			<physicalMin>16</physicalMin>
-			<physicalMax>48</physicalMax>
+			<physicalMin>36</physicalMin>
+			<physicalMax>78</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>390</toHit>
-			<defence>300</defence>
+			<defence>340</defence>
 			<absorbtion>4</absorbtion>
 			<charge>8</charge>
 			<relax>6</relax>
@@ -16176,11 +16176,11 @@
 			<speed>19</speed>
 			<rotationSpeed>19</rotationSpeed>
 			<scanRange>10</scanRange>
-			<physicalMin>33</physicalMin>
-			<physicalMax>99</physicalMax>
+			<physicalMin>43</physicalMin>
+			<physicalMax>131</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>410</toHit>
-			<defence>275</defence>
+			<defence>310</defence>
 			<absorbtion>12</absorbtion>
 			<charge>6</charge>
 			<relax>6</relax>
@@ -16448,8 +16448,8 @@
 			<speed>27</speed>
 			<rotationSpeed>27</rotationSpeed>
 			<scanRange>8</scanRange>
-			<physicalMin>13</physicalMin>
-			<physicalMax>22</physicalMax>
+			<physicalMin>16</physicalMin>
+			<physicalMax>33</physicalMax>
 			<attackType>3</attackType>
 			<toHit>330</toHit>
 			<defence>240</defence>
@@ -16516,11 +16516,11 @@
 			<speed>27</speed>
 			<rotationSpeed>27</rotationSpeed>
 			<scanRange>8</scanRange>
-			<physicalMin>22</physicalMin>
-			<physicalMax>44</physicalMax>
+			<physicalMin>32</physicalMin>
+			<physicalMax>77</physicalMax>
 			<attackType>3</attackType>
 			<toHit>430</toHit>
-			<defence>265</defence>
+			<defence>300</defence>
 			<absorbtion>8</absorbtion>
 			<charge>2</charge>
 			<relax>4</relax>
@@ -16817,7 +16817,7 @@
 			<physicalMax>41</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>320</toHit>
-			<defence>254</defence>
+			<defence>255</defence>
 			<absorbtion>15</absorbtion>
 			<charge>6</charge>
 			<relax>10</relax>
@@ -16893,12 +16893,12 @@
 			<speed>23</speed>
 			<rotationSpeed>23</rotationSpeed>
 			<scanRange>10</scanRange>
-			<physicalMin>41</physicalMin>
-			<physicalMax>123</physicalMax>
+			<physicalMin>51</physicalMin>
+			<physicalMax>143</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>420</toHit>
 			<defence>285</defence>
-			<absorbtion>1</absorbtion>
+			<absorbtion>3</absorbtion>
 			<charge>6</charge>
 			<relax>10</relax>
 			<protectionFire>20</protectionFire>
@@ -17245,8 +17245,8 @@
 			<speed>25</speed>
 			<rotationSpeed>25</rotationSpeed>
 			<scanRange>8</scanRange>
-			<physicalMin>66</physicalMin>
-			<physicalMax>198</physicalMax>
+			<physicalMin>70</physicalMin>
+			<physicalMax>220</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>420</toHit>
 			<defence>290</defence>
@@ -19061,7 +19061,7 @@
 			<physicalMin>82</physicalMin>
 			<physicalMax>164</physicalMax>
 			<attackType>-1</attackType>
-			<toHit>275</toHit>
+			<toHit>320</toHit>
 			<defence>310</defence>
 			<absorbtion>39</absorbtion>
 			<charge>12</charge>
@@ -19126,8 +19126,8 @@
 			<speed>20</speed>
 			<rotationSpeed>18</rotationSpeed>
 			<scanRange>9</scanRange>
-			<physicalMin>164</physicalMin>
-			<physicalMax>302</physicalMax>
+			<physicalMin>184</physicalMin>
+			<physicalMax>372</physicalMax>
 			<attackType>-1</attackType>
 			<toHit>300</toHit>
 			<defence>333</defence>
