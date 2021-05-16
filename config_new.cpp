@@ -154,6 +154,11 @@ namespace Config
 	MainCharacterParameters MageMaleMaxParameters = { 48, 46, 52, 50 };
 	MainCharacterParameters MageFemaleMaxParameters = { 46, 48, 50, 52 };
 
+	CharacterMagicResists warrior_max_resists = { 100, 100, 100, 100, 100 };
+	CharacterMagicResists amazon_max_resists = { 100, 100, 100, 100, 100 };
+	CharacterMagicResists mage_max_resists = { 100, 100, 100, 100, 100 };
+	CharacterMagicResists witch_max_resists = { 100, 100, 100, 100, 100 };
+
 	extern uint32_t MinQuestReward = 250;
 	extern uint32_t MaxQuestReward = 16383000;
 
@@ -593,6 +598,28 @@ int ReadConfig(const char* filename)
                     if(!CheckInt(value)) return lnid;
 					Config::MageFemaleMaxParameters.Spirit = ReadIntegerParameter(value,1,200);
                 }
+
+				else if(EndsWith(parameter, "_max_res"))
+				{
+					Erase(value, ' ');
+					std::vector<std::string> res_values = Explode(value, ",");
+					if (res_values.size() != 5) return lnid;
+					
+					std::string charclass = Explode(parameter, "_")[0];
+
+					CharacterMagicResists* resists = nullptr;
+					if (charclass == "warrior") resists = &Config::warrior_max_resists;
+					else if (charclass == "amazon") resists = &Config::amazon_max_resists;
+					else if (charclass == "mage") resists = &Config::mage_max_resists;
+					else if (charclass == "witch") resists = &Config::witch_max_resists;
+					if (!resists) return lnid;
+
+					for (int32_t sphere = 0; sphere < 5; sphere++) {
+						std::string& res = res_values[sphere];
+						if (!CheckInt(res)) continue;
+						resists->Sphere[sphere] = ReadIntegerParameter(res, 0, 100);
+					}
+				}
 
                 else if(parameter == ToLower("MinQuestReward"))
                 {

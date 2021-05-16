@@ -25,3 +25,6 @@ postbuild/release
 /postbuild/tmp_world/
 postbuild/world/data.xml
 postbuild/_data/world.res
+/.vs
+srvmgr.vcxproj
+srvmgr.vcxproj.filters

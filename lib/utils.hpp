@@ -5,6 +5,9 @@
 #include <vector>
 
 // string-related
+void Erase(std::string& str, char c);
+bool EndsWith(const std::string& str, const std::string& suffix);
+bool StartsWith(const std::string& str, const std::string& prefix);
 std::string Format(const std::string format, ...);
 std::vector<std::string> Explode(const std::string& what, const std::string& separator);
 bool IsWhitespace(char what);

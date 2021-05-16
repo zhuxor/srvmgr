@@ -101,6 +101,7 @@
     <ClCompile Include="this_call.cpp" />
     <ClCompile Include="quests.cpp" />
     <ClCompile Include="unit_info.cpp" />
+    <ClCompile Include="unit_stats_control.cpp" />
     <ClCompile Include="utils.cpp" />
     <ClCompile Include="zxmgr.cpp" />
     <ClCompile Include="lib\hat2.cpp" />

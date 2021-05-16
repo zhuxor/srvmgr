@@ -11,6 +11,15 @@ struct MainCharacterParameters {
 	uint8_t Body, Reaction, Mind, Spirit;
 };
 
+struct CharacterMagicResists {
+	union {
+		struct {
+			uint8_t Fire, Water, Air, Earth, Astral;
+		};
+		uint8_t Sphere[5];
+	};
+};
+
 namespace Config
 {
     extern uint32_t ExceptionCount;
@@ -62,6 +71,11 @@ namespace Config
 	extern MainCharacterParameters WarriorFemaleMaxParameters;
 	extern MainCharacterParameters MageMaleMaxParameters;
 	extern MainCharacterParameters MageFemaleMaxParameters;
+
+	extern CharacterMagicResists warrior_max_resists;
+	extern CharacterMagicResists amazon_max_resists;
+	extern CharacterMagicResists mage_max_resists;
+	extern CharacterMagicResists witch_max_resists;
 
 	extern uint32_t MinQuestReward;
 	extern uint32_t MaxQuestReward;
