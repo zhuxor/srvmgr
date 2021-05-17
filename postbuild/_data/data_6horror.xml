@@ -6577,10 +6577,10 @@
 			<treasureGold>60</treasureGold>
 			<treasureGoldMin>30870</treasureGoldMin>
 			<treasureGoldMax>81206</treasureGoldMax>
-			<treasureItem>0</treasureItem>
-			<treasureItemMin>-1</treasureItemMin>
-			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>289931263</treasureItemMask>
+			<treasureItem>1</treasureItem>
+			<treasureItemMin>1</treasureItemMin>
+			<treasureItemMax>18000000</treasureItemMax>
+			<treasureItemMask>557842431</treasureItemMask>
 			<notUsed>0</notUsed>
 			<notUsed1>0</notUsed1>
 			<power>96637</power>
@@ -6917,10 +6917,10 @@
 			<treasureGold>60</treasureGold>
 			<treasureGoldMin>30870</treasureGoldMin>
 			<treasureGoldMax>81206</treasureGoldMax>
-			<treasureItem>0</treasureItem>
-			<treasureItemMin>-1</treasureItemMin>
-			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>289931263</treasureItemMask>
+			<treasureItem>1</treasureItem>
+			<treasureItemMin>1</treasureItemMin>
+			<treasureItemMax>18000000</treasureItemMax>
+			<treasureItemMask>557842431</treasureItemMask>
 			<notUsed>0</notUsed>
 			<notUsed1>0</notUsed1>
 			<power>54358</power>
@@ -7257,10 +7257,10 @@
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>92610</treasureGoldMin>
 			<treasureGoldMax>243618</treasureGoldMax>
-			<treasureItem>30</treasureItem>
-			<treasureItemMin>185220</treasureItemMin>
-			<treasureItemMax>487236</treasureItemMax>
-			<treasureItemMask>826802175</treasureItemMask>
+			<treasureItem>1</treasureItem>
+			<treasureItemMin>1</treasureItemMin>
+			<treasureItemMax>18000000</treasureItemMax>
+			<treasureItemMask>557842431</treasureItemMask>
 			<notUsed>0</notUsed>
 			<notUsed1>0</notUsed1>
 			<power>383036</power>
@@ -7597,10 +7597,10 @@
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>92610</treasureGoldMin>
 			<treasureGoldMax>243618</treasureGoldMax>
-			<treasureItem>30</treasureItem>
-			<treasureItemMin>185220</treasureItemMin>
-			<treasureItemMax>487236</treasureItemMax>
-			<treasureItemMask>826802175</treasureItemMask>
+			<treasureItem>1</treasureItem>
+			<treasureItemMin>1</treasureItemMin>
+			<treasureItemMax>18000000</treasureItemMax>
+			<treasureItemMask>557842431</treasureItemMask>
 			<notUsed>0</notUsed>
 			<notUsed1>0</notUsed1>
 			<power>217433</power>
@@ -7937,10 +7937,10 @@
 			<treasureGold>90</treasureGold>
 			<treasureGoldMin>154350</treasureGoldMin>
 			<treasureGoldMax>676717</treasureGoldMax>
-			<treasureItem>40</treasureItem>
-			<treasureItemMin>308700</treasureItemMin>
-			<treasureItemMax>1353434</treasureItemMax>
-			<treasureItemMask>566755327</treasureItemMask>
+			<treasureItem>2</treasureItem>
+			<treasureItemMin>1</treasureItemMin>
+			<treasureItemMax>18000000</treasureItemMax>
+			<treasureItemMask>557842431</treasureItemMask>
 			<notUsed>0</notUsed>
 			<notUsed1>0</notUsed1>
 			<power>1923957</power>
@@ -8277,10 +8277,10 @@
 			<treasureGold>90</treasureGold>
 			<treasureGoldMin>617400</treasureGoldMin>
 			<treasureGoldMax>812060</treasureGoldMax>
-			<treasureItem>0</treasureItem>
-			<treasureItemMin>0</treasureItemMin>
-			<treasureItemMax>0</treasureItemMax>
-			<treasureItemMask>562561023</treasureItemMask>
+			<treasureItem>2</treasureItem>
+			<treasureItemMin>1</treasureItemMin>
+			<treasureItemMax>18000000</treasureItemMax>
+			<treasureItemMask>557842431</treasureItemMask>
 			<notUsed>514500</notUsed>
 			<notUsed1>1804578</notUsed1>
 			<power>2281955</power>
@@ -10693,10 +10693,10 @@
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>3087000</treasureGoldMin>
 			<treasureGoldMax>5413734</treasureGoldMax>
-			<treasureItem>100</treasureItem>
-			<treasureItemMin>1543500</treasureItemMin>
-			<treasureItemMax>4060301</treasureItemMax>
-			<treasureItemMask>672137215</treasureItemMask>
+			<treasureItem>2</treasureItem>
+			<treasureItemMin>1</treasureItemMin>
+			<treasureItemMax>18000000</treasureItemMax>
+			<treasureItemMask>557842431</treasureItemMask>
 			<notUsed>1543500</notUsed>
 			<notUsed1>2572500</notUsed1>
 			<power>1258291</power>
@@ -11153,10 +11153,10 @@
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>517400</treasureGoldMin>
 			<treasureGoldMax>712060</treasureGoldMax>
-			<treasureItem>-1</treasureItem>
-			<treasureItemMin>-1</treasureItemMin>
-			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>-1</treasureItemMask>
+			<treasureItem>1</treasureItem>
+			<treasureItemMin>1</treasureItemMin>
+			<treasureItemMax>18000000</treasureItemMax>
+			<treasureItemMask>557842431</treasureItemMask>
 			<notUsed>205800</notUsed>
 			<notUsed1>360916</notUsed1>
 			<power>120796</power>
@@ -11503,10 +11503,10 @@
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>30870</treasureGoldMin>
 			<treasureGoldMax>189481</treasureGoldMax>
-			<treasureItem>30</treasureItem>
-			<treasureItemMin>308700</treasureItemMin>
-			<treasureItemMax>541373</treasureItemMax>
-			<treasureItemMask>838860799</treasureItemMask>
+			<treasureItem>1</treasureItem>
+            <treasureItemMin>1</treasureItemMin>
+            <treasureItemMax>18000000</treasureItemMax>
+            <treasureItemMask>557842431</treasureItemMask>
 			<notUsed>0</notUsed>
 			<notUsed1>0</notUsed1>
 			<power>362388</power>
@@ -11775,10 +11775,10 @@
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>30870</treasureGoldMin>
 			<treasureGoldMax>189481</treasureGoldMax>
-			<treasureItem>30</treasureItem>
-			<treasureItemMin>308700</treasureItemMin>
-			<treasureItemMax>541373</treasureItemMax>
-			<treasureItemMask>838860799</treasureItemMask>
+			<treasureItem>1</treasureItem>
+            <treasureItemMin>1</treasureItemMin>
+            <treasureItemMax>18000000</treasureItemMax>
+            <treasureItemMask>557842431</treasureItemMask>
 			<notUsed>0</notUsed>
 			<notUsed1>0</notUsed1>
 			<power>94372</power>
@@ -12115,10 +12115,10 @@
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>154350</treasureGoldMin>
 			<treasureGoldMax>297755</treasureGoldMax>
-			<treasureItem>30</treasureItem>
-			<treasureItemMin>154350</treasureItemMin>
-			<treasureItemMax>406030</treasureItemMax>
-			<treasureItemMask>838860799</treasureItemMask>
+			<treasureItem>1</treasureItem>
+            <treasureItemMin>1</treasureItemMin>
+            <treasureItemMax>18000000</treasureItemMax>
+            <treasureItemMask>557842431</treasureItemMask>
 			<notUsed>0</notUsed>
 			<notUsed1>0</notUsed1>
 			<power>225486</power>
@@ -12455,10 +12455,10 @@
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>154350</treasureGoldMin>
 			<treasureGoldMax>297755</treasureGoldMax>
-			<treasureItem>30</treasureItem>
-			<treasureItemMin>154350</treasureItemMin>
-			<treasureItemMax>406030</treasureItemMax>
-			<treasureItemMask>838860799</treasureItemMask>
+			<treasureItem>1</treasureItem>
+            <treasureItemMin>1</treasureItemMin>
+            <treasureItemMax>18000000</treasureItemMax>
+            <treasureItemMask>557842431</treasureItemMask>
 			<notUsed>0</notUsed>
 			<notUsed1>0</notUsed1>
 			<power>217433</power>
@@ -12677,10 +12677,10 @@
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>617400</treasureGoldMin>
 			<treasureGoldMax>1191021</treasureGoldMax>
-			<treasureItem>30</treasureItem>
-			<treasureItemMin>617400</treasureItemMin>
-			<treasureItemMax>1624120</treasureItemMax>
-			<treasureItemMask>707687416</treasureItemMask>
+			<treasureItem>1</treasureItem>
+            <treasureItemMin>1</treasureItemMin>
+            <treasureItemMax>18000000</treasureItemMax>
+            <treasureItemMask>557842431</treasureItemMask>
 			<notUsed>1050000</notUsed>
 			<notUsed1>2010000</notUsed1>
 			<power>69120</power>
@@ -15162,10 +15162,10 @@
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>308700</treasureGoldMin>
 			<treasureGoldMax>1543500</treasureGoldMax>
-			<treasureItem>30</treasureItem>
-			<treasureItemMin>926100</treasureItemMin>
-			<treasureItemMax>3087000</treasureItemMax>
-			<treasureItemMask>713031679</treasureItemMask>
+			<treasureItem>1</treasureItem>
+            <treasureItemMin>1</treasureItemMin>
+            <treasureItemMax>18000000</treasureItemMax>
+            <treasureItemMask>557842431</treasureItemMask>
 			<notUsed>10290</notUsed>
 			<notUsed1>1082747</notUsed1>
 			<power>4530</power>
@@ -15241,10 +15241,10 @@
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>308700</treasureGoldMin>
 			<treasureGoldMax>1543500</treasureGoldMax>
-			<treasureItem>30</treasureItem>
-			<treasureItemMin>926100</treasureItemMin>
-			<treasureItemMax>3087000</treasureItemMax>
-			<treasureItemMask>713031679</treasureItemMask>
+			<treasureItem>1</treasureItem>
+            <treasureItemMin>1</treasureItemMin>
+            <treasureItemMax>18000000</treasureItemMax>
+            <treasureItemMask>557842431</treasureItemMask>
 			<notUsed>10290</notUsed>
 			<notUsed1>1082747</notUsed1>
 			<power>3775</power>
@@ -15320,10 +15320,10 @@
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>926100</treasureGoldMin>
 			<treasureGoldMax>4630500</treasureGoldMax>
-			<treasureItem>30</treasureItem>
-			<treasureItemMin>2778300</treasureItemMin>
-			<treasureItemMax>9261000</treasureItemMax>
-			<treasureItemMask>713031679</treasureItemMask>
+			<treasureItem>1</treasureItem>
+            <treasureItemMin>1</treasureItemMin>
+            <treasureItemMax>18000000</treasureItemMax>
+            <treasureItemMask>557842431</treasureItemMask>
 			<notUsed>20580</notUsed>
 			<notUsed1>2165494</notUsed1>
 			<power>6040</power>
@@ -16923,10 +16923,10 @@
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>617400</treasureGoldMin>
 			<treasureGoldMax>812060</treasureGoldMax>
-			<treasureItem>0</treasureItem>
-			<treasureItemMin>0</treasureItemMin>
-			<treasureItemMax>0</treasureItemMax>
-			<treasureItemMask>708837375</treasureItemMask>
+			<treasureItem>1</treasureItem>
+            <treasureItemMin>1</treasureItemMin>
+            <treasureItemMax>18000000</treasureItemMax>
+            <treasureItemMask>557842431</treasureItemMask>
 			<notUsed>10290</notUsed>
 			<notUsed1>2572500</notUsed1>
 			<power>196937</power>
@@ -19156,10 +19156,10 @@
 			<treasureGold>95</treasureGold>
 			<treasureGoldMin>1000000</treasureGoldMin>
 			<treasureGoldMax>2000000</treasureGoldMax>
-			<treasureItem>-1</treasureItem>
-			<treasureItemMin>-1</treasureItemMin>
-			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>562561023</treasureItemMask>
+			<treasureItem>1</treasureItem>
+            <treasureItemMin>1</treasureItemMin>
+            <treasureItemMax>18000000</treasureItemMax>
+            <treasureItemMask>557842431</treasureItemMask>
 			<notUsed>500</notUsed>
 			<notUsed1>2000</notUsed1>
 			<power>1350</power>
