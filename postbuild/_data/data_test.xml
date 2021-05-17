@@ -9365,10 +9365,10 @@
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
-			<treasureItem>-1</treasureItem>
-			<treasureItemMin>-1</treasureItemMin>
-			<treasureItemMax>-1</treasureItemMax>
-			<treasureItemMask>-1</treasureItemMask>
+			<treasureItem>100</treasureItem>
+			<treasureItemMin>1</treasureItemMin>
+			<treasureItemMax>18000000</treasureItemMax>
+			<treasureItemMask>557842431</treasureItemMask>
 			<notUsed>-1</notUsed>
 			<notUsed1>-1</notUsed1>
 			<power>18</power>
